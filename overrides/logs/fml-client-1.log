@@ -1,0 +1,1229 @@
+[00:08:48] [main/DEBUG] [FML/]: Injecting tracing printstreams for STDOUT/STDERR.
+[00:08:48] [main/INFO] [FML/]: Forge Mod Loader version 12.18.3.2185 for Minecraft 1.10.2 loading
+[00:08:48] [main/INFO] [FML/]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_25, running on Windows 10:amd64:10.0, installed at C:\Users\roxxa\Documents\Curse\Minecraft\Install\runtime\jre-x64\1.8.0_25
+[00:08:48] [main/DEBUG] [FML/]: Java classpath at launch is C:\Users\roxxa\Documents\Curse\Minecraft\Install\libraries\net\minecraftforge\forge\1.10.2-12.18.3.2185\forge-1.10.2-12.18.3.2185.jar;C:\Users\roxxa\Documents\Curse\Minecraft\Install\libraries\net\minecraft\launchwrapper\1.12\launchwrapper-1.12.jar;C:\Users\roxxa\Documents\Curse\Minecraft\Install\libraries\org\ow2\asm\asm-all\5.0.3\asm-all-5.0.3.jar;C:\Users\roxxa\Documents\Curse\Minecraft\Install\libraries\jline\jline\2.13\jline-2.13.jar;C:\Users\roxxa\Documents\Curse\Minecraft\Install\libraries\com\typesafe\akka\akka-actor_2.11\2.3.3\akka-actor_2.11-2.3.3.jar;C:\Users\roxxa\Documents\Curse\Minecraft\Install\libraries\com\typesafe\config\1.2.1\config-1.2.1.jar;C:\Users\roxxa\Documents\Curse\Minecraft\Install\libraries\org\scala-lang\scala-actors-migration_2.11\1.1.0\scala-actors-migration_2.11-1.1.0.jar;C:\Users\roxxa\Documents\Curse\Minecraft\Install\libraries\org\scala-lang\scala-compiler\2.11.1\scala-compiler-2.11.1.jar;C:\Users\roxxa\Documents\Curse\Minecraft\Install\libraries\org\scala-lang\plugins\scala-continuations-library_2.11\1.0.2\scala-continuations-library_2.11-1.0.2.jar;C:\Users\roxxa\Documents\Curse\Minecraft\Install\libraries\org\scala-lang\plugins\scala-continuations-plugin_2.11.1\1.0.2\scala-continuations-plugin_2.11.1-1.0.2.jar;C:\Users\roxxa\Documents\Curse\Minecraft\Install\libraries\org\scala-lang\scala-library\2.11.1\scala-library-2.11.1.jar;C:\Users\roxxa\Documents\Curse\Minecraft\Install\libraries\org\scala-lang\scala-parser-combinators_2.11\1.0.1\scala-parser-combinators_2.11-1.0.1.jar;C:\Users\roxxa\Documents\Curse\Minecraft\Install\libraries\org\scala-lang\scala-reflect\2.11.1\scala-reflect-2.11.1.jar;C:\Users\roxxa\Documents\Curse\Minecraft\Install\libraries\org\scala-lang\scala-swing_2.11\1.0.1\scala-swing_2.11-1.0.1.jar;C:\Users\roxxa\Documents\Curse\Minecraft\Install\libraries\org\scala-lang\scala-xml_2.11\1.0.2\scala-xml_2.11-1.0.2.jar;C:\Users\roxxa\Documents\Curse\Minecraft\Install\libraries\lzma\lzma\0.0.1\lzma-0.0.1.jar;C:\Users\roxxa\Documents\Curse\Minecraft\Install\libraries\net\sf\jopt-simple\jopt-simple\4.6\jopt-simple-4.6.jar;C:\Users\roxxa\Documents\Curse\Minecraft\Install\libraries\java3d\vecmath\1.5.2\vecmath-1.5.2.jar;C:\Users\roxxa\Documents\Curse\Minecraft\Install\libraries\net\sf\trove4j\trove4j\3.0.3\trove4j-3.0.3.jar;C:\Users\roxxa\Documents\Curse\Minecraft\Install\libraries\com\mojang\netty\1.6\netty-1.6.jar;C:\Users\roxxa\Documents\Curse\Minecraft\Install\libraries\oshi-project\oshi-core\1.1\oshi-core-1.1.jar;C:\Users\roxxa\Documents\Curse\Minecraft\Install\libraries\net\java\dev\jna\jna\3.4.0\jna-3.4.0.jar;C:\Users\roxxa\Documents\Curse\Minecraft\Install\libraries\net\java\dev\jna\platform\3.4.0\platform-3.4.0.jar;C:\Users\roxxa\Documents\Curse\Minecraft\Install\libraries\com\ibm\icu\icu4j-core-mojang\51.2\icu4j-core-mojang-51.2.jar;C:\Users\roxxa\Documents\Curse\Minecraft\Install\libraries\net\sf\jopt-simple\jopt-simple\4.6\jopt-simple-4.6.jar;C:\Users\roxxa\Documents\Curse\Minecraft\Install\libraries\com\paulscode\codecjorbis\20101023\codecjorbis-20101023.jar;C:\Users\roxxa\Documents\Curse\Minecraft\Install\libraries\com\paulscode\codecwav\20101023\codecwav-20101023.jar;C:\Users\roxxa\Documents\Curse\Minecraft\Install\libraries\com\paulscode\libraryjavasound\20101123\libraryjavasound-20101123.jar;C:\Users\roxxa\Documents\Curse\Minecraft\Install\libraries\com\paulscode\librarylwjglopenal\20100824\librarylwjglopenal-20100824.jar;C:\Users\roxxa\Documents\Curse\Minecraft\Install\libraries\com\paulscode\soundsystem\20120107\soundsystem-20120107.jar;C:\Users\roxxa\Documents\Curse\Minecraft\Install\libraries\io\netty\netty-all\4.0.23.Final\netty-all-4.0.23.Final.jar;C:\Users\roxxa\Documents\Curse\Minecraft\Install\libraries\com\google\guava\guava\17.0\guava-17.0.jar;C:\Users\roxxa\Documents\Curse\Minecraft\Install\libraries\org\apache\commons\commons-lang3\3.3.2\commons-lang3-3.3.2.jar;C:\Users\roxxa\Documents\Curse\Minecraft\Install\libraries\commons-io\commons-io\2.4\commons-io-2.4.jar;C:\Users\roxxa\Documents\Curse\Minecraft\Install\libraries\commons-codec\commons-codec\1.9\commons-codec-1.9.jar;C:\Users\roxxa\Documents\Curse\Minecraft\Install\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar;C:\Users\roxxa\Documents\Curse\Minecraft\Install\libraries\net\java\jutils\jutils\1.0.0\jutils-1.0.0.jar;C:\Users\roxxa\Documents\Curse\Minecraft\Install\libraries\com\google\code\gson\gson\2.2.4\gson-2.2.4.jar;C:\Users\roxxa\Documents\Curse\Minecraft\Install\libraries\com\mojang\authlib\1.5.22\authlib-1.5.22.jar;C:\Users\roxxa\Documents\Curse\Minecraft\Install\libraries\com\mojang\realms\1.9.8\realms-1.9.8.jar;C:\Users\roxxa\Documents\Curse\Minecraft\Install\libraries\org\apache\commons\commons-compress\1.8.1\commons-compress-1.8.1.jar;C:\Users\roxxa\Documents\Curse\Minecraft\Install\libraries\org\apache\httpcomponents\httpclient\4.3.3\httpclient-4.3.3.jar;C:\Users\roxxa\Documents\Curse\Minecraft\Install\libraries\commons-logging\commons-logging\1.1.3\commons-logging-1.1.3.jar;C:\Users\roxxa\Documents\Curse\Minecraft\Install\libraries\org\apache\httpcomponents\httpcore\4.3.2\httpcore-4.3.2.jar;C:\Users\roxxa\Documents\Curse\Minecraft\Install\libraries\it\unimi\dsi\fastutil\7.0.12_mojang\fastutil-7.0.12_mojang.jar;C:\Users\roxxa\Documents\Curse\Minecraft\Install\libraries\org\apache\logging\log4j\log4j-api\2.0-beta9\log4j-api-2.0-beta9.jar;C:\Users\roxxa\Documents\Curse\Minecraft\Install\libraries\org\apache\logging\log4j\log4j-core\2.0-beta9\log4j-core-2.0-beta9.jar;C:\Users\roxxa\Documents\Curse\Minecraft\Install\libraries\org\lwjgl\lwjgl\lwjgl\2.9.4-nightly-20150209\lwjgl-2.9.4-nightly-20150209.jar;C:\Users\roxxa\Documents\Curse\Minecraft\Install\libraries\org\lwjgl\lwjgl\lwjgl_util\2.9.4-nightly-20150209\lwjgl_util-2.9.4-nightly-20150209.jar;C:\Users\roxxa\Documents\Curse\Minecraft\Install\versions\1.10.2\1.10.2.jar
+[00:08:48] [main/DEBUG] [FML/]: Java library path at launch is C:\Users\roxxa\Documents\Curse\Minecraft\Install\versions\forge-12.18.3.2185\forge-12.18.3.2185-natives-68185051148597
+[00:08:48] [main/DEBUG] [FML/]: Enabling runtime deobfuscation
+[00:08:48] [main/DEBUG] [FML/]: Instantiating coremod class FMLCorePlugin
+[00:08:48] [main/DEBUG] [FML/]: Added access transformer class net.minecraftforge.fml.common.asm.transformers.AccessTransformer to enqueued access transformers
+[00:08:48] [main/DEBUG] [FML/]: Enqueued coremod FMLCorePlugin
+[00:08:48] [main/DEBUG] [FML/]: Instantiating coremod class FMLForgePlugin
+[00:08:48] [main/DEBUG] [FML/]: Enqueued coremod FMLForgePlugin
+[00:08:48] [main/DEBUG] [FML/]: All fundamental core mods are successfully located
+[00:08:48] [main/DEBUG] [FML/]: Attempting to load commandline specified mods, relative to C:\Users\roxxa\Documents\Curse\Minecraft\Instances\Hypothermia
+[00:08:48] [main/DEBUG] [FML/]: Discovering coremods
+[00:08:48] [main/DEBUG] [FML/]: Examining for coremod candidacy ActuallyAdditions-1.10.2-r90.jar
+[00:08:48] [main/DEBUG] [FML/]: Not found coremod data in ActuallyAdditions-1.10.2-r90.jar
+[00:08:48] [main/DEBUG] [FML/]: Examining for coremod candidacy AppleCore-mc1.10.2-2.1.0.jar
+[00:08:48] [main/TRACE] [FML/]: Found FMLCorePluginContainsFMLMod marker in AppleCore-mc1.10.2-2.1.0.jar, it will be examined later for regular @Mod instances
+[00:08:48] [main/DEBUG] [FML/]: Instantiating coremod class AppleCore
+[00:08:48] [main/DEBUG] [FML/]: The coremod squeek.applecore.AppleCore requested minecraft version 1.10.2 and minecraft is 1.10.2. It will be loaded.
+[00:08:48] [main/DEBUG] [FML/]: Enqueued coremod AppleCore
+[00:08:48] [main/DEBUG] [FML/]: Examining for coremod candidacy BiomeTweaker-1.10.2-2.1.230.jar
+[00:08:48] [main/TRACE] [FML/]: Found FMLCorePluginContainsFMLMod marker in BiomeTweaker-1.10.2-2.1.230.jar, it will be examined later for regular @Mod instances
+[00:08:48] [main/DEBUG] [FML/]: Instantiating coremod class BiomeTweakerCore
+[00:08:48] [main/TRACE] [FML/]: coremod named BiomeTweakerCore is loading
+[00:08:48] [main/DEBUG] [FML/]: The coremod me.superckl.biometweaker.core.BiomeTweakerCore requested minecraft version 1.10.2 and minecraft is 1.10.2. It will be loaded.
+[00:08:48] [main/DEBUG] [FML/]: Enqueued coremod BiomeTweakerCore
+[00:08:48] [main/DEBUG] [FML/]: Examining for coremod candidacy Bookshelf-1.10.2-1.4.3.339.jar
+[00:08:48] [main/TRACE] [FML/]: Found FMLCorePluginContainsFMLMod marker in Bookshelf-1.10.2-1.4.3.339.jar, it will be examined later for regular @Mod instances
+[00:08:48] [main/DEBUG] [FML/]: Instantiating coremod class BookshelfLoadingPlugin
+[00:08:48] [main/DEBUG] [FML/]: The coremod net.darkhax.bookshelf.asm.BookshelfLoadingPlugin requested minecraft version 1.10.2 and minecraft is 1.10.2. It will be loaded.
+[00:08:48] [main/DEBUG] [FML/]: Enqueued coremod BookshelfLoadingPlugin
+[00:08:48] [main/DEBUG] [FML/]: Examining for coremod candidacy compatlayer-1.10-0.1.3.jar
+[00:08:48] [main/DEBUG] [FML/]: Not found coremod data in compatlayer-1.10-0.1.3.jar
+[00:08:48] [main/DEBUG] [FML/]: Examining for coremod candidacy CookingForBlockheads_1.10.2-4.2.26.jar
+[00:08:48] [main/DEBUG] [FML/]: Not found coremod data in CookingForBlockheads_1.10.2-4.2.26.jar
+[00:08:48] [main/DEBUG] [FML/]: Examining for coremod candidacy CraftingTweaks_1.10.2-6.1.16.jar
+[00:08:48] [main/DEBUG] [FML/]: Not found coremod data in CraftingTweaks_1.10.2-6.1.16.jar
+[00:08:48] [main/DEBUG] [FML/]: Examining for coremod candidacy CraftTweaker-1.10.2-3.0.15.jar
+[00:08:48] [main/DEBUG] [FML/]: Not found coremod data in CraftTweaker-1.10.2-3.0.15.jar
+[00:08:48] [main/DEBUG] [FML/]: Examining for coremod candidacy cyberware-1.9.4-1.10.2-beta-0.2.5.jar
+[00:08:48] [main/DEBUG] [FML/]: Not found coremod data in cyberware-1.9.4-1.10.2-beta-0.2.5.jar
+[00:08:48] [main/DEBUG] [FML/]: Examining for coremod candidacy Cyclic-1.10.2-1.9.1.jar
+[00:08:48] [main/DEBUG] [FML/]: Not found coremod data in Cyclic-1.10.2-1.9.1.jar
+[00:08:48] [main/DEBUG] [FML/]: Examining for coremod candidacy DarkUtilities-1.10.2-1.1.6.99.jar
+[00:08:48] [main/DEBUG] [FML/]: Not found coremod data in DarkUtilities-1.10.2-1.1.6.99.jar
+[00:08:48] [main/DEBUG] [FML/]: Examining for coremod candidacy EnderCore-1.10.2-0.4.1.60-beta.jar
+[00:08:48] [main/TRACE] [FML/]: Found FMLCorePluginContainsFMLMod marker in EnderCore-1.10.2-0.4.1.60-beta.jar, it will be examined later for regular @Mod instances
+[00:08:48] [main/DEBUG] [FML/]: Instantiating coremod class EnderCorePlugin
+[00:08:48] [main/DEBUG] [FML/]: The coremod com.enderio.core.common.transform.EnderCorePlugin requested minecraft version 1.10.2 and minecraft is 1.10.2. It will be loaded.
+[00:08:48] [main/DEBUG] [FML/]: Enqueued coremod EnderCorePlugin
+[00:08:48] [main/DEBUG] [FML/]: Examining for coremod candidacy EnderIO-1.10.2-3.0.1.139_beta.jar
+[00:08:48] [main/DEBUG] [FML/]: Not found coremod data in EnderIO-1.10.2-3.0.1.139_beta.jar
+[00:08:48] [main/DEBUG] [FML/]: Examining for coremod candidacy environmentaltech-1.10.2-0.10.5h.jar
+[00:08:48] [main/DEBUG] [FML/]: Not found coremod data in environmentaltech-1.10.2-0.10.5h.jar
+[00:08:48] [main/DEBUG] [FML/]: Examining for coremod candidacy ExCompressum_1.10.2-2.0.56.jar
+[00:08:48] [main/DEBUG] [FML/]: Not found coremod data in ExCompressum_1.10.2-2.0.56.jar
+[00:08:48] [main/DEBUG] [FML/]: Examining for coremod candidacy exnihiloadscensio-1.10.2-0.1.5.jar
+[00:08:48] [main/DEBUG] [FML/]: Not found coremod data in exnihiloadscensio-1.10.2-0.1.5.jar
+[00:08:48] [main/DEBUG] [FML/]: Examining for coremod candidacy extrautils2-1.10.2-1.1.2.jar
+[00:08:48] [main/DEBUG] [FML/]: Not found coremod data in extrautils2-1.10.2-1.1.2.jar
+[00:08:48] [main/DEBUG] [FML/]: Examining for coremod candidacy ExtremeReactors-1.10.2-0.4.5.21.jar
+[00:08:48] [main/DEBUG] [FML/]: Not found coremod data in ExtremeReactors-1.10.2-0.4.5.21.jar
+[00:08:48] [main/DEBUG] [FML/]: Examining for coremod candidacy FastLeafDecay-v11.jar
+[00:08:48] [main/DEBUG] [FML/]: Not found coremod data in FastLeafDecay-v11.jar
+[00:08:48] [main/DEBUG] [FML/]: Examining for coremod candidacy Gyth-1.10.2-2.0.0.18.jar
+[00:08:48] [main/DEBUG] [FML/]: Not found coremod data in Gyth-1.10.2-2.0.0.18.jar
+[00:08:48] [main/DEBUG] [FML/]: Examining for coremod candidacy HammerCore_1.10.2-1.1.8.jar
+[00:08:48] [main/DEBUG] [FML/]: Not found coremod data in HammerCore_1.10.2-1.1.8.jar
+[00:08:48] [main/DEBUG] [FML/]: Examining for coremod candidacy iChunUtil-1.10.2-6.1.0.jar
+[00:08:48] [main/DEBUG] [FML/]: Not found coremod data in iChunUtil-1.10.2-6.1.0.jar
+[00:08:48] [main/DEBUG] [FML/]: Examining for coremod candidacy industrialcraft-2-2.6.128-ex110.jar
+[00:08:48] [main/TRACE] [FML/]: Found FMLCorePluginContainsFMLMod marker in industrialcraft-2-2.6.128-ex110.jar, it will be examined later for regular @Mod instances
+[00:08:48] [main/DEBUG] [FML/]: Instantiating coremod class IC2core
+[00:08:48] [main/WARN] [FML/]: The coremod ic2.core.coremod.IC2core does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[00:08:48] [main/DEBUG] [FML/]: Enqueued coremod IC2core
+[00:08:48] [main/DEBUG] [FML/]: Examining for coremod candidacy InventoryTweaks-1.62-dev-66.jar
+[00:08:48] [main/TRACE] [FML/]: Found FMLCorePluginContainsFMLMod marker in InventoryTweaks-1.62-dev-66.jar, it will be examined later for regular @Mod instances
+[00:08:48] [main/DEBUG] [FML/]: Instantiating coremod class FMLPlugin
+[00:08:48] [main/WARN] [FML/]: The coremod invtweaks.forge.asm.FMLPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[00:08:48] [main/DEBUG] [FML/]: Added access transformer class invtweaks.forge.asm.ITAccessTransformer to enqueued access transformers
+[00:08:48] [main/DEBUG] [FML/]: Enqueued coremod FMLPlugin
+[00:08:48] [main/DEBUG] [FML/]: Examining for coremod candidacy IronBackpacks-1.10.2-2.2.19.jar
+[00:08:48] [main/DEBUG] [FML/]: Not found coremod data in IronBackpacks-1.10.2-2.2.19.jar
+[00:08:48] [main/DEBUG] [FML/]: Examining for coremod candidacy ironchest-1.10.2-7.0.11.797.jar
+[00:08:48] [main/DEBUG] [FML/]: Not found coremod data in ironchest-1.10.2-7.0.11.797.jar
+[00:08:48] [main/DEBUG] [FML/]: Examining for coremod candidacy jei_1.10.2-3.13.6.389.jar
+[00:08:48] [main/DEBUG] [FML/]: Not found coremod data in jei_1.10.2-3.13.6.389.jar
+[00:08:48] [main/DEBUG] [FML/]: Examining for coremod candidacy Mantle-1.10.2-1.1.3.jar
+[00:08:48] [main/DEBUG] [FML/]: Not found coremod data in Mantle-1.10.2-1.1.3.jar
+[00:08:48] [main/DEBUG] [FML/]: Examining for coremod candidacy mcjtylib-1.1x-2.3.1.jar
+[00:08:48] [main/DEBUG] [FML/]: Not found coremod data in mcjtylib-1.1x-2.3.1.jar
+[00:08:48] [main/DEBUG] [FML/]: Examining for coremod candidacy MCMultiPart-1.3.0-universal.jar
+[00:08:48] [main/DEBUG] [FML/]: Not found coremod data in MCMultiPart-1.3.0-universal.jar
+[00:08:48] [main/DEBUG] [FML/]: Examining for coremod candidacy MobDismemberment-1.10.2-6.0.0.jar
+[00:08:48] [main/DEBUG] [FML/]: Not found coremod data in MobDismemberment-1.10.2-6.0.0.jar
+[00:08:48] [main/DEBUG] [FML/]: Examining for coremod candidacy MobGrindingUtils-0.1.8.8.jar
+[00:08:48] [main/DEBUG] [FML/]: Not found coremod data in MobGrindingUtils-0.1.8.8.jar
+[00:08:48] [main/DEBUG] [FML/]: Examining for coremod candidacy ModTweaker2-2.0.7.jar
+[00:08:48] [main/DEBUG] [FML/]: Not found coremod data in ModTweaker2-2.0.7.jar
+[00:08:48] [main/DEBUG] [FML/]: Examining for coremod candidacy MouseTweaks-2.6.4-mc1.10.2.jar
+[00:08:48] [main/DEBUG] [FML/]: Not found coremod data in MouseTweaks-2.6.4-mc1.10.2.jar
+[00:08:48] [main/DEBUG] [FML/]: Examining for coremod candidacy MTLib-1.0.0.jar
+[00:08:48] [main/DEBUG] [FML/]: Not found coremod data in MTLib-1.0.0.jar
+[00:08:48] [main/DEBUG] [FML/]: Examining for coremod candidacy openmodularturrets-1.10.2-3.0.0-42.jar
+[00:08:48] [main/DEBUG] [FML/]: Not found coremod data in openmodularturrets-1.10.2-3.0.0-42.jar
+[00:08:48] [main/DEBUG] [FML/]: Examining for coremod candidacy orespawn-2.0.0.10-1.10.2.jar
+[00:08:48] [main/DEBUG] [FML/]: Not found coremod data in orespawn-2.0.0.10-1.10.2.jar
+[00:08:48] [main/DEBUG] [FML/]: Examining for coremod candidacy Pam's HarvestCraft 1.9.4-1.10.2h.jar
+[00:08:48] [main/DEBUG] [FML/]: Not found coremod data in Pam's HarvestCraft 1.9.4-1.10.2h.jar
+[00:08:48] [main/DEBUG] [FML/]: Examining for coremod candidacy refinedstorage-1.2.11.jar
+[00:08:48] [main/DEBUG] [FML/]: Not found coremod data in refinedstorage-1.2.11.jar
+[00:08:48] [main/DEBUG] [FML/]: Examining for coremod candidacy Reliquary-1.10.2-1.3.3.585.jar
+[00:08:48] [main/DEBUG] [FML/]: Not found coremod data in Reliquary-1.10.2-1.3.3.585.jar
+[00:08:48] [main/DEBUG] [FML/]: Examining for coremod candidacy rftools-1.1x-5.70.jar
+[00:08:48] [main/DEBUG] [FML/]: Not found coremod data in rftools-1.1x-5.70.jar
+[00:08:48] [main/DEBUG] [FML/]: Examining for coremod candidacy rftoolsctrl-1.1x-1.6.3.jar
+[00:08:48] [main/DEBUG] [FML/]: Not found coremod data in rftoolsctrl-1.1x-1.6.3.jar
+[00:08:48] [main/DEBUG] [FML/]: Examining for coremod candidacy rftoolsdim-1.1x-4.50.jar
+[00:08:48] [main/DEBUG] [FML/]: Not found coremod data in rftoolsdim-1.1x-4.50.jar
+[00:08:48] [main/DEBUG] [FML/]: Examining for coremod candidacy roots-0.208.jar
+[00:08:48] [main/DEBUG] [FML/]: Not found coremod data in roots-0.208.jar
+[00:08:48] [main/DEBUG] [FML/]: Examining for coremod candidacy SimpleAchievements-MC1.9.4-1.2.2-26.jar
+[00:08:48] [main/DEBUG] [FML/]: Not found coremod data in SimpleAchievements-MC1.9.4-1.2.2-26.jar
+[00:08:48] [main/DEBUG] [FML/]: Examining for coremod candidacy SolarFluxReborn_1.10.2-1.6r.jar
+[00:08:48] [main/TRACE] [FML/]: Found FMLCorePluginContainsFMLMod marker in SolarFluxReborn_1.10.2-1.6r.jar, it will be examined later for regular @Mod instances
+[00:08:48] [main/DEBUG] [FML/]: Instantiating coremod class SFRCore
+[00:08:48] [main/DEBUG] [FML/]: The coremod com.mrdimka.solarfluxreborn.core.SFRCore requested minecraft version 1.10.2 and minecraft is 1.10.2. It will be loaded.
+[00:08:48] [main/DEBUG] [FML/]: Added access transformer class com.mrdimka.solarfluxreborn.core.SFRSerializedTransformer to enqueued access transformers
+[00:08:48] [main/DEBUG] [FML/]: Enqueued coremod SFRCore
+[00:08:48] [main/DEBUG] [FML/]: Examining for coremod candidacy SpiceOfLife-mc1.9.4-1.3.6.jar
+[00:08:48] [main/DEBUG] [FML/]: Not found coremod data in SpiceOfLife-mc1.9.4-1.3.6.jar
+[00:08:48] [main/DEBUG] [FML/]: Examining for coremod candidacy TConstruct-1.10.2-2.6.1.jar
+[00:08:48] [main/DEBUG] [FML/]: Not found coremod data in TConstruct-1.10.2-2.6.1.jar
+[00:08:48] [main/DEBUG] [FML/]: Examining for coremod candidacy theoneprobe-1.10-1.3.3.jar
+[00:08:48] [main/DEBUG] [FML/]: Not found coremod data in theoneprobe-1.10-1.3.3.jar
+[00:08:48] [main/DEBUG] [FML/]: Examining for coremod candidacy TombManyGraves-1.10.2-2.1.13.jar
+[00:08:48] [main/DEBUG] [FML/]: Not found coremod data in TombManyGraves-1.10.2-2.1.13.jar
+[00:08:48] [main/DEBUG] [FML/]: Examining for coremod candidacy ToughAsNails-1.9.4-1.0.11.jar
+[00:08:48] [main/TRACE] [FML/]: Found FMLCorePluginContainsFMLMod marker in ToughAsNails-1.9.4-1.0.11.jar, it will be examined later for regular @Mod instances
+[00:08:48] [main/DEBUG] [FML/]: Instantiating coremod class TANLoadingPlugin
+[00:08:48] [main/WARN] [FML/]: The coremod toughasnails.asm.TANLoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[00:08:48] [main/DEBUG] [FML/]: Enqueued coremod TANLoadingPlugin
+[00:08:48] [main/DEBUG] [FML/]: Examining for coremod candidacy valkyrielib-1.10.2-0.10.5e.jar
+[00:08:48] [main/DEBUG] [FML/]: Not found coremod data in valkyrielib-1.10.2-0.10.5e.jar
+[00:08:48] [main/DEBUG] [FML/]: Examining for coremod candidacy WIRED-1.3.3.jar
+[00:08:48] [main/DEBUG] [FML/]: Not found coremod data in WIRED-1.3.3.jar
+[00:08:48] [main/DEBUG] [FML/]: Examining for coremod candidacy zerocore-1.10.2-0.0.8.2.jar
+[00:08:48] [main/DEBUG] [FML/]: Not found coremod data in zerocore-1.10.2-0.0.8.2.jar
+[00:08:48] [main/DEBUG] [FML/]: Examining for coremod candidacy zombieawareness-1.10.2-1.20.jar
+[00:08:48] [main/DEBUG] [FML/]: Not found coremod data in zombieawareness-1.10.2-1.20.jar
+[00:08:48] [main/INFO] [LaunchWrapper/]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[00:08:48] [main/INFO] [LaunchWrapper/]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[00:08:48] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[00:08:48] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[00:08:48] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[00:08:48] [main/DEBUG] [FML/]: Injecting coremod FMLCorePlugin {net.minecraftforge.fml.relauncher.FMLCorePlugin} class transformers
+[00:08:48] [main/TRACE] [FML/]: Registering transformer net.minecraftforge.fml.common.asm.transformers.BlamingTransformer
+[00:08:48] [main/TRACE] [FML/]: Registering transformer net.minecraftforge.fml.common.asm.transformers.SideTransformer
+[00:08:48] [main/TRACE] [FML/]: Registering transformer net.minecraftforge.fml.common.asm.transformers.EventSubscriptionTransformer
+[00:08:48] [main/TRACE] [FML/]: Registering transformer net.minecraftforge.fml.common.asm.transformers.EventSubscriberTransformer
+[00:08:48] [main/DEBUG] [FML/]: Injection complete
+[00:08:48] [main/DEBUG] [FML/]: Running coremod plugin for FMLCorePlugin {net.minecraftforge.fml.relauncher.FMLCorePlugin}
+[00:08:48] [main/DEBUG] [FML/]: Running coremod plugin FMLCorePlugin
+[00:08:49] [main/DEBUG] [FML/]: Read 914 binary patches
+[00:08:49] [main/DEBUG] [FML/]: Loading deobfuscation resource /deobfuscation_data-1.10.2.lzma with 32371 records
+[00:08:50] [main/INFO] [FML/]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[00:08:50] [main/INFO] [FML/]: Found valid fingerprint for Minecraft. Certificate fingerprint cd99959656f753dc28d863b46769f7f8fbaefcfc
+[00:08:50] [main/DEBUG] [FML/]: Coremod plugin class FMLCorePlugin run successfully
+[00:08:50] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[00:08:50] [main/DEBUG] [FML/]: Injecting coremod FMLForgePlugin {net.minecraftforge.classloading.FMLForgePlugin} class transformers
+[00:08:50] [main/DEBUG] [FML/]: Injection complete
+[00:08:50] [main/DEBUG] [FML/]: Running coremod plugin for FMLForgePlugin {net.minecraftforge.classloading.FMLForgePlugin}
+[00:08:50] [main/DEBUG] [FML/]: Running coremod plugin FMLForgePlugin
+[00:08:50] [main/DEBUG] [FML/]: Coremod plugin class FMLForgePlugin run successfully
+[00:08:50] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[00:08:50] [main/DEBUG] [FML/]: Injecting coremod IC2core {ic2.core.coremod.IC2core} class transformers
+[00:08:50] [main/DEBUG] [FML/]: Injection complete
+[00:08:50] [main/DEBUG] [FML/]: Running coremod plugin for IC2core {ic2.core.coremod.IC2core}
+[00:08:50] [main/DEBUG] [FML/]: Running coremod plugin IC2core
+[00:08:50] [main/INFO] [IC2-core/]: Extracted library EJML-core-0.26.jar.
+[00:08:50] [main/INFO] [IC2-core/]: Loaded library EJML-core-0.26.jar.
+[00:08:50] [main/DEBUG] [FML/]: Coremod plugin class IC2core run successfully
+[00:08:50] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[00:08:50] [main/DEBUG] [FML/]: Injecting coremod FMLPlugin {invtweaks.forge.asm.FMLPlugin} class transformers
+[00:08:50] [main/TRACE] [FML/]: Registering transformer invtweaks.forge.asm.ContainerTransformer
+[00:08:50] [main/DEBUG] [FML/]: Injection complete
+[00:08:50] [main/DEBUG] [FML/]: Running coremod plugin for FMLPlugin {invtweaks.forge.asm.FMLPlugin}
+[00:08:50] [main/DEBUG] [FML/]: Running coremod plugin FMLPlugin
+[00:08:50] [main/DEBUG] [FML/]: Coremod plugin class FMLPlugin run successfully
+[00:08:50] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[00:08:50] [main/DEBUG] [FML/]: Injecting coremod SFRCore {com.mrdimka.solarfluxreborn.core.SFRCore} class transformers
+[00:08:50] [main/TRACE] [FML/]: Registering transformer com.mrdimka.solarfluxreborn.core.SFRSerializedTransformer
+[00:08:50] [main/DEBUG] [FML/]: Injection complete
+[00:08:50] [main/DEBUG] [FML/]: Running coremod plugin for SFRCore {com.mrdimka.solarfluxreborn.core.SFRCore}
+[00:08:50] [main/DEBUG] [FML/]: Running coremod plugin SFRCore
+[00:08:50] [main/DEBUG] [FML/]: Coremod plugin class SFRCore run successfully
+[00:08:50] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[00:08:50] [main/DEBUG] [FML/]: Injecting coremod TANLoadingPlugin {toughasnails.asm.TANLoadingPlugin} class transformers
+[00:08:50] [main/TRACE] [FML/]: Registering transformer toughasnails.asm.transformer.BlockCropsTransformer
+[00:08:50] [main/TRACE] [FML/]: Registering transformer toughasnails.asm.transformer.EntityRendererTransformer
+[00:08:50] [main/TRACE] [FML/]: Registering transformer toughasnails.asm.transformer.WorldTransformer
+[00:08:50] [main/DEBUG] [FML/]: Injection complete
+[00:08:50] [main/DEBUG] [FML/]: Running coremod plugin for TANLoadingPlugin {toughasnails.asm.TANLoadingPlugin}
+[00:08:50] [main/DEBUG] [FML/]: Running coremod plugin TANLoadingPlugin
+[00:08:50] [main/DEBUG] [FML/]: Coremod plugin class TANLoadingPlugin run successfully
+[00:08:50] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[00:08:50] [main/DEBUG] [FML/]: Loaded 195 rules from AccessTransformer config file forge_at.cfg
+[00:08:50] [main/DEBUG] [FML/]: Loaded 10 rules from AccessTransformer config file invtweaks_at.cfg
+[00:08:50] [main/DEBUG] [FML/]: Loaded 33 rules from AccessTransformer mod jar file C:\Users\roxxa\Documents\Curse\Minecraft\Instances\Hypothermia\mods\TConstruct-1.10.2-2.6.1.jar!META-INF/tconstruct_at.cfg
+
+[00:08:50] [main/DEBUG] [FML/]: Loaded 60 rules from AccessTransformer mod jar file C:\Users\roxxa\Documents\Curse\Minecraft\Instances\Hypothermia\mods\extrautils2-1.10.2-1.1.2.jar!META-INF/extrautils2_at.cfg
+
+[00:08:50] [main/DEBUG] [FML/]: Loaded 6 rules from AccessTransformer mod jar file C:\Users\roxxa\Documents\Curse\Minecraft\Instances\Hypothermia\mods\CraftingTweaks_1.10.2-6.1.16.jar!META-INF/craftingtweaks_at.cfg
+
+[00:08:50] [main/DEBUG] [FML/]: Loaded 66 rules from AccessTransformer mod jar file C:\Users\roxxa\Documents\Curse\Minecraft\Instances\Hypothermia\mods\iChunUtil-1.10.2-6.1.0.jar!META-INF/iChunUtil_at.cfg
+
+[00:08:50] [main/DEBUG] [FML/]: Loaded 8 rules from AccessTransformer mod jar file C:\Users\roxxa\Documents\Curse\Minecraft\Instances\Hypothermia\mods\Mantle-1.10.2-1.1.3.jar!META-INF/mantle_at.cfg
+
+[00:08:50] [main/DEBUG] [FML/]: Loaded 2 rules from AccessTransformer mod jar file C:\Users\roxxa\Documents\Curse\Minecraft\Instances\Hypothermia\mods\CookingForBlockheads_1.10.2-4.2.26.jar!META-INF/cookingforblockheads_at.cfg
+
+[00:08:50] [main/DEBUG] [FML/]: Loaded 6 rules from AccessTransformer mod jar file C:\Users\roxxa\Documents\Curse\Minecraft\Instances\Hypothermia\mods\ToughAsNails-1.9.4-1.0.11.jar!META-INF/toughasnails_at.cfg
+
+[00:08:50] [main/DEBUG] [FML/]: Loaded 71 rules from AccessTransformer mod jar file C:\Users\roxxa\Documents\Curse\Minecraft\Instances\Hypothermia\mods\Bookshelf-1.10.2-1.4.3.339.jar!META-INF/bookshelf_at.cfg
+
+[00:08:50] [main/DEBUG] [FML/]: Loaded 2 rules from AccessTransformer mod jar file C:\Users\roxxa\Documents\Curse\Minecraft\Instances\Hypothermia\mods\theoneprobe-1.10-1.3.3.jar!META-INF/top_at.cfg
+
+[00:08:50] [main/DEBUG] [FML/]: Loaded 4 rules from AccessTransformer mod jar file C:\Users\roxxa\Documents\Curse\Minecraft\Instances\Hypothermia\mods\rftoolsdim-1.1x-4.50.jar!META-INF/rftoolsdim_at.cfg
+
+[00:08:50] [main/DEBUG] [FML/]: Loaded 13 rules from AccessTransformer mod jar file C:\Users\roxxa\Documents\Curse\Minecraft\Instances\Hypothermia\mods\BiomeTweaker-1.10.2-2.1.230.jar!META-INF/biometweaker_at.cfg
+
+[00:08:50] [main/DEBUG] [FML/]: Loaded 7 rules from AccessTransformer mod jar file C:\Users\roxxa\Documents\Curse\Minecraft\Instances\Hypothermia\mods\jei_1.10.2-3.13.6.389.jar!META-INF/jei_at.cfg
+
+[00:08:50] [main/DEBUG] [FML/]: Loaded 8 rules from AccessTransformer mod jar file C:\Users\roxxa\Documents\Curse\Minecraft\Instances\Hypothermia\mods\rftools-1.1x-5.70.jar!META-INF/rftools_at.cfg
+
+[00:08:50] [main/DEBUG] [FML/]: Validating minecraft
+[00:08:50] [main/DEBUG] [FML/]: Minecraft validated, launching...
+[00:08:50] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[00:08:50] [main/DEBUG] [FML/]: Injecting coremod BiomeTweakerCore {me.superckl.biometweaker.core.BiomeTweakerCore} class transformers
+[00:08:50] [main/TRACE] [FML/]: Registering transformer me.superckl.biometweaker.core.BiomeTweakerASMTransformer
+[00:08:50] [main/DEBUG] [FML/]: Injection complete
+[00:08:50] [main/DEBUG] [FML/]: Running coremod plugin for BiomeTweakerCore {me.superckl.biometweaker.core.BiomeTweakerCore}
+[00:08:50] [main/DEBUG] [FML/]: Running coremod plugin BiomeTweakerCore
+[00:08:50] [main/INFO] [BiomeTweakerCore/]: Beginning early config parsing...
+[00:08:50] [main/DEBUG] [BiomeTweakerCore/]: We are operating in C:\Users\roxxa\Documents\Curse\Minecraft\Instances\Hypothermia\config\BiomeTweaker
+[00:08:50] [main/INFO] [BiomeTweakerCore/]: Finished config parsing.
+[00:08:50] [main/DEBUG] [FML/]: Coremod plugin class BiomeTweakerCore run successfully
+[00:08:50] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[00:08:50] [main/DEBUG] [FML/]: Injecting coremod BookshelfLoadingPlugin {net.darkhax.bookshelf.asm.BookshelfLoadingPlugin} class transformers
+[00:08:50] [main/TRACE] [FML/]: Registering transformer net.darkhax.bookshelf.asm.BookshelfTransformerManager
+[00:08:50] [main/DEBUG] [FML/]: Injection complete
+[00:08:50] [main/DEBUG] [FML/]: Running coremod plugin for BookshelfLoadingPlugin {net.darkhax.bookshelf.asm.BookshelfLoadingPlugin}
+[00:08:50] [main/DEBUG] [FML/]: Running coremod plugin BookshelfLoadingPlugin
+[00:08:50] [main/DEBUG] [FML/]: Coremod plugin class BookshelfLoadingPlugin run successfully
+[00:08:50] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[00:08:50] [main/DEBUG] [FML/]: Injecting coremod AppleCore {squeek.applecore.AppleCore} class transformers
+[00:08:50] [main/TRACE] [FML/]: Registering transformer squeek.applecore.asm.TransformerModuleHandler
+[00:08:50] [main/DEBUG] [FML/]: Injection complete
+[00:08:50] [main/DEBUG] [FML/]: Running coremod plugin for AppleCore {squeek.applecore.AppleCore}
+[00:08:50] [main/DEBUG] [FML/]: Running coremod plugin AppleCore
+[00:08:50] [main/DEBUG] [FML/]: Coremod plugin class AppleCore run successfully
+[00:08:50] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[00:08:50] [main/DEBUG] [FML/]: Injecting coremod EnderCorePlugin {com.enderio.core.common.transform.EnderCorePlugin} class transformers
+[00:08:50] [main/TRACE] [FML/]: Registering transformer com.enderio.core.common.transform.EnderCoreTransformer
+[00:08:50] [main/DEBUG] [FML/]: Injection complete
+[00:08:50] [main/DEBUG] [FML/]: Running coremod plugin for EnderCorePlugin {com.enderio.core.common.transform.EnderCorePlugin}
+[00:08:50] [main/DEBUG] [FML/]: Running coremod plugin EnderCorePlugin
+[00:08:50] [main/DEBUG] [FML/]: Coremod plugin class EnderCorePlugin run successfully
+[00:08:50] [main/INFO] [LaunchWrapper/]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[00:08:50] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[00:08:50] [main/INFO] [LaunchWrapper/]: Launching wrapped minecraft {net.minecraft.client.main.Main}
+[00:08:50] [main/ERROR] [ToughAsNails Transformer/]: Unexpected hash e55fcbec230810b3a6f0f61bc71f52b3 detected for class World. Crashes or bugs may occur!
+[00:08:50] [main/INFO] [EnderCore/]: Transforming net.minecraft.entity.player.EntityPlayer finished, added func_184613_cA() overriding EntityLivingBase
+[00:08:51] [main/INFO] [STDOUT/]: [net.minecraft.client.main.Main:main:56]: Completely ignored arguments: [--nativeLauncherVersion, 307]
+[00:08:51] [Client thread/INFO] [BiomeTweakerCore/]: Attempting to patch class net.minecraft.world.biome.Biome...
+[00:08:51] [Client thread/DEBUG] [BiomeTweakerCore/]: Successfully inserted 'actualFillerBlocks' field into net.minecraft.world.biome.Biome
+[00:08:51] [Client thread/DEBUG] [BiomeTweakerCore/]: Successfully inserted 'oceanTopBlock' field into net.minecraft.world.biome.Biome
+[00:08:51] [Client thread/DEBUG] [BiomeTweakerCore/]: Successfully inserted 'oceanFillerBlock' field into net.minecraft.world.biome.Biome
+[00:08:51] [Client thread/DEBUG] [BiomeTweakerCore/]: Successfully inserted 'grassColor' field into net.minecraft.world.biome.Biome
+[00:08:51] [Client thread/DEBUG] [BiomeTweakerCore/]: Successfully inserted 'foliageColor' field into net.minecraft.world.biome.Biome
+[00:08:51] [Client thread/DEBUG] [BiomeTweakerCore/]: Successfully inserted 'skyColor' field into net.minecraft.world.biome.Biome
+[00:08:51] [Client thread/DEBUG] [BiomeTweakerCore/]: Successfully inserted empty array into 'actualFillerBlocks'
+[00:08:51] [Client thread/DEBUG] [BiomeTweakerCore/]: Successfully inserted stone into 'oceanFillerBlock'
+[00:08:51] [Client thread/DEBUG] [BiomeTweakerCore/]: Successfully inserted gravel into 'oceanTopBlock'
+[00:08:51] [Client thread/DEBUG] [BiomeTweakerCore/]: Successfully inserted -1 into 'grassColor'
+[00:08:51] [Client thread/DEBUG] [BiomeTweakerCore/]: Successfully inserted -1 into 'foliageColor'
+[00:08:51] [Client thread/DEBUG] [BiomeTweakerCore/]: Successfully inserted -1 into 'skyColor'
+[00:08:51] [Client thread/DEBUG] [BiomeTweakerCore/]: Successfully inserted sky color instructions.
+[00:08:51] [Client thread/DEBUG] [BiomeTweakerCore/]: Successfully redirected 'Stone' check to 'contains' method.
+[00:08:51] [Client thread/DEBUG] [BiomeTweakerCore/]: Successfully inserted 'oceanTopBlock' instructions.
+[00:08:51] [Client thread/DEBUG] [BiomeTweakerCore/]: Successfully inserted 'oceanFillerBlock' instructions.
+[00:08:51] [Client thread/INFO] [BiomeTweakerCore/]: Sucessfully patched net.minecraft.world.biome.Biome! 15 patches were applied.
+[00:08:52] [Client thread/ERROR] [ToughAsNails Transformer/]: Unexpected hash 20f2d689046ef2bce53aff9618487c56 detected for class BlockCrops. Crashes or bugs may occur!
+[00:08:53] [Client thread/DEBUG] [FML/]: Creating vanilla freeze snapshot
+[00:08:53] [Client thread/DEBUG] [FML/]: Vanilla freeze snapshot created
+[00:08:53] [Client thread/INFO] [EnderCore/]: Transforming Class [net.minecraft.entity.ai.EntityAICreeperSwell], Method [func_75246_d]
+[00:08:53] [Client thread/INFO] [EnderCore/]: Transforming net.minecraft.entity.ai.EntityAICreeperSwell Finished.
+[00:08:53] [Client thread/INFO] [EnderCore/]: Transforming Class [net.minecraft.inventory.ContainerFurnace], Method [func_82846_b]
+[00:08:53] [Client thread/INFO] [EnderCore/]: Transforming net.minecraft.inventory.ContainerFurnace Finished.
+[00:08:54] [Client thread/DEBUG] [FML/]: Bar Finished: Loading Resource - LanguageManager took 0.001s
+[00:08:55] [Client thread/INFO] [FML/]: Could not load splash.properties, will create a default one
+[00:08:55] [Client thread/INFO] [STDOUT/]: [net.minecraftforge.fml.client.SplashProgress:start:219]: ---- Minecraft Crash Report ----
+
+WARNING: coremods are present:
+  FMLPlugin (InventoryTweaks-1.62-dev-66.jar)
+  IC2core (industrialcraft-2-2.6.128-ex110.jar)
+  TANLoadingPlugin (ToughAsNails-1.9.4-1.0.11.jar)
+  AppleCore (AppleCore-mc1.10.2-2.1.0.jar)
+  EnderCorePlugin (EnderCore-1.10.2-0.4.1.60-beta.jar)
+  SFRCore (SolarFluxReborn_1.10.2-1.6r.jar)
+  BookshelfLoadingPlugin (Bookshelf-1.10.2-1.4.3.339.jar)
+  BiomeTweakerCore (BiomeTweaker-1.10.2-2.1.230.jar)
+Contact their authors BEFORE contacting forge
+
+// This is a token for 1 free hug. Redeem at your nearest Mojangsta: [~~HUG~~]
+
+Time: 12/11/16 12:08 AM
+Description: Loading screen debug info
+
+This is just a prompt for computer specs to be printed. THIS IS NOT A ERROR
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- System Details --
+Details:
+	Minecraft Version: 1.10.2
+	Operating System: Windows 10 (amd64) version 10.0
+	Java Version: 1.8.0_25, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 617332144 bytes (588 MB) / 991428608 bytes (945 MB) up to 5965348864 bytes (5689 MB)
+	JVM Flags: 4 total; -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xmx6400m -Xms256m -XX:PermSize=256m
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	FML: 
+	Loaded coremods (and transformers): 
+FMLPlugin (InventoryTweaks-1.62-dev-66.jar)
+  invtweaks.forge.asm.ContainerTransformer
+IC2core (industrialcraft-2-2.6.128-ex110.jar)
+  
+TANLoadingPlugin (ToughAsNails-1.9.4-1.0.11.jar)
+  toughasnails.asm.transformer.BlockCropsTransformer
+  toughasnails.asm.transformer.EntityRendererTransformer
+  toughasnails.asm.transformer.WorldTransformer
+AppleCore (AppleCore-mc1.10.2-2.1.0.jar)
+  squeek.applecore.asm.TransformerModuleHandler
+EnderCorePlugin (EnderCore-1.10.2-0.4.1.60-beta.jar)
+  com.enderio.core.common.transform.EnderCoreTransformer
+SFRCore (SolarFluxReborn_1.10.2-1.6r.jar)
+  com.mrdimka.solarfluxreborn.core.SFRSerializedTransformer
+BookshelfLoadingPlugin (Bookshelf-1.10.2-1.4.3.339.jar)
+  net.darkhax.bookshelf.asm.BookshelfTransformerManager
+BiomeTweakerCore (BiomeTweaker-1.10.2-2.1.230.jar)
+  me.superckl.biometweaker.core.BiomeTweakerASMTransformer
+	GL info: ' Vendor: 'NVIDIA Corporation' Version: '4.5.0 NVIDIA 353.54' Renderer: 'GeForce GTX 960/PCIe/SSE2'
+[00:08:55] [Client thread/INFO] [FML/]: MinecraftForge v12.18.3.2185 Initialized
+[00:08:55] [Client thread/INFO] [FML/]: Replaced 231 ore recipes
+[00:08:55] [Client thread/DEBUG] [FML/]: File C:\Users\roxxa\Documents\Curse\Minecraft\Instances\Hypothermia\config\injectedDependencies.json not found. No dependencies injected
+[00:08:55] [Client thread/DEBUG] [FML/]: Building injected Mod Containers [net.minecraftforge.fml.common.FMLContainer, net.minecraftforge.common.ForgeModContainer, me.superckl.biometweaker.core.ModBiomeTweakerCore]
+[00:08:55] [Client thread/DEBUG] [FML/]: Attempting to load mods contained in the minecraft jar file and associated classes
+[00:08:55] [Client thread/DEBUG] [FML/]: Found a minecraft related file at C:\Users\roxxa\Documents\Curse\Minecraft\Install\libraries\net\minecraftforge\forge\1.10.2-12.18.3.2185\forge-1.10.2-12.18.3.2185.jar, examining for mod candidates
+[00:08:55] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\roxxa\Documents\Curse\Minecraft\Install\libraries\net\minecraft\launchwrapper\1.12\launchwrapper-1.12.jar
+[00:08:55] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\roxxa\Documents\Curse\Minecraft\Install\libraries\org\ow2\asm\asm-all\5.0.3\asm-all-5.0.3.jar
+[00:08:55] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\roxxa\Documents\Curse\Minecraft\Install\libraries\jline\jline\2.13\jline-2.13.jar
+[00:08:55] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\roxxa\Documents\Curse\Minecraft\Install\libraries\com\typesafe\akka\akka-actor_2.11\2.3.3\akka-actor_2.11-2.3.3.jar
+[00:08:55] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\roxxa\Documents\Curse\Minecraft\Install\libraries\com\typesafe\config\1.2.1\config-1.2.1.jar
+[00:08:55] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\roxxa\Documents\Curse\Minecraft\Install\libraries\org\scala-lang\scala-actors-migration_2.11\1.1.0\scala-actors-migration_2.11-1.1.0.jar
+[00:08:55] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\roxxa\Documents\Curse\Minecraft\Install\libraries\org\scala-lang\scala-compiler\2.11.1\scala-compiler-2.11.1.jar
+[00:08:55] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\roxxa\Documents\Curse\Minecraft\Install\libraries\org\scala-lang\plugins\scala-continuations-library_2.11\1.0.2\scala-continuations-library_2.11-1.0.2.jar
+[00:08:55] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\roxxa\Documents\Curse\Minecraft\Install\libraries\org\scala-lang\plugins\scala-continuations-plugin_2.11.1\1.0.2\scala-continuations-plugin_2.11.1-1.0.2.jar
+[00:08:55] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\roxxa\Documents\Curse\Minecraft\Install\libraries\org\scala-lang\scala-library\2.11.1\scala-library-2.11.1.jar
+[00:08:55] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\roxxa\Documents\Curse\Minecraft\Install\libraries\org\scala-lang\scala-parser-combinators_2.11\1.0.1\scala-parser-combinators_2.11-1.0.1.jar
+[00:08:55] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\roxxa\Documents\Curse\Minecraft\Install\libraries\org\scala-lang\scala-reflect\2.11.1\scala-reflect-2.11.1.jar
+[00:08:55] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\roxxa\Documents\Curse\Minecraft\Install\libraries\org\scala-lang\scala-swing_2.11\1.0.1\scala-swing_2.11-1.0.1.jar
+[00:08:55] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\roxxa\Documents\Curse\Minecraft\Install\libraries\org\scala-lang\scala-xml_2.11\1.0.2\scala-xml_2.11-1.0.2.jar
+[00:08:55] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\roxxa\Documents\Curse\Minecraft\Install\libraries\lzma\lzma\0.0.1\lzma-0.0.1.jar
+[00:08:55] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\roxxa\Documents\Curse\Minecraft\Install\libraries\net\sf\jopt-simple\jopt-simple\4.6\jopt-simple-4.6.jar
+[00:08:55] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\roxxa\Documents\Curse\Minecraft\Install\libraries\java3d\vecmath\1.5.2\vecmath-1.5.2.jar
+[00:08:55] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\roxxa\Documents\Curse\Minecraft\Install\libraries\net\sf\trove4j\trove4j\3.0.3\trove4j-3.0.3.jar
+[00:08:55] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\roxxa\Documents\Curse\Minecraft\Install\libraries\com\mojang\netty\1.6\netty-1.6.jar
+[00:08:55] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\roxxa\Documents\Curse\Minecraft\Install\libraries\oshi-project\oshi-core\1.1\oshi-core-1.1.jar
+[00:08:55] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\roxxa\Documents\Curse\Minecraft\Install\libraries\net\java\dev\jna\jna\3.4.0\jna-3.4.0.jar
+[00:08:55] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\roxxa\Documents\Curse\Minecraft\Install\libraries\net\java\dev\jna\platform\3.4.0\platform-3.4.0.jar
+[00:08:55] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\roxxa\Documents\Curse\Minecraft\Install\libraries\com\ibm\icu\icu4j-core-mojang\51.2\icu4j-core-mojang-51.2.jar
+[00:08:55] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\roxxa\Documents\Curse\Minecraft\Install\libraries\net\sf\jopt-simple\jopt-simple\4.6\jopt-simple-4.6.jar
+[00:08:55] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\roxxa\Documents\Curse\Minecraft\Install\libraries\com\paulscode\codecjorbis\20101023\codecjorbis-20101023.jar
+[00:08:55] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\roxxa\Documents\Curse\Minecraft\Install\libraries\com\paulscode\codecwav\20101023\codecwav-20101023.jar
+[00:08:55] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\roxxa\Documents\Curse\Minecraft\Install\libraries\com\paulscode\libraryjavasound\20101123\libraryjavasound-20101123.jar
+[00:08:55] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\roxxa\Documents\Curse\Minecraft\Install\libraries\com\paulscode\librarylwjglopenal\20100824\librarylwjglopenal-20100824.jar
+[00:08:55] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\roxxa\Documents\Curse\Minecraft\Install\libraries\com\paulscode\soundsystem\20120107\soundsystem-20120107.jar
+[00:08:55] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\roxxa\Documents\Curse\Minecraft\Install\libraries\io\netty\netty-all\4.0.23.Final\netty-all-4.0.23.Final.jar
+[00:08:55] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\roxxa\Documents\Curse\Minecraft\Install\libraries\com\google\guava\guava\17.0\guava-17.0.jar
+[00:08:55] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\roxxa\Documents\Curse\Minecraft\Install\libraries\org\apache\commons\commons-lang3\3.3.2\commons-lang3-3.3.2.jar
+[00:08:55] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\roxxa\Documents\Curse\Minecraft\Install\libraries\commons-io\commons-io\2.4\commons-io-2.4.jar
+[00:08:55] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\roxxa\Documents\Curse\Minecraft\Install\libraries\commons-codec\commons-codec\1.9\commons-codec-1.9.jar
+[00:08:55] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\roxxa\Documents\Curse\Minecraft\Install\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar
+[00:08:55] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\roxxa\Documents\Curse\Minecraft\Install\libraries\net\java\jutils\jutils\1.0.0\jutils-1.0.0.jar
+[00:08:55] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\roxxa\Documents\Curse\Minecraft\Install\libraries\com\google\code\gson\gson\2.2.4\gson-2.2.4.jar
+[00:08:55] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\roxxa\Documents\Curse\Minecraft\Install\libraries\com\mojang\authlib\1.5.22\authlib-1.5.22.jar
+[00:08:55] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\roxxa\Documents\Curse\Minecraft\Install\libraries\com\mojang\realms\1.9.8\realms-1.9.8.jar
+[00:08:55] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\roxxa\Documents\Curse\Minecraft\Install\libraries\org\apache\commons\commons-compress\1.8.1\commons-compress-1.8.1.jar
+[00:08:55] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\roxxa\Documents\Curse\Minecraft\Install\libraries\org\apache\httpcomponents\httpclient\4.3.3\httpclient-4.3.3.jar
+[00:08:55] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\roxxa\Documents\Curse\Minecraft\Install\libraries\commons-logging\commons-logging\1.1.3\commons-logging-1.1.3.jar
+[00:08:55] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\roxxa\Documents\Curse\Minecraft\Install\libraries\org\apache\httpcomponents\httpcore\4.3.2\httpcore-4.3.2.jar
+[00:08:55] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\roxxa\Documents\Curse\Minecraft\Install\libraries\it\unimi\dsi\fastutil\7.0.12_mojang\fastutil-7.0.12_mojang.jar
+[00:08:55] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\roxxa\Documents\Curse\Minecraft\Install\libraries\org\apache\logging\log4j\log4j-api\2.0-beta9\log4j-api-2.0-beta9.jar
+[00:08:55] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\roxxa\Documents\Curse\Minecraft\Install\libraries\org\apache\logging\log4j\log4j-core\2.0-beta9\log4j-core-2.0-beta9.jar
+[00:08:55] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\roxxa\Documents\Curse\Minecraft\Install\libraries\org\lwjgl\lwjgl\lwjgl\2.9.4-nightly-20150209\lwjgl-2.9.4-nightly-20150209.jar
+[00:08:55] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\roxxa\Documents\Curse\Minecraft\Install\libraries\org\lwjgl\lwjgl\lwjgl_util\2.9.4-nightly-20150209\lwjgl_util-2.9.4-nightly-20150209.jar
+[00:08:55] [Client thread/DEBUG] [FML/]: Found a minecraft related file at C:\Users\roxxa\Documents\Curse\Minecraft\Install\versions\1.10.2\1.10.2.jar, examining for mod candidates
+[00:08:55] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\roxxa\Documents\Curse\Minecraft\Instances\Hypothermia\mods\AppleCore-mc1.10.2-2.1.0.jar
+[00:08:55] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\roxxa\Documents\Curse\Minecraft\Instances\Hypothermia\mods\BiomeTweaker-1.10.2-2.1.230.jar
+[00:08:55] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\roxxa\Documents\Curse\Minecraft\Instances\Hypothermia\mods\Bookshelf-1.10.2-1.4.3.339.jar
+[00:08:55] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\roxxa\Documents\Curse\Minecraft\Instances\Hypothermia\mods\EnderCore-1.10.2-0.4.1.60-beta.jar
+[00:08:55] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\roxxa\Documents\Curse\Minecraft\Instances\Hypothermia\mods\industrialcraft-2-2.6.128-ex110.jar
+[00:08:55] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\roxxa\Documents\Curse\Minecraft\Instances\Hypothermia\mods\InventoryTweaks-1.62-dev-66.jar
+[00:08:55] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\roxxa\Documents\Curse\Minecraft\Instances\Hypothermia\mods\SolarFluxReborn_1.10.2-1.6r.jar
+[00:08:55] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\roxxa\Documents\Curse\Minecraft\Instances\Hypothermia\mods\ToughAsNails-1.9.4-1.0.11.jar
+[00:08:55] [Client thread/DEBUG] [FML/]: Found a minecraft related file at C:\Users\roxxa\Documents\Curse\Minecraft\Instances\Hypothermia\mods\ic2\EJML-core-0.26.jar, examining for mod candidates
+[00:08:55] [Client thread/DEBUG] [FML/]: Minecraft jar mods loaded successfully
+[00:08:55] [Client thread/INFO] [FML/]: Found 0 mods from the command line. Injecting into mod discoverer
+[00:08:55] [Client thread/INFO] [FML/]: Searching C:\Users\roxxa\Documents\Curse\Minecraft\Instances\Hypothermia\mods for mods
+[00:08:55] [Client thread/DEBUG] [FML/]: Found a candidate zip or jar file ActuallyAdditions-1.10.2-r90.jar
+[00:08:55] [Client thread/DEBUG] [FML/]: Found a candidate zip or jar file AppleCore-mc1.10.2-2.1.0.jar
+[00:08:55] [Client thread/DEBUG] [FML/]: Found a candidate zip or jar file BiomeTweaker-1.10.2-2.1.230.jar
+[00:08:55] [Client thread/DEBUG] [FML/]: Found a candidate zip or jar file Bookshelf-1.10.2-1.4.3.339.jar
+[00:08:55] [Client thread/DEBUG] [FML/]: Found a candidate zip or jar file compatlayer-1.10-0.1.3.jar
+[00:08:55] [Client thread/DEBUG] [FML/]: Found a candidate zip or jar file CookingForBlockheads_1.10.2-4.2.26.jar
+[00:08:55] [Client thread/DEBUG] [FML/]: Found a candidate zip or jar file CraftingTweaks_1.10.2-6.1.16.jar
+[00:08:55] [Client thread/DEBUG] [FML/]: Found a candidate zip or jar file CraftTweaker-1.10.2-3.0.15.jar
+[00:08:55] [Client thread/DEBUG] [FML/]: Found a candidate zip or jar file cyberware-1.9.4-1.10.2-beta-0.2.5.jar
+[00:08:55] [Client thread/DEBUG] [FML/]: Found a candidate zip or jar file Cyclic-1.10.2-1.9.1.jar
+[00:08:55] [Client thread/DEBUG] [FML/]: Found a candidate zip or jar file DarkUtilities-1.10.2-1.1.6.99.jar
+[00:08:55] [Client thread/DEBUG] [FML/]: Found a candidate zip or jar file EnderCore-1.10.2-0.4.1.60-beta.jar
+[00:08:55] [Client thread/DEBUG] [FML/]: Found a candidate zip or jar file EnderIO-1.10.2-3.0.1.139_beta.jar
+[00:08:55] [Client thread/DEBUG] [FML/]: Found a candidate zip or jar file environmentaltech-1.10.2-0.10.5h.jar
+[00:08:55] [Client thread/DEBUG] [FML/]: Found a candidate zip or jar file ExCompressum_1.10.2-2.0.56.jar
+[00:08:55] [Client thread/DEBUG] [FML/]: Found a candidate zip or jar file exnihiloadscensio-1.10.2-0.1.5.jar
+[00:08:55] [Client thread/DEBUG] [FML/]: Found a candidate zip or jar file extrautils2-1.10.2-1.1.2.jar
+[00:08:55] [Client thread/DEBUG] [FML/]: Found a candidate zip or jar file ExtremeReactors-1.10.2-0.4.5.21.jar
+[00:08:55] [Client thread/DEBUG] [FML/]: Found a candidate zip or jar file FastLeafDecay-v11.jar
+[00:08:55] [Client thread/DEBUG] [FML/]: Found a candidate zip or jar file Gyth-1.10.2-2.0.0.18.jar
+[00:08:55] [Client thread/DEBUG] [FML/]: Found a candidate zip or jar file HammerCore_1.10.2-1.1.8.jar
+[00:08:55] [Client thread/DEBUG] [FML/]: Found a candidate mod directory ic2
+[00:08:55] [Client thread/DEBUG] [FML/]: Found a candidate zip or jar file iChunUtil-1.10.2-6.1.0.jar
+[00:08:55] [Client thread/DEBUG] [FML/]: Found a candidate zip or jar file industrialcraft-2-2.6.128-ex110.jar
+[00:08:55] [Client thread/DEBUG] [FML/]: Found a candidate zip or jar file InventoryTweaks-1.62-dev-66.jar
+[00:08:55] [Client thread/DEBUG] [FML/]: Found a candidate zip or jar file IronBackpacks-1.10.2-2.2.19.jar
+[00:08:55] [Client thread/DEBUG] [FML/]: Found a candidate zip or jar file ironchest-1.10.2-7.0.11.797.jar
+[00:08:55] [Client thread/DEBUG] [FML/]: Found a candidate zip or jar file jei_1.10.2-3.13.6.389.jar
+[00:08:55] [Client thread/DEBUG] [FML/]: Found a candidate zip or jar file Mantle-1.10.2-1.1.3.jar
+[00:08:55] [Client thread/DEBUG] [FML/]: Found a candidate zip or jar file mcjtylib-1.1x-2.3.1.jar
+[00:08:55] [Client thread/DEBUG] [FML/]: Found a candidate zip or jar file MCMultiPart-1.3.0-universal.jar
+[00:08:55] [Client thread/DEBUG] [FML/]: Found a candidate zip or jar file MobDismemberment-1.10.2-6.0.0.jar
+[00:08:55] [Client thread/DEBUG] [FML/]: Found a candidate zip or jar file MobGrindingUtils-0.1.8.8.jar
+[00:08:55] [Client thread/DEBUG] [FML/]: Found a candidate zip or jar file ModTweaker2-2.0.7.jar
+[00:08:55] [Client thread/DEBUG] [FML/]: Found a candidate zip or jar file MouseTweaks-2.6.4-mc1.10.2.jar
+[00:08:55] [Client thread/DEBUG] [FML/]: Found a candidate zip or jar file MTLib-1.0.0.jar
+[00:08:55] [Client thread/DEBUG] [FML/]: Found a candidate zip or jar file openmodularturrets-1.10.2-3.0.0-42.jar
+[00:08:55] [Client thread/DEBUG] [FML/]: Found a candidate zip or jar file orespawn-2.0.0.10-1.10.2.jar
+[00:08:55] [Client thread/DEBUG] [FML/]: Found a candidate zip or jar file Pam's HarvestCraft 1.9.4-1.10.2h.jar
+[00:08:55] [Client thread/DEBUG] [FML/]: Found a candidate zip or jar file refinedstorage-1.2.11.jar
+[00:08:55] [Client thread/DEBUG] [FML/]: Found a candidate zip or jar file Reliquary-1.10.2-1.3.3.585.jar
+[00:08:55] [Client thread/DEBUG] [FML/]: Found a candidate zip or jar file rftools-1.1x-5.70.jar
+[00:08:55] [Client thread/DEBUG] [FML/]: Found a candidate zip or jar file rftoolsctrl-1.1x-1.6.3.jar
+[00:08:55] [Client thread/DEBUG] [FML/]: Found a candidate zip or jar file rftoolsdim-1.1x-4.50.jar
+[00:08:55] [Client thread/DEBUG] [FML/]: Found a candidate zip or jar file roots-0.208.jar
+[00:08:55] [Client thread/DEBUG] [FML/]: Found a candidate zip or jar file SimpleAchievements-MC1.9.4-1.2.2-26.jar
+[00:08:55] [Client thread/DEBUG] [FML/]: Found a candidate zip or jar file SolarFluxReborn_1.10.2-1.6r.jar
+[00:08:55] [Client thread/DEBUG] [FML/]: Found a candidate zip or jar file SpiceOfLife-mc1.9.4-1.3.6.jar
+[00:08:55] [Client thread/DEBUG] [FML/]: Found a candidate zip or jar file TConstruct-1.10.2-2.6.1.jar
+[00:08:55] [Client thread/DEBUG] [FML/]: Found a candidate zip or jar file theoneprobe-1.10-1.3.3.jar
+[00:08:55] [Client thread/DEBUG] [FML/]: Found a candidate zip or jar file TombManyGraves-1.10.2-2.1.13.jar
+[00:08:55] [Client thread/DEBUG] [FML/]: Found a candidate zip or jar file ToughAsNails-1.9.4-1.0.11.jar
+[00:08:55] [Client thread/DEBUG] [FML/]: Found a candidate zip or jar file valkyrielib-1.10.2-0.10.5e.jar
+[00:08:55] [Client thread/DEBUG] [FML/]: Found a candidate zip or jar file WIRED-1.3.3.jar
+[00:08:55] [Client thread/DEBUG] [FML/]: Found a candidate zip or jar file zerocore-1.10.2-0.0.8.2.jar
+[00:08:55] [Client thread/DEBUG] [FML/]: Found a candidate zip or jar file zombieawareness-1.10.2-1.20.jar
+[00:08:55] [Client thread/DEBUG] [FML/]: Examining file forge-1.10.2-12.18.3.2185.jar for potential mods
+[00:08:55] [Client thread/DEBUG] [FML/]: The mod container forge-1.10.2-12.18.3.2185.jar appears to be missing an mcmod.info file
+[00:08:56] [Client thread/DEBUG] [FML/]: Examining file 1.10.2.jar for potential mods
+[00:08:56] [Client thread/DEBUG] [FML/]: The mod container 1.10.2.jar appears to be missing an mcmod.info file
+[00:08:56] [Client thread/DEBUG] [FML/]: Examining file EJML-core-0.26.jar for potential mods
+[00:08:56] [Client thread/DEBUG] [FML/]: The mod container EJML-core-0.26.jar appears to be missing an mcmod.info file
+[00:08:56] [Client thread/DEBUG] [FML/]: Examining file ActuallyAdditions-1.10.2-r90.jar for potential mods
+[00:08:56] [Client thread/TRACE] [FML/]: Located mcmod.info file in file ActuallyAdditions-1.10.2-r90.jar
+[00:08:56] [Client thread/DEBUG] [FML/]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (de.ellpeck.actuallyadditions.mod.ActuallyAdditions) - loading
+[00:08:56] [Client thread/TRACE] [actuallyadditions/]: Parsed dependency info : [] [BuildCraft|Energy] []
+[00:08:56] [Client thread/DEBUG] [FML/]: Examining file AppleCore-mc1.10.2-2.1.0.jar for potential mods
+[00:08:56] [Client thread/DEBUG] [FML/]: The mod container AppleCore-mc1.10.2-2.1.0.jar appears to be missing an mcmod.info file
+[00:08:56] [Client thread/DEBUG] [FML/]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (squeek.applecore.AppleCore) - loading
+[00:08:56] [Client thread/WARN] [FML/]: ****************************************
+[00:08:56] [Client thread/WARN] [FML/]: * The modid AppleCore is not the same as it's lowercase version. Lowercasing will be enforced in 1.11
+[00:08:56] [Client thread/WARN] [FML/]: *  at net.minecraftforge.fml.common.FMLModContainer.sanityCheckModId(FMLModContainer.java:141)
+[00:08:56] [Client thread/WARN] [FML/]: *  at net.minecraftforge.fml.common.FMLModContainer.<init>(FMLModContainer.java:126)
+[00:08:56] [Client thread/WARN] [FML/]: *  at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+[00:08:56] [Client thread/WARN] [FML/]: *  at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+[00:08:56] [Client thread/WARN] [FML/]: *  at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+[00:08:56] [Client thread/WARN] [FML/]: *  at java.lang.reflect.Constructor.newInstance(Constructor.java:408)...
+[00:08:56] [Client thread/WARN] [FML/]: ****************************************
+[00:08:56] [Client thread/TRACE] [AppleCore/]: Parsed dependency info : [Forge@[12.18.2.2123,)] [JEI@[3.8.1,), Forge@[12.18.2.2123,)] []
+[00:08:56] [Client thread/DEBUG] [FML/]: Examining file BiomeTweaker-1.10.2-2.1.230.jar for potential mods
+[00:08:56] [Client thread/TRACE] [FML/]: Located mcmod.info file in file BiomeTweaker-1.10.2-2.1.230.jar
+[00:08:56] [Client thread/DEBUG] [FML/]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (me.superckl.biometweaker.BiomeTweaker) - loading
+[00:08:56] [Client thread/WARN] [FML/]: ****************************************
+[00:08:56] [Client thread/WARN] [FML/]: * The modid BiomeTweaker is not the same as it's lowercase version. Lowercasing will be enforced in 1.11
+[00:08:56] [Client thread/WARN] [FML/]: *  at net.minecraftforge.fml.common.FMLModContainer.sanityCheckModId(FMLModContainer.java:141)
+[00:08:56] [Client thread/WARN] [FML/]: *  at net.minecraftforge.fml.common.FMLModContainer.<init>(FMLModContainer.java:126)
+[00:08:56] [Client thread/WARN] [FML/]: *  at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+[00:08:56] [Client thread/WARN] [FML/]: *  at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+[00:08:56] [Client thread/WARN] [FML/]: *  at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+[00:08:56] [Client thread/WARN] [FML/]: *  at java.lang.reflect.Constructor.newInstance(Constructor.java:408)...
+[00:08:56] [Client thread/WARN] [FML/]: ****************************************
+[00:08:56] [Client thread/TRACE] [BiomeTweaker/]: Parsed dependency info : [] [GalacticraftCore] [BiomesOPlenty]
+[00:08:56] [Client thread/DEBUG] [FML/]: Examining file Bookshelf-1.10.2-1.4.3.339.jar for potential mods
+[00:08:56] [Client thread/TRACE] [FML/]: Located mcmod.info file in file Bookshelf-1.10.2-1.4.3.339.jar
+[00:08:56] [Client thread/DEBUG] [FML/]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (net.darkhax.bookshelf.Bookshelf) - loading
+[00:08:56] [Client thread/TRACE] [bookshelf/]: Parsed dependency info : [] [] []
+[00:08:56] [Client thread/DEBUG] [FML/]: Examining file compatlayer-1.10-0.1.3.jar for potential mods
+[00:08:56] [Client thread/TRACE] [FML/]: Located mcmod.info file in file compatlayer-1.10-0.1.3.jar
+[00:08:56] [Client thread/DEBUG] [FML/]: Examining file CookingForBlockheads_1.10.2-4.2.26.jar for potential mods
+[00:08:56] [Client thread/TRACE] [FML/]: Located mcmod.info file in file CookingForBlockheads_1.10.2-4.2.26.jar
+[00:08:56] [Client thread/DEBUG] [FML/]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (net.blay09.mods.cookingforblockheads.CookingForBlockheads) - loading
+[00:08:56] [Client thread/TRACE] [cookingforblockheads/]: Parsed dependency info : [] [] []
+[00:08:56] [Client thread/DEBUG] [cookingforblockheads/]: Attempting to load the file version.properties from CookingForBlockheads_1.10.2-4.2.26.jar to locate a version number for cookingforblockheads
+[00:08:56] [Client thread/WARN] [cookingforblockheads/]: Mod cookingforblockheads is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 4.2.26
+[00:08:57] [Client thread/DEBUG] [FML/]: Examining file CraftingTweaks_1.10.2-6.1.16.jar for potential mods
+[00:08:57] [Client thread/TRACE] [FML/]: Located mcmod.info file in file CraftingTweaks_1.10.2-6.1.16.jar
+[00:08:57] [Client thread/DEBUG] [FML/]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (net.blay09.mods.craftingtweaks.CraftingTweaks) - loading
+[00:08:57] [Client thread/TRACE] [craftingtweaks/]: Parsed dependency info : [] [] []
+[00:08:57] [Client thread/DEBUG] [craftingtweaks/]: Attempting to load the file version.properties from CraftingTweaks_1.10.2-6.1.16.jar to locate a version number for craftingtweaks
+[00:08:57] [Client thread/WARN] [craftingtweaks/]: Mod craftingtweaks is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 6.1.16
+[00:08:57] [Client thread/DEBUG] [FML/]: Examining file CraftTweaker-1.10.2-3.0.15.jar for potential mods
+[00:08:57] [Client thread/TRACE] [FML/]: Located mcmod.info file in file CraftTweaker-1.10.2-3.0.15.jar
+[00:08:57] [Client thread/DEBUG] [FML/]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (com.blamejared.ctgui.MTRecipe) - loading
+[00:08:57] [Client thread/TRACE] [ctgui/]: Parsed dependency info : [MineTweaker3] [MineTweaker3] []
+[00:08:57] [Client thread/DEBUG] [FML/]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (minetweaker.mc1102.MineTweakerMod) - loading
+[00:08:57] [Client thread/WARN] [FML/]: ****************************************
+[00:08:57] [Client thread/WARN] [FML/]: * The modid MineTweaker3 is not the same as it's lowercase version. Lowercasing will be enforced in 1.11
+[00:08:57] [Client thread/WARN] [FML/]: *  at net.minecraftforge.fml.common.FMLModContainer.sanityCheckModId(FMLModContainer.java:141)
+[00:08:57] [Client thread/WARN] [FML/]: *  at net.minecraftforge.fml.common.FMLModContainer.<init>(FMLModContainer.java:126)
+[00:08:57] [Client thread/WARN] [FML/]: *  at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+[00:08:57] [Client thread/WARN] [FML/]: *  at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+[00:08:57] [Client thread/WARN] [FML/]: *  at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+[00:08:57] [Client thread/WARN] [FML/]: *  at java.lang.reflect.Constructor.newInstance(Constructor.java:408)...
+[00:08:57] [Client thread/WARN] [FML/]: ****************************************
+[00:08:57] [Client thread/TRACE] [MineTweaker3/]: Parsed dependency info : [] [JEI] []
+[00:08:57] [Client thread/DEBUG] [FML/]: Examining file cyberware-1.9.4-1.10.2-beta-0.2.5.jar for potential mods
+[00:08:57] [Client thread/TRACE] [FML/]: Located mcmod.info file in file cyberware-1.9.4-1.10.2-beta-0.2.5.jar
+[00:08:57] [Client thread/DEBUG] [FML/]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (flaxbeard.cyberware.Cyberware) - loading
+[00:08:57] [Client thread/TRACE] [cyberware/]: Parsed dependency info : [] [] []
+[00:08:57] [Client thread/DEBUG] [FML/]: Examining file Cyclic-1.10.2-1.9.1.jar for potential mods
+[00:08:57] [Client thread/TRACE] [FML/]: Located mcmod.info file in file Cyclic-1.10.2-1.9.1.jar
+[00:08:57] [Client thread/DEBUG] [FML/]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (com.lothrazar.cyclicmagic.ModCyclic) - loading
+[00:08:57] [Client thread/TRACE] [cyclicmagic/]: Parsed dependency info : [] [JEI, Baubles] []
+[00:08:57] [Client thread/DEBUG] [cyclicmagic/]: Attempting to load the file version.properties from Cyclic-1.10.2-1.9.1.jar to locate a version number for cyclicmagic
+[00:08:57] [Client thread/WARN] [cyclicmagic/]: Mod cyclicmagic is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.9.1
+[00:08:57] [Client thread/DEBUG] [FML/]: Examining file DarkUtilities-1.10.2-1.1.6.99.jar for potential mods
+[00:08:57] [Client thread/TRACE] [FML/]: Located mcmod.info file in file DarkUtilities-1.10.2-1.1.6.99.jar
+[00:08:57] [Client thread/DEBUG] [FML/]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (net.darkhax.darkutils.DarkUtils) - loading
+[00:08:57] [Client thread/TRACE] [darkutils/]: Parsed dependency info : [bookshelf@[1.4.3.338,)] [bookshelf@[1.4.3.338,), Waila, JEI] []
+[00:08:57] [Client thread/DEBUG] [FML/]: Examining file EnderCore-1.10.2-0.4.1.60-beta.jar for potential mods
+[00:08:57] [Client thread/TRACE] [FML/]: Located mcmod.info file in file EnderCore-1.10.2-0.4.1.60-beta.jar
+[00:08:57] [Client thread/DEBUG] [FML/]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (com.enderio.core.EnderCore) - loading
+[00:08:57] [Client thread/TRACE] [endercore/]: Parsed dependency info : [] [ttCore] []
+[00:08:57] [Client thread/DEBUG] [FML/]: Examining file EnderIO-1.10.2-3.0.1.139_beta.jar for potential mods
+[00:08:57] [Client thread/TRACE] [FML/]: Located mcmod.info file in file EnderIO-1.10.2-3.0.1.139_beta.jar
+[00:08:57] [Client thread/DEBUG] [FML/]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (crazypants.enderio.EnderIO) - loading
+[00:08:57] [Client thread/WARN] [FML/]: ****************************************
+[00:08:57] [Client thread/WARN] [FML/]: * The modid EnderIO is not the same as it's lowercase version. Lowercasing will be enforced in 1.11
+[00:08:57] [Client thread/WARN] [FML/]: *  at net.minecraftforge.fml.common.FMLModContainer.sanityCheckModId(FMLModContainer.java:141)
+[00:08:57] [Client thread/WARN] [FML/]: *  at net.minecraftforge.fml.common.FMLModContainer.<init>(FMLModContainer.java:126)
+[00:08:57] [Client thread/WARN] [FML/]: *  at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+[00:08:57] [Client thread/WARN] [FML/]: *  at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+[00:08:57] [Client thread/WARN] [FML/]: *  at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+[00:08:57] [Client thread/WARN] [FML/]: *  at java.lang.reflect.Constructor.newInstance(Constructor.java:408)...
+[00:08:57] [Client thread/WARN] [FML/]: ****************************************
+[00:08:57] [Client thread/TRACE] [EnderIO/]: Parsed dependency info : [Forge@[12.18.2.2122,), endercore@[1.10.2-0.4.1.59-beta,)] [Forge@[12.18.2.2122,), endercore@[1.10.2-0.4.1.59-beta,), Waila@[1.7.0-B3_1.9.4,), JEI@[3.13.4.384,)] []
+[00:08:57] [Client thread/DEBUG] [FML/]: Examining file environmentaltech-1.10.2-0.10.5h.jar for potential mods
+[00:08:57] [Client thread/TRACE] [FML/]: Located mcmod.info file in file environmentaltech-1.10.2-0.10.5h.jar
+[00:08:57] [Client thread/DEBUG] [FML/]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (com.valkyrieofnight.environmentaltech.EnvironmentalTech) - loading
+[00:08:57] [Client thread/TRACE] [environmentaltech/]: Parsed dependency info : [Forge@[1.10.2-12.18.1.2087,), valkyrielib@[1.10.2-0.10.5c,)] [Forge@[1.10.2-12.18.1.2087,), valkyrielib@[1.10.2-0.10.5c,)] []
+[00:08:57] [Client thread/DEBUG] [FML/]: Examining file ExCompressum_1.10.2-2.0.56.jar for potential mods
+[00:08:57] [Client thread/TRACE] [FML/]: Located mcmod.info file in file ExCompressum_1.10.2-2.0.56.jar
+[00:08:57] [Client thread/DEBUG] [FML/]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (net.blay09.mods.excompressum.ExCompressum) - loading
+[00:08:57] [Client thread/TRACE] [excompressum/]: Parsed dependency info : [Forge@[12.18.1.2080,)] [exnihiloomnia, exnihiloadscensio, Forge@[12.18.1.2080,)] []
+[00:08:57] [Client thread/DEBUG] [excompressum/]: Attempting to load the file version.properties from ExCompressum_1.10.2-2.0.56.jar to locate a version number for excompressum
+[00:08:57] [Client thread/WARN] [excompressum/]: Mod excompressum is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 2.0.56
+[00:08:57] [Client thread/DEBUG] [FML/]: Examining file exnihiloadscensio-1.10.2-0.1.5.jar for potential mods
+[00:08:57] [Client thread/TRACE] [FML/]: Located mcmod.info file in file exnihiloadscensio-1.10.2-0.1.5.jar
+[00:08:57] [Client thread/DEBUG] [FML/]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (exnihiloadscensio.ExNihiloAdscensio) - loading
+[00:08:57] [Client thread/TRACE] [exnihiloadscensio/]: Parsed dependency info : [] [] []
+[00:08:57] [Client thread/DEBUG] [FML/]: Examining file extrautils2-1.10.2-1.1.2.jar for potential mods
+[00:08:57] [Client thread/TRACE] [FML/]: Located mcmod.info file in file extrautils2-1.10.2-1.1.2.jar
+[00:08:57] [Client thread/DEBUG] [FML/]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (com.rwtema.extrautils2.ExtraUtils2) - loading
+[00:08:57] [Client thread/WARN] [FML/]: ****************************************
+[00:08:57] [Client thread/WARN] [FML/]: * The modid ExtraUtils2 is not the same as it's lowercase version. Lowercasing will be enforced in 1.11
+[00:08:57] [Client thread/WARN] [FML/]: *  at net.minecraftforge.fml.common.FMLModContainer.sanityCheckModId(FMLModContainer.java:141)
+[00:08:57] [Client thread/WARN] [FML/]: *  at net.minecraftforge.fml.common.FMLModContainer.<init>(FMLModContainer.java:126)
+[00:08:57] [Client thread/WARN] [FML/]: *  at sun.reflect.GeneratedConstructorAccessor15.newInstance(Unknown Source)
+[00:08:57] [Client thread/WARN] [FML/]: *  at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+[00:08:57] [Client thread/WARN] [FML/]: *  at java.lang.reflect.Constructor.newInstance(Constructor.java:408)
+[00:08:57] [Client thread/WARN] [FML/]: *  at net.minecraftforge.fml.common.ModContainerFactory.build(ModContainerFactory.java:86)...
+[00:08:57] [Client thread/WARN] [FML/]: ****************************************
+[00:08:57] [Client thread/TRACE] [ExtraUtils2/]: Parsed dependency info : [Forge@[12.16.1.1887,)] [Forge@[12.16.1.1887,), JEI@[3.13.3.380,)] []
+[00:08:57] [Client thread/INFO] [ExtraUtils2/]: Mod ExtraUtils2 is missing the required element 'name'. Substituting ExtraUtils2
+[00:08:57] [Client thread/DEBUG] [FML/]: Examining file ExtremeReactors-1.10.2-0.4.5.21.jar for potential mods
+[00:08:57] [Client thread/TRACE] [FML/]: Located mcmod.info file in file ExtremeReactors-1.10.2-0.4.5.21.jar
+[00:08:57] [Client thread/DEBUG] [FML/]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (erogenousbeef.bigreactors.common.BigReactors) - loading
+[00:08:57] [Client thread/TRACE] [bigreactors/]: Parsed dependency info : [zerocore@[1.10.2-0.0.8.2,), Forge@[12.18.2.2099,)] [Forge@[12.18.2.2099,), zerocore@[1.10.2-0.0.8.2,)] []
+[00:08:57] [Client thread/DEBUG] [FML/]: Examining file FastLeafDecay-v11.jar for potential mods
+[00:08:57] [Client thread/TRACE] [FML/]: Located mcmod.info file in file FastLeafDecay-v11.jar
+[00:08:57] [Client thread/DEBUG] [FML/]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (net.olafkeijsers.fastleafdecay.FastLeafDecay) - loading
+[00:08:57] [Client thread/TRACE] [fastleafdecay/]: Parsed dependency info : [] [] []
+[00:08:57] [Client thread/DEBUG] [FML/]: Examining file Gyth-1.10.2-2.0.0.18.jar for potential mods
+[00:08:57] [Client thread/DEBUG] [FML/]: The mod container Gyth-1.10.2-2.0.0.18.jar appears to be missing an mcmod.info file
+[00:08:57] [Client thread/DEBUG] [FML/]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (net.darkhax.gyth.Gyth) - loading
+[00:08:57] [Client thread/TRACE] [gyth/]: Parsed dependency info : [bookshelf@[1.4.2.327,)] [bookshelf@[1.4.2.327,)] []
+[00:08:57] [Client thread/DEBUG] [FML/]: Examining file HammerCore_1.10.2-1.1.8.jar for potential mods
+[00:08:57] [Client thread/TRACE] [FML/]: Located mcmod.info file in file HammerCore_1.10.2-1.1.8.jar
+[00:08:57] [Client thread/DEBUG] [FML/]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (com.mrdimka.hammercore.HammerCore) - loading
+[00:08:57] [Client thread/TRACE] [hammercore/]: Parsed dependency info : [] [] []
+[00:08:57] [Client thread/DEBUG] [FML/]: Examining directory ic2 for potential mods
+[00:08:57] [Client thread/DEBUG] [FML/]: No mcmod.info file found in directory ic2
+[00:08:57] [Client thread/DEBUG] [FML/]: Examining file iChunUtil-1.10.2-6.1.0.jar for potential mods
+[00:08:57] [Client thread/TRACE] [FML/]: Located mcmod.info file in file iChunUtil-1.10.2-6.1.0.jar
+[00:08:57] [Client thread/DEBUG] [FML/]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (me.ichun.mods.ichunutil.common.iChunUtil) - loading
+[00:08:57] [Client thread/TRACE] [ichunutil/]: Parsed dependency info : [Forge@[12.18.2.2151,99999.19.0.0)] [Forge@[12.18.2.2151,99999.19.0.0)] []
+[00:08:57] [Client thread/DEBUG] [FML/]: Examining file industrialcraft-2-2.6.128-ex110.jar for potential mods
+[00:08:57] [Client thread/TRACE] [FML/]: Located mcmod.info file in file industrialcraft-2-2.6.128-ex110.jar
+[00:08:57] [Client thread/DEBUG] [FML/]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (ic2.core.IC2) - loading
+[00:08:57] [Client thread/WARN] [FML/]: ****************************************
+[00:08:57] [Client thread/WARN] [FML/]: * The modid IC2 is not the same as it's lowercase version. Lowercasing will be enforced in 1.11
+[00:08:57] [Client thread/WARN] [FML/]: *  at net.minecraftforge.fml.common.FMLModContainer.sanityCheckModId(FMLModContainer.java:141)
+[00:08:57] [Client thread/WARN] [FML/]: *  at net.minecraftforge.fml.common.FMLModContainer.<init>(FMLModContainer.java:126)
+[00:08:57] [Client thread/WARN] [FML/]: *  at sun.reflect.GeneratedConstructorAccessor15.newInstance(Unknown Source)
+[00:08:57] [Client thread/WARN] [FML/]: *  at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+[00:08:57] [Client thread/WARN] [FML/]: *  at java.lang.reflect.Constructor.newInstance(Constructor.java:408)
+[00:08:57] [Client thread/WARN] [FML/]: *  at net.minecraftforge.fml.common.ModContainerFactory.build(ModContainerFactory.java:86)...
+[00:08:57] [Client thread/WARN] [FML/]: ****************************************
+[00:08:57] [Client thread/TRACE] [IC2/]: Parsed dependency info : [Forge@[12.17.0.1940,)] [Forge@[12.17.0.1940,)] []
+[00:08:58] [Client thread/DEBUG] [FML/]: Examining file InventoryTweaks-1.62-dev-66.jar for potential mods
+[00:08:58] [Client thread/TRACE] [FML/]: Located mcmod.info file in file InventoryTweaks-1.62-dev-66.jar
+[00:08:58] [Client thread/DEBUG] [FML/]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (invtweaks.forge.InvTweaksMod) - loading
+[00:08:58] [Client thread/TRACE] [inventorytweaks/]: Parsed dependency info : [Forge@[12.17.0,)] [Forge@[12.17.0,)] []
+[00:08:58] [Client thread/DEBUG] [inventorytweaks/]: Attempting to load the file version.properties from InventoryTweaks-1.62-dev-66.jar to locate a version number for inventorytweaks
+[00:08:58] [Client thread/DEBUG] [inventorytweaks/]: Found version 1.62-dev-66-c082db3 for mod inventorytweaks in version.properties, using
+[00:08:58] [Client thread/DEBUG] [FML/]: Examining file IronBackpacks-1.10.2-2.2.19.jar for potential mods
+[00:08:58] [Client thread/TRACE] [FML/]: Located mcmod.info file in file IronBackpacks-1.10.2-2.2.19.jar
+[00:08:58] [Client thread/DEBUG] [FML/]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (gr8pefish.ironbackpacks.IronBackpacks) - loading
+[00:08:58] [Client thread/TRACE] [ironbackpacks/]: Parsed dependency info : [Forge@[10.18.2.2120,)] [Forge@[10.18.2.2120,), JEI] []
+[00:08:58] [Client thread/DEBUG] [FML/]: Examining file ironchest-1.10.2-7.0.11.797.jar for potential mods
+[00:08:58] [Client thread/TRACE] [FML/]: Located mcmod.info file in file ironchest-1.10.2-7.0.11.797.jar
+[00:08:58] [Client thread/DEBUG] [FML/]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (cpw.mods.ironchest.IronChest) - loading
+[00:08:58] [Client thread/TRACE] [ironchest/]: Parsed dependency info : [Forge@[12.17.0.1909,)] [Forge@[12.17.0.1909,)] []
+[00:08:58] [Client thread/DEBUG] [ironchest/]: Attempting to load the file version.properties from ironchest-1.10.2-7.0.11.797.jar to locate a version number for ironchest
+[00:08:58] [Client thread/DEBUG] [ironchest/]: Found version null for mod ironchest in version.properties, using
+[00:08:58] [Client thread/WARN] [ironchest/]: Mod ironchest is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.10.2-7.0.11.797
+[00:08:58] [Client thread/DEBUG] [FML/]: Examining file jei_1.10.2-3.13.6.389.jar for potential mods
+[00:08:58] [Client thread/TRACE] [FML/]: Located mcmod.info file in file jei_1.10.2-3.13.6.389.jar
+[00:08:58] [Client thread/DEBUG] [FML/]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (mezz.jei.JustEnoughItems) - loading
+[00:08:58] [Client thread/WARN] [FML/]: ****************************************
+[00:08:58] [Client thread/WARN] [FML/]: * The modid JEI is not the same as it's lowercase version. Lowercasing will be enforced in 1.11
+[00:08:58] [Client thread/WARN] [FML/]: *  at net.minecraftforge.fml.common.FMLModContainer.sanityCheckModId(FMLModContainer.java:141)
+[00:08:58] [Client thread/WARN] [FML/]: *  at net.minecraftforge.fml.common.FMLModContainer.<init>(FMLModContainer.java:126)
+[00:08:58] [Client thread/WARN] [FML/]: *  at sun.reflect.GeneratedConstructorAccessor15.newInstance(Unknown Source)
+[00:08:58] [Client thread/WARN] [FML/]: *  at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+[00:08:58] [Client thread/WARN] [FML/]: *  at java.lang.reflect.Constructor.newInstance(Constructor.java:408)
+[00:08:58] [Client thread/WARN] [FML/]: *  at net.minecraftforge.fml.common.ModContainerFactory.build(ModContainerFactory.java:86)...
+[00:08:58] [Client thread/WARN] [FML/]: ****************************************
+[00:08:58] [Client thread/TRACE] [JEI/]: Parsed dependency info : [Forge@[12.18.1.2053,)] [Forge@[12.18.1.2053,)] []
+[00:08:58] [Client thread/DEBUG] [FML/]: Examining file Mantle-1.10.2-1.1.3.jar for potential mods
+[00:08:58] [Client thread/TRACE] [FML/]: Located mcmod.info file in file Mantle-1.10.2-1.1.3.jar
+[00:08:58] [Client thread/DEBUG] [FML/]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (slimeknights.mantle.Mantle) - loading
+[00:08:58] [Client thread/TRACE] [mantle/]: Parsed dependency info : [Forge@[12.18.1.2011,)] [Forge@[12.18.1.2011,)] []
+[00:08:58] [Client thread/DEBUG] [FML/]: Examining file mcjtylib-1.1x-2.3.1.jar for potential mods
+[00:08:58] [Client thread/TRACE] [FML/]: Located mcmod.info file in file mcjtylib-1.1x-2.3.1.jar
+[00:08:58] [Client thread/DEBUG] [FML/]: Examining file MCMultiPart-1.3.0-universal.jar for potential mods
+[00:08:58] [Client thread/DEBUG] [FML/]: The mod container MCMultiPart-1.3.0-universal.jar appears to be missing an mcmod.info file
+[00:08:58] [Client thread/DEBUG] [FML/]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (mcmultipart.MCMultiPartMod) - loading
+[00:08:58] [Client thread/TRACE] [mcmultipart/]: Parsed dependency info : [] [] []
+[00:08:58] [Client thread/DEBUG] [FML/]: Examining file MobDismemberment-1.10.2-6.0.0.jar for potential mods
+[00:08:58] [Client thread/TRACE] [FML/]: Located mcmod.info file in file MobDismemberment-1.10.2-6.0.0.jar
+[00:08:58] [Client thread/DEBUG] [FML/]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (me.ichun.mods.mobdismemberment.common.MobDismemberment) - loading
+[00:08:58] [Client thread/TRACE] [mobdismemberment/]: Parsed dependency info : [ichunutil@[6.0.0,7.0.0)] [ichunutil@[6.0.0,7.0.0)] []
+[00:08:58] [Client thread/DEBUG] [FML/]: Examining file MobGrindingUtils-0.1.8.8.jar for potential mods
+[00:08:58] [Client thread/TRACE] [FML/]: Located mcmod.info file in file MobGrindingUtils-0.1.8.8.jar
+[00:08:58] [Client thread/DEBUG] [FML/]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (mob_grinding_utils.MobGrindingUtils) - loading
+[00:08:58] [Client thread/TRACE] [mob_grinding_utils/]: Parsed dependency info : [] [] []
+[00:08:58] [Client thread/DEBUG] [FML/]: Examining file ModTweaker2-2.0.7.jar for potential mods
+[00:08:58] [Client thread/TRACE] [FML/]: Located mcmod.info file in file ModTweaker2-2.0.7.jar
+[00:08:58] [Client thread/DEBUG] [FML/]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (modtweaker.ModTweaker) - loading
+[00:08:58] [Client thread/TRACE] [modtweaker/]: Parsed dependency info : [MineTweaker3, mtlib] [MineTweaker3, mtlib] []
+[00:08:58] [Client thread/DEBUG] [FML/]: Examining file MouseTweaks-2.6.4-mc1.10.2.jar for potential mods
+[00:08:58] [Client thread/TRACE] [FML/]: Located mcmod.info file in file MouseTweaks-2.6.4-mc1.10.2.jar
+[00:08:58] [Client thread/DEBUG] [FML/]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (yalter.mousetweaks.forge.MouseTweaksForge) - loading
+[00:08:58] [Client thread/TRACE] [mousetweaks/]: Parsed dependency info : [] [] []
+[00:08:58] [Client thread/DEBUG] [FML/]: Examining file MTLib-1.0.0.jar for potential mods
+[00:08:58] [Client thread/TRACE] [FML/]: Located mcmod.info file in file MTLib-1.0.0.jar
+[00:08:58] [Client thread/DEBUG] [FML/]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (com.blamejared.mtlib.MTLib) - loading
+[00:08:58] [Client thread/TRACE] [mtlib/]: Parsed dependency info : [] [] []
+[00:08:58] [Client thread/DEBUG] [FML/]: Examining file openmodularturrets-1.10.2-3.0.0-42.jar for potential mods
+[00:08:58] [Client thread/TRACE] [FML/]: Located mcmod.info file in file openmodularturrets-1.10.2-3.0.0-42.jar
+[00:08:58] [Client thread/DEBUG] [FML/]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (omtteam.openmodularturrets.OpenModularTurrets) - loading
+[00:08:58] [Client thread/TRACE] [openmodularturrets/]: Parsed dependency info : [omlib@3.0.0-37] [ThermalFoundation, ThermalExpansion, OpenComputers, ComputerCraft, Mekanism, EnderIO, Thaumcraft, omlib@3.0.0-37] []
+[00:08:58] [Client thread/DEBUG] [FML/]: Examining file orespawn-2.0.0.10-1.10.2.jar for potential mods
+[00:08:58] [Client thread/TRACE] [FML/]: Located mcmod.info file in file orespawn-2.0.0.10-1.10.2.jar
+[00:08:58] [Client thread/DEBUG] [FML/]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (mmd.orespawn.OreSpawn) - loading
+[00:08:58] [Client thread/TRACE] [orespawn/]: Parsed dependency info : [] [] []
+[00:08:58] [Client thread/DEBUG] [FML/]: Examining file Pam's HarvestCraft 1.9.4-1.10.2h.jar for potential mods
+[00:08:58] [Client thread/TRACE] [FML/]: Located mcmod.info file in file Pam's HarvestCraft 1.9.4-1.10.2h.jar
+[00:08:58] [Client thread/DEBUG] [FML/]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (com.pam.harvestcraft.HarvestCraft) - loading
+[00:08:58] [Client thread/TRACE] [harvestcraft/]: Parsed dependency info : [Forge@[12.16.1.1900,)] [Forge@[12.16.1.1900,)] []
+[00:08:58] [Client thread/DEBUG] [FML/]: Examining file refinedstorage-1.2.11.jar for potential mods
+[00:08:58] [Client thread/TRACE] [FML/]: Located mcmod.info file in file refinedstorage-1.2.11.jar
+[00:08:58] [Client thread/DEBUG] [FML/]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (com.raoulvdberge.refinedstorage.RS) - loading
+[00:08:58] [Client thread/TRACE] [refinedstorage/]: Parsed dependency info : [mcmultipart@[1.2.1,), Forge@[12.18.2.2179,)] [Forge@[12.18.2.2179,), mcmultipart@[1.2.1,), JEI@[3.13.2.348,)] []
+[00:08:58] [Client thread/DEBUG] [FML/]: Examining file Reliquary-1.10.2-1.3.3.585.jar for potential mods
+[00:08:58] [Client thread/TRACE] [FML/]: Located mcmod.info file in file Reliquary-1.10.2-1.3.3.585.jar
+[00:08:58] [Client thread/DEBUG] [FML/]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (xreliquary.Reliquary) - loading
+[00:08:58] [Client thread/TRACE] [xreliquary/]: Parsed dependency info : [] [Baubles@[1.3.BETA8,)] []
+[00:08:58] [Client thread/DEBUG] [FML/]: Examining file rftools-1.1x-5.70.jar for potential mods
+[00:08:58] [Client thread/TRACE] [FML/]: Located mcmod.info file in file rftools-1.1x-5.70.jar
+[00:08:58] [Client thread/DEBUG] [FML/]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (mcjty.rftools.RFTools) - loading
+[00:08:58] [Client thread/TRACE] [rftools/]: Parsed dependency info : [compatlayer@[0.1.0,), mcjtylib_ng@[2.3.0,)] [mcjtylib_ng@[2.3.0,), compatlayer@[0.1.0,), Forge@[12.18.1.2082,), forge@[13.19.0.2176,)] []
+[00:08:58] [Client thread/DEBUG] [FML/]: Examining file rftoolsctrl-1.1x-1.6.3.jar for potential mods
+[00:08:58] [Client thread/TRACE] [FML/]: Located mcmod.info file in file rftoolsctrl-1.1x-1.6.3.jar
+[00:08:58] [Client thread/DEBUG] [FML/]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (mcjty.rftoolscontrol.RFToolsControl) - loading
+[00:08:58] [Client thread/TRACE] [rftoolscontrol/]: Parsed dependency info : [compatlayer@[0.1.0,), rftools@[5.70,), mcjtylib_ng@[2.3.1,)] [mcjtylib_ng@[2.3.1,), compatlayer@[0.1.0,), rftools@[5.70,), Forge@[12.18.1.2082,), forge@[13.19.0.2176,)] []
+[00:08:58] [Client thread/DEBUG] [FML/]: Examining file rftoolsdim-1.1x-4.50.jar for potential mods
+[00:08:58] [Client thread/TRACE] [FML/]: Located mcmod.info file in file rftoolsdim-1.1x-4.50.jar
+[00:08:58] [Client thread/DEBUG] [FML/]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (mcjty.rftoolsdim.RFToolsDim) - loading
+[00:08:58] [Client thread/TRACE] [rftoolsdim/]: Parsed dependency info : [compatlayer@[0.1.0,), rftools@[5.70,), mcjtylib_ng@[2.3.0,)] [mcjtylib_ng@[2.3.0,), compatlayer@[0.1.0,), rftools@[5.70,), Forge@[12.18.1.2082,), forge@[13.19.0.2176,)] []
+[00:08:58] [Client thread/DEBUG] [FML/]: Examining file roots-0.208.jar for potential mods
+[00:08:58] [Client thread/TRACE] [FML/]: Located mcmod.info file in file roots-0.208.jar
+[00:08:58] [Client thread/DEBUG] [FML/]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (elucent.roots.Roots) - loading
+[00:08:58] [Client thread/TRACE] [roots/]: Parsed dependency info : [] [] []
+[00:08:58] [Client thread/DEBUG] [FML/]: Examining file SimpleAchievements-MC1.9.4-1.2.2-26.jar for potential mods
+[00:08:58] [Client thread/TRACE] [FML/]: Located mcmod.info file in file SimpleAchievements-MC1.9.4-1.2.2-26.jar
+[00:08:58] [Client thread/DEBUG] [FML/]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (org.wyldmods.simpleachievements.SimpleAchievements) - loading
+[00:08:58] [Client thread/WARN] [FML/]: ****************************************
+[00:08:58] [Client thread/WARN] [FML/]: * The modid SimpleAchievements is not the same as it's lowercase version. Lowercasing will be enforced in 1.11
+[00:08:58] [Client thread/WARN] [FML/]: *  at net.minecraftforge.fml.common.FMLModContainer.sanityCheckModId(FMLModContainer.java:141)
+[00:08:58] [Client thread/WARN] [FML/]: *  at net.minecraftforge.fml.common.FMLModContainer.<init>(FMLModContainer.java:126)
+[00:08:58] [Client thread/WARN] [FML/]: *  at sun.reflect.GeneratedConstructorAccessor15.newInstance(Unknown Source)
+[00:08:58] [Client thread/WARN] [FML/]: *  at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+[00:08:58] [Client thread/WARN] [FML/]: *  at java.lang.reflect.Constructor.newInstance(Constructor.java:408)
+[00:08:58] [Client thread/WARN] [FML/]: *  at net.minecraftforge.fml.common.ModContainerFactory.build(ModContainerFactory.java:86)...
+[00:08:58] [Client thread/WARN] [FML/]: ****************************************
+[00:08:58] [Client thread/TRACE] [SimpleAchievements/]: Parsed dependency info : [] [] []
+[00:08:58] [Client thread/DEBUG] [FML/]: Examining file SolarFluxReborn_1.10.2-1.6r.jar for potential mods
+[00:08:58] [Client thread/TRACE] [FML/]: Located mcmod.info file in file SolarFluxReborn_1.10.2-1.6r.jar
+[00:08:58] [Client thread/DEBUG] [FML/]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (com.mrdimka.solarfluxreborn.SolarFluxRebornMod) - loading
+[00:08:58] [Client thread/WARN] [FML/]: ****************************************
+[00:08:58] [Client thread/WARN] [FML/]: * The modid SolarFluxReborn is not the same as it's lowercase version. Lowercasing will be enforced in 1.11
+[00:08:58] [Client thread/WARN] [FML/]: *  at net.minecraftforge.fml.common.FMLModContainer.sanityCheckModId(FMLModContainer.java:141)
+[00:08:58] [Client thread/WARN] [FML/]: *  at net.minecraftforge.fml.common.FMLModContainer.<init>(FMLModContainer.java:126)
+[00:08:58] [Client thread/WARN] [FML/]: *  at sun.reflect.GeneratedConstructorAccessor15.newInstance(Unknown Source)
+[00:08:58] [Client thread/WARN] [FML/]: *  at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+[00:08:58] [Client thread/WARN] [FML/]: *  at java.lang.reflect.Constructor.newInstance(Constructor.java:408)
+[00:08:58] [Client thread/WARN] [FML/]: *  at net.minecraftforge.fml.common.ModContainerFactory.build(ModContainerFactory.java:86)...
+[00:08:58] [Client thread/WARN] [FML/]: ****************************************
+[00:08:58] [Client thread/TRACE] [SolarFluxReborn/]: Parsed dependency info : [hammercore@[1.1.8,)] [hammercore@[1.1.8,)] []
+[00:08:58] [Client thread/DEBUG] [FML/]: Examining file SpiceOfLife-mc1.9.4-1.3.6.jar for potential mods
+[00:08:58] [Client thread/TRACE] [FML/]: Located mcmod.info file in file SpiceOfLife-mc1.9.4-1.3.6.jar
+[00:08:58] [Client thread/DEBUG] [FML/]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (squeek.spiceoflife.ModSpiceOfLife) - loading
+[00:08:58] [Client thread/WARN] [FML/]: ****************************************
+[00:08:58] [Client thread/WARN] [FML/]: * The modid SpiceOfLife is not the same as it's lowercase version. Lowercasing will be enforced in 1.11
+[00:08:58] [Client thread/WARN] [FML/]: *  at net.minecraftforge.fml.common.FMLModContainer.sanityCheckModId(FMLModContainer.java:141)
+[00:08:58] [Client thread/WARN] [FML/]: *  at net.minecraftforge.fml.common.FMLModContainer.<init>(FMLModContainer.java:126)
+[00:08:58] [Client thread/WARN] [FML/]: *  at sun.reflect.GeneratedConstructorAccessor15.newInstance(Unknown Source)
+[00:08:58] [Client thread/WARN] [FML/]: *  at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+[00:08:58] [Client thread/WARN] [FML/]: *  at java.lang.reflect.Constructor.newInstance(Constructor.java:408)
+[00:08:58] [Client thread/WARN] [FML/]: *  at net.minecraftforge.fml.common.ModContainerFactory.build(ModContainerFactory.java:86)...
+[00:08:58] [Client thread/WARN] [FML/]: ****************************************
+[00:08:58] [Client thread/TRACE] [SpiceOfLife/]: Parsed dependency info : [AppleCore] [AppleCore] []
+[00:08:58] [Client thread/DEBUG] [FML/]: Examining file TConstruct-1.10.2-2.6.1.jar for potential mods
+[00:08:58] [Client thread/TRACE] [FML/]: Located mcmod.info file in file TConstruct-1.10.2-2.6.1.jar
+[00:08:58] [Client thread/DEBUG] [FML/]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (slimeknights.tconstruct.TConstruct) - loading
+[00:08:58] [Client thread/TRACE] [tconstruct/]: Parsed dependency info : [Forge@[12.18.2.2115,), mantle@[1.10.2-1.1.3,)] [Forge@[12.18.2.2115,), mantle@[1.10.2-1.1.3,), JEI@[3.13.6.387,)] []
+[00:08:58] [Client thread/DEBUG] [FML/]: Examining file theoneprobe-1.10-1.3.3.jar for potential mods
+[00:08:58] [Client thread/TRACE] [FML/]: Located mcmod.info file in file theoneprobe-1.10-1.3.3.jar
+[00:08:58] [Client thread/DEBUG] [FML/]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (mcjty.theoneprobe.TheOneProbe) - loading
+[00:08:58] [Client thread/TRACE] [theoneprobe/]: Parsed dependency info : [Forge@[12.17.0.1976,)] [Forge@[12.17.0.1976,)] []
+[00:08:58] [Client thread/DEBUG] [FML/]: Examining file TombManyGraves-1.10.2-2.1.13.jar for potential mods
+[00:08:58] [Client thread/TRACE] [FML/]: Located mcmod.info file in file TombManyGraves-1.10.2-2.1.13.jar
+[00:08:58] [Client thread/DEBUG] [FML/]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (com.m4thg33k.tombmanygraves.TombManyGraves) - loading
+[00:08:58] [Client thread/TRACE] [tombmanygraves/]: Parsed dependency info : [] [] []
+[00:08:58] [Client thread/DEBUG] [FML/]: Examining file ToughAsNails-1.9.4-1.0.11.jar for potential mods
+[00:08:58] [Client thread/TRACE] [FML/]: Located mcmod.info file in file ToughAsNails-1.9.4-1.0.11.jar
+[00:08:58] [Client thread/DEBUG] [FML/]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (toughasnails.core.ToughAsNails) - loading
+[00:08:58] [Client thread/WARN] [FML/]: ****************************************
+[00:08:58] [Client thread/WARN] [FML/]: * The modid ToughAsNails is not the same as it's lowercase version. Lowercasing will be enforced in 1.11
+[00:08:58] [Client thread/WARN] [FML/]: *  at net.minecraftforge.fml.common.FMLModContainer.sanityCheckModId(FMLModContainer.java:141)
+[00:08:58] [Client thread/WARN] [FML/]: *  at net.minecraftforge.fml.common.FMLModContainer.<init>(FMLModContainer.java:126)
+[00:08:58] [Client thread/WARN] [FML/]: *  at sun.reflect.GeneratedConstructorAccessor15.newInstance(Unknown Source)
+[00:08:58] [Client thread/WARN] [FML/]: *  at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+[00:08:58] [Client thread/WARN] [FML/]: *  at java.lang.reflect.Constructor.newInstance(Constructor.java:408)
+[00:08:58] [Client thread/WARN] [FML/]: *  at net.minecraftforge.fml.common.ModContainerFactory.build(ModContainerFactory.java:86)...
+[00:08:58] [Client thread/WARN] [FML/]: ****************************************
+[00:08:58] [Client thread/TRACE] [ToughAsNails/]: Parsed dependency info : [] [] []
+[00:08:58] [Client thread/DEBUG] [FML/]: Examining file valkyrielib-1.10.2-0.10.5e.jar for potential mods
+[00:08:58] [Client thread/TRACE] [FML/]: Located mcmod.info file in file valkyrielib-1.10.2-0.10.5e.jar
+[00:08:58] [Client thread/DEBUG] [FML/]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (com.valkyrieofnight.valkyrielib.ValkyrieLib) - loading
+[00:08:58] [Client thread/TRACE] [valkyrielib/]: Parsed dependency info : [Forge@[1.10.2-12.18.1.2087,)] [Forge@[1.10.2-12.18.1.2087,)] []
+[00:08:58] [Client thread/DEBUG] [FML/]: Examining file WIRED-1.3.3.jar for potential mods
+[00:08:58] [Client thread/TRACE] [FML/]: Located mcmod.info file in file WIRED-1.3.3.jar
+[00:08:58] [Client thread/DEBUG] [FML/]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (com.mr208.wired.Wired) - loading
+[00:08:58] [Client thread/TRACE] [wired/]: Parsed dependency info : [cyberware] [cyberware, theoneprobe] []
+[00:08:58] [Client thread/DEBUG] [FML/]: Examining file zerocore-1.10.2-0.0.8.2.jar for potential mods
+[00:08:58] [Client thread/TRACE] [FML/]: Located mcmod.info file in file zerocore-1.10.2-0.0.8.2.jar
+[00:08:58] [Client thread/DEBUG] [FML/]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (it.zerono.mods.zerocore.internal.ZeroCore) - loading
+[00:08:58] [Client thread/TRACE] [zerocore/]: Parsed dependency info : [Forge@[12.18.2.2099,)] [Forge@[12.18.2.2099,)] []
+[00:08:59] [Client thread/DEBUG] [FML/]: Examining file zombieawareness-1.10.2-1.20.jar for potential mods
+[00:08:59] [Client thread/TRACE] [FML/]: Located mcmod.info file in file zombieawareness-1.10.2-1.20.jar
+[00:08:59] [Client thread/DEBUG] [FML/]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (ZombieAwareness.ZombieAwareness) - loading
+[00:08:59] [Client thread/TRACE] [zombieawareness/]: Parsed dependency info : [] [] []
+[00:08:59] [Client thread/INFO] [FML/]: Forge Mod Loader has identified 58 mods to load
+[00:08:59] [Client thread/DEBUG] [FML/]: Found API it.zerono.mods.zerocore.api.multiblock.rectangular (owned by zerocore providing zerocore|API|multiblock|rectangular) embedded in zerocore
+[00:08:59] [Client thread/DEBUG] [FML/]: Found API com.jaquadro.minecraft.storagedrawers.api.event (owned by StorageDrawersAPI providing StorageDrawersAPI|event) embedded in refinedstorage
+[00:08:59] [Client thread/DEBUG] [FML/]: Found API dan200.computercraft.api (owned by ComputerCraft providing ComputerCraft|API) embedded in zerocore
+[00:08:59] [Client thread/DEBUG] [FML/]: Found API com.jaquadro.minecraft.storagedrawers.api.registry (owned by StorageDrawersAPI providing StorageDrawersAPI|registry) embedded in refinedstorage
+[00:08:59] [Client thread/DEBUG] [FML/]: Found API me.superckl.api.superscript.object (owned by BiomeTweaker providing SuperScript|object) embedded in BiomeTweaker
+[00:08:59] [Client thread/DEBUG] [FML/]: Found API cofh.api.energy (owned by CoFHAPI providing CoFHAPI|energy) embedded in actuallyadditions
+[00:08:59] [Client thread/DEBUG] [FML/]: Found API me.ichun.mods.ichunutil.api (owned by iChun providing iChunUtil API) embedded in ichunutil
+[00:08:59] [Client thread/DEBUG] [FML/]: Found API me.superckl.api.superscript.util (owned by BiomeTweaker providing SuperScript|util) embedded in BiomeTweaker
+[00:08:59] [Client thread/DEBUG] [FML/]: Found API cofh.api.energy (owned by CoFHAPI providing CoFHAPI|energy) embedded in ExtraUtils2
+[00:08:59] [Client thread/DEBUG] [FML/]: Found API cofh.api.energy (owned by CoFHAPI providing CoFHAPI|energy) embedded in SolarFluxReborn
+[00:08:59] [Client thread/DEBUG] [FML/]: Found API squeek.applecore.api (owned by AppleCore providing AppleCoreAPI) embedded in AppleCore
+[00:08:59] [Client thread/DEBUG] [FML/]: Found API com.jaquadro.minecraft.storagedrawers.api.config (owned by StorageDrawersAPI providing StorageDrawersAPI|config) embedded in refinedstorage
+[00:08:59] [Client thread/DEBUG] [FML/]: Found API com.jaquadro.minecraft.storagedrawers.api.inventory (owned by StorageDrawersAPI providing StorageDrawersAPI|inventory) embedded in refinedstorage
+[00:08:59] [Client thread/DEBUG] [FML/]: Found API crazypants.enderio.api (owned by EnderIO providing EnderIOAPI) embedded in EnderIO
+[00:08:59] [Client thread/DEBUG] [FML/]: Found API li.cil.oc.api.network (owned by OpenComputers|Core providing OpenComputersAPI|Network) embedded in zerocore
+[00:08:59] [Client thread/DEBUG] [FML/]: Found API li.cil.oc.api.fs (owned by OpenComputers|Core providing OpenComputersAPI|FileSystem) embedded in zerocore
+[00:08:59] [Client thread/DEBUG] [FML/]: Found API dan200.computercraft.api.media (owned by ComputerCraft providing ComputerCraft|API|Media) embedded in zerocore
+[00:08:59] [Client thread/DEBUG] [FML/]: Found API cofh.api (owned by CoFHLib providing CoFHAPI) embedded in refinedstorage
+[00:08:59] [Client thread/DEBUG] [FML/]: Found API li.cil.oc.api.internal (owned by OpenComputers|Core providing OpenComputersAPI|Internal) embedded in zerocore
+[00:08:59] [Client thread/DEBUG] [FML/]: Found API crazypants.enderio.api.teleport (owned by EnderIO providing EnderIOAPI|Teleport) embedded in EnderIO
+[00:08:59] [Client thread/DEBUG] [FML/]: Found API cofh.api (owned by CoFHLib providing CoFHAPI) embedded in valkyrielib
+[00:08:59] [Client thread/DEBUG] [FML/]: Found API cofh.api.energy (owned by CoFHAPI providing CoFHAPI|energy) embedded in zerocore
+[00:08:59] [Client thread/DEBUG] [FML/]: Found API cofh.api.transport (owned by CoFHAPI providing CoFHAPI|transport) embedded in zerocore
+[00:08:59] [Client thread/DEBUG] [FML/]: Found API com.valkyrieofnight.environmentaltech.api (owned by environmentaltech-api providing environmentaltech-api) embedded in environmentaltech
+[00:08:59] [Client thread/DEBUG] [FML/]: Found API cofh.api.block (owned by CoFHAPI providing CoFHAPI|block) embedded in zerocore
+[00:08:59] [Client thread/DEBUG] [FML/]: Found API dan200.computercraft.api.peripheral (owned by ComputerCraft providing ComputerCraft|API|Peripheral) embedded in zerocore
+[00:08:59] [Client thread/DEBUG] [FML/]: Found API li.cil.oc.api.driver (owned by OpenComputers|Core providing OpenComputersAPI|Driver) embedded in zerocore
+[00:08:59] [Client thread/DEBUG] [FML/]: Found API it.zerono.mods.zerocore.api.multiblock.validation (owned by zerocore providing zerocore|API|multiblock|validation) embedded in zerocore
+[00:08:59] [Client thread/DEBUG] [FML/]: Found API cofh.api (owned by CoFHLib providing CoFHAPI) embedded in ExtraUtils2
+[00:08:59] [Client thread/DEBUG] [FML/]: Found API li.cil.oc.api.manual (owned by OpenComputers|Core providing OpenComputersAPI|Manual) embedded in zerocore
+[00:08:59] [Client thread/DEBUG] [FML/]: Found API com.jaquadro.minecraft.storagedrawers.api.storage.attribute (owned by StorageDrawersAPI providing StorageDrawersAPI|storage-attribute) embedded in refinedstorage
+[00:08:59] [Client thread/DEBUG] [FML/]: Found API com.valkyrieofnight.valkyrielib (owned by valkyrielib providing valkyrielib.api) embedded in valkyrielib
+[00:08:59] [Client thread/DEBUG] [FML/]: Found API crazypants.enderio.api.tool (owned by EnderIO providing EnderIOAPI|Tools) embedded in EnderIO
+[00:08:59] [Client thread/DEBUG] [FML/]: Found API cofh.api.core (owned by CoFHAPI providing CoFHAPI|core) embedded in valkyrielib
+[00:08:59] [Client thread/DEBUG] [FML/]: Found API cofh.api.energy (owned by CoFHAPI providing CoFHAPI|energy) embedded in valkyrielib
+[00:08:59] [Client thread/DEBUG] [FML/]: Found API dan200.computercraft.api.redstone (owned by ComputerCraft providing ComputerCraft|API|Redstone) embedded in zerocore
+[00:08:59] [Client thread/DEBUG] [FML/]: Found API me.superckl.api.biometweaker.script.pack (owned by BiomeTweaker providing BiomeTweakerAPI|script|pack) embedded in BiomeTweaker
+[00:08:59] [Client thread/DEBUG] [FML/]: Found API crazypants.enderio.api.redstone (owned by EnderIO providing EnderIOAPI|Redstone) embedded in EnderIO
+[00:08:59] [Client thread/DEBUG] [FML/]: Found API cofh.api.inventory (owned by CoFHAPI providing CoFHAPI|inventory) embedded in zerocore
+[00:08:59] [Client thread/DEBUG] [FML/]: Found API cofh.api.item (owned by CoFHAPI providing CoFHAPI|item) embedded in valkyrielib
+[00:08:59] [Client thread/DEBUG] [FML/]: Found API me.superckl.api.biometweaker.script.wrapper (owned by BiomeTweaker providing BiomeTweakerAPI|script|wrapper) embedded in BiomeTweaker
+[00:08:59] [Client thread/DEBUG] [FML/]: Found API com.jaquadro.minecraft.storagedrawers.api (owned by StorageDrawers providing StorageDrawersAPI) embedded in refinedstorage
+[00:08:59] [Client thread/DEBUG] [FML/]: Found API li.cil.oc.api.prefab (owned by OpenComputers|Core providing OpenComputersAPI|Prefab) embedded in zerocore
+[00:08:59] [Client thread/DEBUG] [FML/]: Found API dan200.computercraft.api.turtle (owned by ComputerCraft providing ComputerCraft|API|Turtle) embedded in zerocore
+[00:08:59] [Client thread/DEBUG] [FML/]: Found API me.superckl.api.biometweaker (owned by BiomeTweaker providing BiomeTweakerAPI) embedded in BiomeTweaker
+[00:08:59] [Client thread/DEBUG] [FML/]: Found API me.superckl.api.biometweaker.event (owned by BiomeTweaker providing BiomeTweakerAPI|event) embedded in BiomeTweaker
+[00:08:59] [Client thread/DEBUG] [FML/]: Found API cofh.api.energy (owned by CoFHAPI providing CoFHAPI|energy) embedded in excompressum
+[00:08:59] [Client thread/DEBUG] [FML/]: Found API cofh.api.item (owned by CoFHAPI providing CoFHAPI|item) embedded in zerocore
+[00:08:59] [Client thread/DEBUG] [FML/]: Found API li.cil.oc.api.event (owned by OpenComputers|Core providing OpenComputersAPI|Event) embedded in zerocore
+[00:08:59] [Client thread/DEBUG] [FML/]: Found API me.superckl.api.biometweaker.script.object (owned by BiomeTweaker providing BiomeTweakerAPI|script|object) embedded in BiomeTweaker
+[00:08:59] [Client thread/DEBUG] [FML/]: Found API com.jaquadro.minecraft.storagedrawers.api.render (owned by StorageDrawersAPI providing StorageDrawersAPI|render) embedded in refinedstorage
+[00:08:59] [Client thread/DEBUG] [FML/]: Found API it.zerono.mods.zerocore.api.multiblock (owned by zerocore providing zerocore|API|multiblock) embedded in zerocore
+[00:08:59] [Client thread/DEBUG] [FML/]: Found API cofh.api (owned by CoFHLib providing CoFHAPI) embedded in zerocore
+[00:08:59] [Client thread/DEBUG] [FML/]: Found API li.cil.oc.api (owned by OpenComputers|Core providing OpenComputersAPI|Core) embedded in zerocore
+[00:08:59] [Client thread/DEBUG] [FML/]: Found API cofh.api.energy (owned by CoFHAPI providing CoFHAPI|energy) embedded in refinedstorage
+[00:08:59] [Client thread/DEBUG] [FML/]: Found API cofh.api.energy (owned by CoFHAPI providing CoFHAPI|energy) embedded in theoneprobe
+[00:08:59] [Client thread/DEBUG] [FML/]: Found API net.blay09.mods.craftingtweaks.api (owned by craftingtweaks providing CraftingTweaks|API) embedded in craftingtweaks
+[00:08:59] [Client thread/DEBUG] [FML/]: Found API de.ellpeck.actuallyadditions.api (owned by actuallyadditions providing actuallyadditionsapi) embedded in actuallyadditions
+[00:08:59] [Client thread/DEBUG] [FML/]: Found API dan200.computercraft.api.permissions (owned by ComputerCraft providing ComputerCraft|API|Permissions) embedded in zerocore
+[00:08:59] [Client thread/DEBUG] [FML/]: Found API cofh.api (owned by CoFHLib providing CoFHAPI) embedded in theoneprobe
+[00:08:59] [Client thread/DEBUG] [FML/]: Found API dan200.computercraft.api.filesystem (owned by ComputerCraft providing ComputerCraft|API|FileSystem) embedded in zerocore
+[00:08:59] [Client thread/DEBUG] [FML/]: Found API cofh.api.core (owned by CoFHAPI providing CoFHAPI|core) embedded in zerocore
+[00:08:59] [Client thread/DEBUG] [FML/]: Found API li.cil.oc.api.component (owned by OpenComputers|Core providing OpenComputersAPI|Component) embedded in zerocore
+[00:08:59] [Client thread/DEBUG] [FML/]: Found API cofh.api (owned by CoFHLib providing CoFHAPI) embedded in SolarFluxReborn
+[00:08:59] [Client thread/DEBUG] [FML/]: Found API me.superckl.api.superscript (owned by BiomeTweaker providing SuperScript) embedded in BiomeTweaker
+[00:08:59] [Client thread/DEBUG] [FML/]: Found API cofh.api.inventory (owned by CoFHAPI providing CoFHAPI|inventory) embedded in valkyrielib
+[00:08:59] [Client thread/DEBUG] [FML/]: Found API cofh.api.tileentity (owned by CoFHAPI providing CoFHAPI|tileentity) embedded in zerocore
+[00:08:59] [Client thread/DEBUG] [FML/]: Found API com.jaquadro.minecraft.storagedrawers.api.storage (owned by StorageDrawersAPI providing StorageDrawersAPI|storage) embedded in refinedstorage
+[00:08:59] [Client thread/DEBUG] [FML/]: Found API me.superckl.api.superscript.command (owned by BiomeTweaker providing SuperScript|command) embedded in BiomeTweaker
+[00:08:59] [Client thread/DEBUG] [FML/]: Found API dan200.computercraft.api.lua (owned by ComputerCraft providing ComputerCraft|API|Lua) embedded in zerocore
+[00:08:59] [Client thread/DEBUG] [FML/]: Found API cofh.api (owned by CoFHLib providing CoFHAPI) embedded in excompressum
+[00:08:59] [Client thread/DEBUG] [FML/]: Found API mezz.jei.api (owned by JEI providing JustEnoughItemsAPI) embedded in JEI
+[00:08:59] [Client thread/DEBUG] [FML/]: Found API erogenousbeef.bigreactors.api (owned by bigreactors providing bigreactors|API) embedded in bigreactors
+[00:08:59] [Client thread/DEBUG] [FML/]: Found API gr8pefish.ironbackpacks.api (owned by ironbackpacks providing IronBackpacks|API) embedded in ironbackpacks
+[00:08:59] [Client thread/DEBUG] [FML/]: Found API me.superckl.api.biometweaker.util (owned by BiomeTweaker providing BiomeTweakerAPI|util) embedded in BiomeTweaker
+[00:08:59] [Client thread/DEBUG] [FML/]: Found API li.cil.oc.api.machine (owned by OpenComputers|Core providing OpenComputersAPI|Machine) embedded in zerocore
+[00:08:59] [Client thread/DEBUG] [FML/]: Found API cofh.api (owned by CoFHLib providing CoFHAPI) embedded in actuallyadditions
+[00:08:59] [Client thread/DEBUG] [FML/]: Found API li.cil.oc.api.driver.item (owned by OpenComputers|Core providing OpenComputersAPI|Driver|Item) embedded in zerocore
+[00:08:59] [Client thread/DEBUG] [FML/]: Found API com.jaquadro.minecraft.storagedrawers.api.pack (owned by StorageDrawersAPI providing StorageDrawersAPI|pack) embedded in refinedstorage
+[00:08:59] [Client thread/TRACE] [FML/]: Removing upstream parent StorageDrawers from APIContainer{StorageDrawersAPI|registry:1.7.10-1.2.0}
+[00:08:59] [Client thread/DEBUG] [FML/]: Creating API container dummy for API StorageDrawersAPI|registry: owner: StorageDrawersAPI, dependents: [refinedstorage]
+[00:08:59] [Client thread/DEBUG] [FML/]: Creating API container dummy for API SuperScript|command: owner: BiomeTweaker, dependents: []
+[00:08:59] [Client thread/TRACE] [FML/]: Removing upstream parent CoFHLib from APIContainer{CoFHAPI|core:1.8.9R1.2.0B1}
+[00:08:59] [Client thread/DEBUG] [FML/]: Creating API container dummy for API CoFHAPI|core: owner: CoFHAPI, dependents: [valkyrielib, zerocore]
+[00:08:59] [Client thread/TRACE] [FML/]: Removing upstream parent StorageDrawers from APIContainer{StorageDrawersAPI|storage:1.7.10-1.2.0}
+[00:08:59] [Client thread/DEBUG] [FML/]: Creating API container dummy for API StorageDrawersAPI|storage: owner: StorageDrawersAPI, dependents: [refinedstorage]
+[00:08:59] [Client thread/INFO] [FML/]: Found mod(s) [cyberware] containing declared API package cofh.api.energy (owned by CoFHAPI) without associated API reference
+[00:08:59] [Client thread/TRACE] [FML/]: Removing upstream parent CoFHLib from APIContainer{CoFHAPI|energy:1.8.9R1.2.0B1}
+[00:08:59] [Client thread/DEBUG] [FML/]: Creating API container dummy for API CoFHAPI|energy: owner: CoFHAPI, dependents: [actuallyadditions, ExtraUtils2, SolarFluxReborn, zerocore, valkyrielib, excompressum, refinedstorage, theoneprobe, cyberware]
+[00:08:59] [Client thread/DEBUG] [FML/]: Creating API container dummy for API OpenComputersAPI|Driver|Item: owner: OpenComputers|Core, dependents: [zerocore]
+[00:08:59] [Client thread/TRACE] [FML/]: Removing upstream parent StorageDrawers from APIContainer{StorageDrawersAPI|inventory:1.7.10-1.2.0}
+[00:08:59] [Client thread/DEBUG] [FML/]: Creating API container dummy for API StorageDrawersAPI|inventory: owner: StorageDrawersAPI, dependents: [refinedstorage]
+[00:08:59] [Client thread/DEBUG] [FML/]: Creating API container dummy for API zerocore|API|multiblock|validation: owner: zerocore, dependents: []
+[00:08:59] [Client thread/DEBUG] [FML/]: Creating API container dummy for API EnderIOAPI|Teleport: owner: EnderIO, dependents: []
+[00:08:59] [Client thread/DEBUG] [FML/]: Creating API container dummy for API actuallyadditionsapi: owner: actuallyadditions, dependents: []
+[00:08:59] [Client thread/DEBUG] [FML/]: Creating API container dummy for API ComputerCraft|API|Peripheral: owner: ComputerCraft, dependents: [zerocore]
+[00:08:59] [Client thread/DEBUG] [FML/]: Creating API container dummy for API EnderIOAPI|Tools: owner: EnderIO, dependents: []
+[00:08:59] [Client thread/DEBUG] [FML/]: Creating API container dummy for API EnderIOAPI|Redstone: owner: EnderIO, dependents: []
+[00:08:59] [Client thread/TRACE] [FML/]: Removing upstream parent CoFHLib from APIContainer{CoFHAPI|item:1.8.9R1.2.0B1}
+[00:08:59] [Client thread/DEBUG] [FML/]: Creating API container dummy for API CoFHAPI|item: owner: CoFHAPI, dependents: [valkyrielib, zerocore]
+[00:08:59] [Client thread/DEBUG] [FML/]: Creating API container dummy for API OpenComputersAPI|Event: owner: OpenComputers|Core, dependents: [zerocore]
+[00:08:59] [Client thread/DEBUG] [FML/]: Creating API container dummy for API zerocore|API|multiblock: owner: zerocore, dependents: []
+[00:08:59] [Client thread/DEBUG] [FML/]: Creating API container dummy for API IronBackpacks|API: owner: ironbackpacks, dependents: []
+[00:08:59] [Client thread/DEBUG] [FML/]: Creating API container dummy for API OpenComputersAPI|Network: owner: OpenComputers|Core, dependents: [zerocore]
+[00:08:59] [Client thread/DEBUG] [FML/]: Creating API container dummy for API ComputerCraft|API|Turtle: owner: ComputerCraft, dependents: [zerocore]
+[00:08:59] [Client thread/DEBUG] [FML/]: Creating API container dummy for API iChunUtil API: owner: iChun, dependents: [ichunutil]
+[00:08:59] [Client thread/DEBUG] [FML/]: Creating API container dummy for API JustEnoughItemsAPI: owner: JEI, dependents: []
+[00:08:59] [Client thread/DEBUG] [FML/]: Creating API container dummy for API OpenComputersAPI|Manual: owner: OpenComputers|Core, dependents: [zerocore]
+[00:08:59] [Client thread/DEBUG] [FML/]: Creating API container dummy for API BiomeTweakerAPI|util: owner: BiomeTweaker, dependents: []
+[00:08:59] [Client thread/DEBUG] [FML/]: Creating API container dummy for API BiomeTweakerAPI|script|pack: owner: BiomeTweaker, dependents: []
+[00:08:59] [Client thread/DEBUG] [FML/]: Creating API container dummy for API OpenComputersAPI|Core: owner: OpenComputers|Core, dependents: [zerocore]
+[00:08:59] [Client thread/DEBUG] [FML/]: Creating API container dummy for API ComputerCraft|API: owner: ComputerCraft, dependents: [zerocore]
+[00:08:59] [Client thread/DEBUG] [FML/]: Creating API container dummy for API OpenComputersAPI|Internal: owner: OpenComputers|Core, dependents: [zerocore]
+[00:08:59] [Client thread/DEBUG] [FML/]: Creating API container dummy for API OpenComputersAPI|Component: owner: OpenComputers|Core, dependents: [zerocore]
+[00:08:59] [Client thread/TRACE] [FML/]: Removing upstream parent StorageDrawers from APIContainer{StorageDrawersAPI|pack:1.7.10-1.2.0}
+[00:08:59] [Client thread/DEBUG] [FML/]: Creating API container dummy for API StorageDrawersAPI|pack: owner: StorageDrawersAPI, dependents: [refinedstorage]
+[00:08:59] [Client thread/DEBUG] [FML/]: Creating API container dummy for API compatlayer: owner: McJty, dependents: []
+[00:08:59] [Client thread/TRACE] [FML/]: APIContainer environmentaltech-api is it's own parent. skipping
+[00:08:59] [Client thread/DEBUG] [FML/]: Creating API container dummy for API environmentaltech-api: owner: environmentaltech-api, dependents: [environmentaltech]
+[00:08:59] [Client thread/DEBUG] [FML/]: Creating API container dummy for API mcjtylib_ng: owner: McJty, dependents: []
+[00:08:59] [Client thread/DEBUG] [FML/]: Creating API container dummy for API ComputerCraft|API|FileSystem: owner: ComputerCraft, dependents: [zerocore]
+[00:08:59] [Client thread/TRACE] [FML/]: Removing upstream parent StorageDrawers from APIContainer{StorageDrawersAPI|render:1.7.10-1.2.0}
+[00:08:59] [Client thread/DEBUG] [FML/]: Creating API container dummy for API StorageDrawersAPI|render: owner: StorageDrawersAPI, dependents: [refinedstorage]
+[00:08:59] [Client thread/DEBUG] [FML/]: Creating API container dummy for API OpenComputersAPI|Driver: owner: OpenComputers|Core, dependents: [zerocore]
+[00:08:59] [Client thread/DEBUG] [FML/]: Creating API container dummy for API CraftingTweaks|API: owner: craftingtweaks, dependents: []
+[00:08:59] [Client thread/DEBUG] [FML/]: Creating API container dummy for API ComputerCraft|API|Media: owner: ComputerCraft, dependents: [zerocore]
+[00:08:59] [Client thread/DEBUG] [FML/]: Creating API container dummy for API AppleCoreAPI: owner: AppleCore, dependents: []
+[00:08:59] [Client thread/DEBUG] [FML/]: Creating API container dummy for API ComputerCraft|API|Lua: owner: ComputerCraft, dependents: [zerocore]
+[00:08:59] [Client thread/DEBUG] [FML/]: Creating API container dummy for API SuperScript|object: owner: BiomeTweaker, dependents: []
+[00:08:59] [Client thread/DEBUG] [FML/]: Creating API container dummy for API valkyrielib.api: owner: valkyrielib, dependents: []
+[00:08:59] [Client thread/DEBUG] [FML/]: Creating API container dummy for API SuperScript|util: owner: BiomeTweaker, dependents: []
+[00:08:59] [Client thread/DEBUG] [FML/]: Creating API container dummy for API StorageDrawersAPI: owner: StorageDrawers, dependents: [refinedstorage]
+[00:08:59] [Client thread/TRACE] [FML/]: Removing upstream parent CoFHLib from APIContainer{CoFHAPI|tileentity:1.8.9R1.2.0B1}
+[00:08:59] [Client thread/DEBUG] [FML/]: Creating API container dummy for API CoFHAPI|tileentity: owner: CoFHAPI, dependents: [zerocore]
+[00:08:59] [Client thread/DEBUG] [FML/]: Creating API container dummy for API SuperScript: owner: BiomeTweaker, dependents: []
+[00:08:59] [Client thread/DEBUG] [FML/]: Creating API container dummy for API CoFHAPI: owner: CoFHLib, dependents: [refinedstorage, valkyrielib, ExtraUtils2, zerocore, theoneprobe, SolarFluxReborn, excompressum, actuallyadditions]
+[00:08:59] [Client thread/DEBUG] [FML/]: Creating API container dummy for API bigreactors|API: owner: bigreactors, dependents: []
+[00:08:59] [Client thread/DEBUG] [FML/]: Creating API container dummy for API ComputerCraft|API|Redstone: owner: ComputerCraft, dependents: [zerocore]
+[00:08:59] [Client thread/DEBUG] [FML/]: Creating API container dummy for API zerocore|API|multiblock|rectangular: owner: zerocore, dependents: []
+[00:08:59] [Client thread/TRACE] [FML/]: Removing upstream parent StorageDrawers from APIContainer{StorageDrawersAPI|config:1.7.10-1.2.0}
+[00:08:59] [Client thread/DEBUG] [FML/]: Creating API container dummy for API StorageDrawersAPI|config: owner: StorageDrawersAPI, dependents: [refinedstorage]
+[00:08:59] [Client thread/DEBUG] [FML/]: Creating API container dummy for API ComputerCraft|API|Permissions: owner: ComputerCraft, dependents: [zerocore]
+[00:08:59] [Client thread/DEBUG] [FML/]: Creating API container dummy for API EnderIOAPI: owner: EnderIO, dependents: []
+[00:08:59] [Client thread/TRACE] [FML/]: Removing upstream parent StorageDrawers from APIContainer{StorageDrawersAPI|event:1.7.10-1.2.0}
+[00:08:59] [Client thread/DEBUG] [FML/]: Creating API container dummy for API StorageDrawersAPI|event: owner: StorageDrawersAPI, dependents: [refinedstorage]
+[00:08:59] [Client thread/DEBUG] [FML/]: Creating API container dummy for API BiomeTweakerAPI|script|object: owner: BiomeTweaker, dependents: []
+[00:08:59] [Client thread/DEBUG] [FML/]: Creating API container dummy for API OpenComputersAPI|Machine: owner: OpenComputers|Core, dependents: [zerocore]
+[00:08:59] [Client thread/DEBUG] [FML/]: Creating API container dummy for API OpenComputersAPI|Prefab: owner: OpenComputers|Core, dependents: [zerocore]
+[00:08:59] [Client thread/TRACE] [FML/]: Removing upstream parent CoFHLib from APIContainer{CoFHAPI|block:1.8.9R1.2.0B1}
+[00:08:59] [Client thread/DEBUG] [FML/]: Creating API container dummy for API CoFHAPI|block: owner: CoFHAPI, dependents: [zerocore]
+[00:08:59] [Client thread/DEBUG] [FML/]: Creating API container dummy for API BiomeTweakerAPI: owner: BiomeTweaker, dependents: []
+[00:08:59] [Client thread/TRACE] [FML/]: Removing upstream parent CoFHLib from APIContainer{CoFHAPI|transport:1.8.9R1.2.0B1}
+[00:08:59] [Client thread/DEBUG] [FML/]: Creating API container dummy for API CoFHAPI|transport: owner: CoFHAPI, dependents: [zerocore]
+[00:08:59] [Client thread/DEBUG] [FML/]: Creating API container dummy for API OpenComputersAPI|FileSystem: owner: OpenComputers|Core, dependents: [zerocore]
+[00:08:59] [Client thread/DEBUG] [FML/]: Creating API container dummy for API BiomeTweakerAPI|script|wrapper: owner: BiomeTweaker, dependents: []
+[00:08:59] [Client thread/TRACE] [FML/]: Removing upstream parent StorageDrawers from APIContainer{StorageDrawersAPI|storage-attribute:1.7.10-1.2.0}
+[00:08:59] [Client thread/DEBUG] [FML/]: Creating API container dummy for API StorageDrawersAPI|storage-attribute: owner: StorageDrawersAPI, dependents: [refinedstorage]
+[00:08:59] [Client thread/DEBUG] [FML/]: Creating API container dummy for API BiomeTweakerAPI|event: owner: BiomeTweaker, dependents: []
+[00:08:59] [Client thread/TRACE] [FML/]: Removing upstream parent CoFHLib from APIContainer{CoFHAPI|inventory:1.8.9R1.2.0B1}
+[00:08:59] [Client thread/DEBUG] [FML/]: Creating API container dummy for API CoFHAPI|inventory: owner: CoFHAPI, dependents: [zerocore, valkyrielib]
+[00:08:59] [Client thread/TRACE] [FML/]: Received a system property request ''
+[00:08:59] [Client thread/TRACE] [FML/]: System property request managing the state of 0 mods
+[00:08:59] [Client thread/DEBUG] [FML/]: After merging, found state information for 0 mods
+[00:08:59] [Client thread/WARN] [BiomeTweakerCore/]: Mod BiomeTweakerCore has been disabled through configuration
+[00:08:59] [Client thread/DEBUG] [actuallyadditions/]: Enabling mod actuallyadditions
+[00:08:59] [Client thread/DEBUG] [AppleCore/]: Enabling mod AppleCore
+[00:08:59] [Client thread/DEBUG] [BiomeTweaker/]: Enabling mod BiomeTweaker
+[00:08:59] [Client thread/DEBUG] [bookshelf/]: Enabling mod bookshelf
+[00:08:59] [Client thread/DEBUG] [cookingforblockheads/]: Enabling mod cookingforblockheads
+[00:08:59] [Client thread/DEBUG] [craftingtweaks/]: Enabling mod craftingtweaks
+[00:08:59] [Client thread/DEBUG] [ctgui/]: Enabling mod ctgui
+[00:08:59] [Client thread/DEBUG] [MineTweaker3/]: Enabling mod MineTweaker3
+[00:08:59] [Client thread/DEBUG] [cyberware/]: Enabling mod cyberware
+[00:08:59] [Client thread/DEBUG] [cyclicmagic/]: Enabling mod cyclicmagic
+[00:08:59] [Client thread/DEBUG] [darkutils/]: Enabling mod darkutils
+[00:08:59] [Client thread/DEBUG] [endercore/]: Enabling mod endercore
+[00:08:59] [Client thread/DEBUG] [EnderIO/]: Enabling mod EnderIO
+[00:08:59] [Client thread/DEBUG] [environmentaltech/]: Enabling mod environmentaltech
+[00:08:59] [Client thread/DEBUG] [excompressum/]: Enabling mod excompressum
+[00:08:59] [Client thread/DEBUG] [exnihiloadscensio/]: Enabling mod exnihiloadscensio
+[00:08:59] [Client thread/DEBUG] [ExtraUtils2/]: Enabling mod ExtraUtils2
+[00:08:59] [Client thread/DEBUG] [bigreactors/]: Enabling mod bigreactors
+[00:08:59] [Client thread/DEBUG] [fastleafdecay/]: Enabling mod fastleafdecay
+[00:08:59] [Client thread/DEBUG] [gyth/]: Enabling mod gyth
+[00:08:59] [Client thread/DEBUG] [hammercore/]: Enabling mod hammercore
+[00:08:59] [Client thread/DEBUG] [ichunutil/]: Enabling mod ichunutil
+[00:08:59] [Client thread/DEBUG] [IC2/]: Enabling mod IC2
+[00:08:59] [Client thread/DEBUG] [inventorytweaks/]: Enabling mod inventorytweaks
+[00:08:59] [Client thread/DEBUG] [ironbackpacks/]: Enabling mod ironbackpacks
+[00:08:59] [Client thread/DEBUG] [ironchest/]: Enabling mod ironchest
+[00:08:59] [Client thread/DEBUG] [JEI/]: Enabling mod JEI
+[00:08:59] [Client thread/DEBUG] [mantle/]: Enabling mod mantle
+[00:08:59] [Client thread/DEBUG] [mcmultipart/]: Enabling mod mcmultipart
+[00:08:59] [Client thread/DEBUG] [mobdismemberment/]: Enabling mod mobdismemberment
+[00:08:59] [Client thread/DEBUG] [mob_grinding_utils/]: Enabling mod mob_grinding_utils
+[00:08:59] [Client thread/DEBUG] [modtweaker/]: Enabling mod modtweaker
+[00:08:59] [Client thread/DEBUG] [mousetweaks/]: Enabling mod mousetweaks
+[00:08:59] [Client thread/DEBUG] [mtlib/]: Enabling mod mtlib
+[00:08:59] [Client thread/DEBUG] [openmodularturrets/]: Enabling mod openmodularturrets
+[00:08:59] [Client thread/DEBUG] [orespawn/]: Enabling mod orespawn
+[00:08:59] [Client thread/DEBUG] [harvestcraft/]: Enabling mod harvestcraft
+[00:08:59] [Client thread/DEBUG] [refinedstorage/]: Enabling mod refinedstorage
+[00:08:59] [Client thread/DEBUG] [xreliquary/]: Enabling mod xreliquary
+[00:08:59] [Client thread/DEBUG] [rftools/]: Enabling mod rftools
+[00:08:59] [Client thread/DEBUG] [rftoolscontrol/]: Enabling mod rftoolscontrol
+[00:08:59] [Client thread/DEBUG] [rftoolsdim/]: Enabling mod rftoolsdim
+[00:08:59] [Client thread/DEBUG] [roots/]: Enabling mod roots
+[00:08:59] [Client thread/DEBUG] [SimpleAchievements/]: Enabling mod SimpleAchievements
+[00:08:59] [Client thread/DEBUG] [SolarFluxReborn/]: Enabling mod SolarFluxReborn
+[00:08:59] [Client thread/DEBUG] [SpiceOfLife/]: Enabling mod SpiceOfLife
+[00:08:59] [Client thread/DEBUG] [tconstruct/]: Enabling mod tconstruct
+[00:08:59] [Client thread/DEBUG] [theoneprobe/]: Enabling mod theoneprobe
+[00:08:59] [Client thread/DEBUG] [tombmanygraves/]: Enabling mod tombmanygraves
+[00:08:59] [Client thread/DEBUG] [ToughAsNails/]: Enabling mod ToughAsNails
+[00:08:59] [Client thread/DEBUG] [valkyrielib/]: Enabling mod valkyrielib
+[00:08:59] [Client thread/DEBUG] [wired/]: Enabling mod wired
+[00:08:59] [Client thread/DEBUG] [zerocore/]: Enabling mod zerocore
+[00:08:59] [Client thread/DEBUG] [zombieawareness/]: Enabling mod zombieawareness
+[00:08:59] [Client thread/TRACE] [FML/]: Verifying mod requirements are satisfied
+[00:08:59] [Client thread/ERROR] [FML/]: The mod openmodularturrets (Open Modular Turrets) requires mods [omlib] to be available
+[00:08:59] [Client thread/ERROR] [FML/]: Mod openmodularturrets (Open Modular Turrets) requires [omlib@3.0.0-37]
+[00:08:59] [Client thread/DEBUG] [FML/]: Mod sorting data
+[00:08:59] [Client thread/DEBUG] [FML/]: 	actuallyadditions(Actually Additions:1.10.2-r90): ActuallyAdditions-1.10.2-r90.jar (after:BuildCraft|Energy)
+[00:08:59] [Client thread/DEBUG] [FML/]: 	AppleCore(AppleCore:2.1.0): AppleCore-mc1.10.2-2.1.0.jar (after:JEI@[3.8.1,); required-after:Forge@[12.18.2.2123,))
+[00:08:59] [Client thread/DEBUG] [FML/]: 	BiomeTweaker(BiomeTweaker:2.1.230): BiomeTweaker-1.10.2-2.1.230.jar (before:BiomesOPlenty; after:GalacticraftCore)
+[00:08:59] [Client thread/DEBUG] [FML/]: 	bookshelf(Bookshelf:1.4.3.339): Bookshelf-1.10.2-1.4.3.339.jar ()
+[00:08:59] [Client thread/DEBUG] [FML/]: 	cookingforblockheads(Cooking for Blockheads:4.2.26): CookingForBlockheads_1.10.2-4.2.26.jar ()
+[00:08:59] [Client thread/DEBUG] [FML/]: 	craftingtweaks(Crafting Tweaks:6.1.16): CraftingTweaks_1.10.2-6.1.16.jar ()
+[00:08:59] [Client thread/DEBUG] [FML/]: 	ctgui(CT-GUI:1.0.0): CraftTweaker-1.10.2-3.0.15.jar (required-after:MineTweaker3;)
+[00:08:59] [Client thread/DEBUG] [FML/]: 	MineTweaker3(MineTweaker 3:3.0.14): CraftTweaker-1.10.2-3.0.15.jar (after:JEI;)
+[00:08:59] [Client thread/DEBUG] [FML/]: 	cyberware(Cyberware:beta-0.2.5): cyberware-1.9.4-1.10.2-beta-0.2.5.jar ()
+[00:08:59] [Client thread/DEBUG] [FML/]: 	cyclicmagic(Cyclic:1.9.1): Cyclic-1.10.2-1.9.1.jar (after:JEI;after:Baubles)
+[00:08:59] [Client thread/DEBUG] [FML/]: 	darkutils(Dark Utilities:1.1.6.99): DarkUtilities-1.10.2-1.1.6.99.jar (required-after:bookshelf@[1.4.3.338,);after:Waila;after:JEI;)
+[00:08:59] [Client thread/DEBUG] [FML/]: 	endercore(EnderCore:1.10.2-0.4.1.60-beta): EnderCore-1.10.2-0.4.1.60-beta.jar (after:ttCore)
+[00:08:59] [Client thread/DEBUG] [FML/]: 	EnderIO(Ender IO:1.10.2-3.0.1.139_beta): EnderIO-1.10.2-3.0.1.139_beta.jar (required-after:Forge@[12.18.2.2122,);required-after:endercore@[1.10.2-0.4.1.59-beta,);after:Waila@[1.7.0-B3_1.9.4,);after:JEI@[3.13.4.384,))
+[00:08:59] [Client thread/DEBUG] [FML/]: 	environmentaltech(Environmental Tech:1.10.2-0.10.5h): environmentaltech-1.10.2-0.10.5h.jar (required-after:Forge@[1.10.2-12.18.1.2087,);required-after:valkyrielib@[1.10.2-0.10.5c,);)
+[00:08:59] [Client thread/DEBUG] [FML/]: 	excompressum(Ex Compressum:2.0.56): ExCompressum_1.10.2-2.0.56.jar (after:exnihiloomnia;after:exnihiloadscensio;required-after:Forge@[12.18.1.2080,))
+[00:08:59] [Client thread/DEBUG] [FML/]: 	exnihiloadscensio(Ex Nihilo Adscensio:0.1.5): exnihiloadscensio-1.10.2-0.1.5.jar ()
+[00:08:59] [Client thread/DEBUG] [FML/]: 	ExtraUtils2(ExtraUtils2:1.0): extrautils2-1.10.2-1.1.2.jar (required-after:Forge@[12.16.1.1887,);after:JEI@[3.13.3.380,))
+[00:08:59] [Client thread/DEBUG] [FML/]: 	bigreactors(Extreme Reactors:1.10.2-0.4.5.21): ExtremeReactors-1.10.2-0.4.5.21.jar (required-after:Forge@[12.18.2.2099,);required-after:zerocore@[1.10.2-0.0.8.2,))
+[00:08:59] [Client thread/DEBUG] [FML/]: 	fastleafdecay(Fast Leaf Decay:v11): FastLeafDecay-v11.jar ()
+[00:08:59] [Client thread/DEBUG] [FML/]: 	gyth(Get Ya' Tanks Here:2.0.0.2): Gyth-1.10.2-2.0.0.18.jar (required-after:bookshelf@[1.4.2.327,))
+[00:08:59] [Client thread/DEBUG] [FML/]: 	hammercore(Hammer Core:1.1.8): HammerCore_1.10.2-1.1.8.jar ()
+[00:08:59] [Client thread/DEBUG] [FML/]: 	ichunutil(iChunUtil:6.1.0): iChunUtil-1.10.2-6.1.0.jar (required-after:Forge@[12.18.2.2151,99999.19.0.0))
+[00:08:59] [Client thread/DEBUG] [FML/]: 	IC2(IndustrialCraft 2:2.6.128-ex110): industrialcraft-2-2.6.128-ex110.jar (required-after:Forge@[12.17.0.1940,))
+[00:08:59] [Client thread/DEBUG] [FML/]: 	inventorytweaks(Inventory Tweaks:1.62-dev-66-c082db3): InventoryTweaks-1.62-dev-66.jar (required-after:Forge@[12.17.0,))
+[00:08:59] [Client thread/DEBUG] [FML/]: 	ironbackpacks(Iron Backpacks:1.10.2-2.2.19): IronBackpacks-1.10.2-2.2.19.jar (required-after:Forge@[10.18.2.2120,); after:JEI;)
+[00:08:59] [Client thread/DEBUG] [FML/]: 	ironchest(Iron Chest:1.10.2-7.0.11.797): ironchest-1.10.2-7.0.11.797.jar (required-after:Forge@[12.17.0.1909,))
+[00:08:59] [Client thread/DEBUG] [FML/]: 	JEI(Just Enough Items:3.13.6.389): jei_1.10.2-3.13.6.389.jar (required-after:Forge@[12.18.1.2053,);)
+[00:08:59] [Client thread/DEBUG] [FML/]: 	mantle(Mantle:1.10.2-1.1.3.199): Mantle-1.10.2-1.1.3.jar (required-after:Forge@[12.18.1.2011,))
+[00:08:59] [Client thread/DEBUG] [FML/]: 	mcmultipart(MCMultiPart:1.3.0): MCMultiPart-1.3.0-universal.jar ()
+[00:08:59] [Client thread/DEBUG] [FML/]: 	mobdismemberment(MobDismemberment:6.0.0): MobDismemberment-1.10.2-6.0.0.jar (required-after:ichunutil@[6.0.0,7.0.0))
+[00:08:59] [Client thread/DEBUG] [FML/]: 	mob_grinding_utils(mob_grinding_utils:0.1.8.8): MobGrindingUtils-0.1.8.8.jar ()
+[00:08:59] [Client thread/DEBUG] [FML/]: 	modtweaker(Mod Tweaker:2.0.7): ModTweaker2-2.0.7.jar (required-after:MineTweaker3;required-after:mtlib;)
+[00:08:59] [Client thread/DEBUG] [FML/]: 	mousetweaks(Mouse Tweaks:2.6.4): MouseTweaks-2.6.4-mc1.10.2.jar ()
+[00:08:59] [Client thread/DEBUG] [FML/]: 	mtlib(MTLib:@VERSION@): MTLib-1.0.0.jar ()
+[00:08:59] [Client thread/DEBUG] [FML/]: 	openmodularturrets(Open Modular Turrets:1.10.2-3.0.0-42): openmodularturrets-1.10.2-3.0.0-42.jar (after:ThermalFoundation;after:ThermalExpansion;after:OpenComputers;after:ComputerCraft;after:Mekanism;after:EnderIO;after:Thaumcraft;required-after:omlib@3.0.0-37)
+[00:08:59] [Client thread/DEBUG] [FML/]: 	orespawn(OreSpawn:2.0.0): orespawn-2.0.0.10-1.10.2.jar ()
+[00:08:59] [Client thread/DEBUG] [FML/]: 	harvestcraft(Pam's HarvestCraft:1.9.4-1.10.2g): Pam's HarvestCraft 1.9.4-1.10.2h.jar (required-after:Forge@[12.16.1.1900,))
+[00:08:59] [Client thread/DEBUG] [FML/]: 	refinedstorage(Refined Storage:1.2.11): refinedstorage-1.2.11.jar (required-after:Forge@[12.18.2.2179,);required-after:mcmultipart@[1.2.1,);after:JEI@[3.13.2.348,);)
+[00:08:59] [Client thread/DEBUG] [FML/]: 	xreliquary(Reliquary:1.10.2-1.3.3.585): Reliquary-1.10.2-1.3.3.585.jar (after:Baubles@[1.3.BETA8,))
+[00:08:59] [Client thread/DEBUG] [FML/]: 	rftools(RFTools:5.70): rftools-1.1x-5.70.jar (required-after:mcjtylib_ng@[2.3.0,);required-after:compatlayer@[0.1.0,);after:Forge@[12.18.1.2082,);after:forge@[13.19.0.2176,))
+[00:08:59] [Client thread/DEBUG] [FML/]: 	rftoolscontrol(RFTools Control:1.6.3): rftoolsctrl-1.1x-1.6.3.jar (required-after:mcjtylib_ng@[2.3.1,);required-after:compatlayer@[0.1.0,);required-after:rftools@[5.70,);after:Forge@[12.18.1.2082,);after:forge@[13.19.0.2176,))
+[00:08:59] [Client thread/DEBUG] [FML/]: 	rftoolsdim(RFTools Dimensions:4.50): rftoolsdim-1.1x-4.50.jar (required-after:mcjtylib_ng@[2.3.0,);required-after:compatlayer@[0.1.0,);required-after:rftools@[5.70,);after:Forge@[12.18.1.2082,);after:forge@[13.19.0.2176,))
+[00:08:59] [Client thread/DEBUG] [FML/]: 	roots(Roots:0.208): roots-0.208.jar ()
+[00:08:59] [Client thread/DEBUG] [FML/]: 	SimpleAchievements(Simple Achievements:MC1.9.4-1.2.2-26): SimpleAchievements-MC1.9.4-1.2.2-26.jar ()
+[00:08:59] [Client thread/DEBUG] [FML/]: 	SolarFluxReborn(Solar Flux Reborn:1.6r): SolarFluxReborn_1.10.2-1.6r.jar (required-after:hammercore@[1.1.8,))
+[00:08:59] [Client thread/DEBUG] [FML/]: 	SpiceOfLife(The Spice of Life:1.3.6): SpiceOfLife-mc1.9.4-1.3.6.jar (required-after:AppleCore)
+[00:08:59] [Client thread/DEBUG] [FML/]: 	tconstruct(Tinkers' Construct:1.10.2-2.6.1.464): TConstruct-1.10.2-2.6.1.jar (required-after:Forge@[12.18.2.2115,);required-after:mantle@[1.10.2-1.1.3,);after:JEI@[3.13.6.387,))
+[00:08:59] [Client thread/DEBUG] [FML/]: 	theoneprobe(The One Probe:1.3.3): theoneprobe-1.10-1.3.3.jar (required-after:Forge@[12.17.0.1976,))
+[00:08:59] [Client thread/DEBUG] [FML/]: 	tombmanygraves(Tomb Many Graves:1.10.2-2.1.13): TombManyGraves-1.10.2-2.1.13.jar ()
+[00:08:59] [Client thread/DEBUG] [FML/]: 	ToughAsNails(Tough As Nails:1.0.11): ToughAsNails-1.9.4-1.0.11.jar ()
+[00:08:59] [Client thread/DEBUG] [FML/]: 	valkyrielib(Valkyrie Lib:1.10.2-0.10.5d): valkyrielib-1.10.2-0.10.5e.jar (required-after:Forge@[1.10.2-12.18.1.2087,);)
+[00:08:59] [Client thread/DEBUG] [FML/]: 	wired(WIRED: More Augs:1.3.3): WIRED-1.3.3.jar (required-after:cyberware;after:theoneprobe)
+[00:08:59] [Client thread/DEBUG] [FML/]: 	zerocore(Zero CORE:1.10.2-0.0.8.2): zerocore-1.10.2-0.0.8.2.jar (required-after:Forge@[12.18.2.2099,))
+[00:08:59] [Client thread/DEBUG] [FML/]: 	zombieawareness(Zombie Awareness:v1.20): zombieawareness-1.10.2-1.20.jar ()
+[00:08:59] [Client thread/DEBUG] [FML/]: Bar Step: Loading Resources - Default took 0.005s
+[00:08:59] [Client thread/DEBUG] [FML/]: Bar Step: Loading Resources - FMLFileResourcePack:Forge Mod Loader took 0.002s
+[00:08:59] [Client thread/DEBUG] [FML/]: Bar Step: Loading Resources - FMLFileResourcePack:Minecraft Forge took 0.002s
+[00:08:59] [Client thread/DEBUG] [FML/]: Bar Step: Loading Resources - FMLFileResourcePack:Actually Additions took 0.003s
+[00:08:59] [Client thread/DEBUG] [FML/]: Bar Step: Loading Resources - FMLFileResourcePack:AppleCore took 0.000s
+[00:08:59] [Client thread/DEBUG] [FML/]: Bar Step: Loading Resources - FMLFileResourcePack:BiomeTweaker took 0.000s
+[00:08:59] [Client thread/DEBUG] [FML/]: Bar Step: Loading Resources - FMLFileResourcePack:Bookshelf took 0.000s
+[00:08:59] [Client thread/DEBUG] [FML/]: Bar Step: Loading Resources - FMLFileResourcePack:Cooking for Blockheads took 0.001s
+[00:08:59] [Client thread/DEBUG] [FML/]: Bar Step: Loading Resources - FMLFileResourcePack:Crafting Tweaks took 0.000s
+[00:08:59] [Client thread/DEBUG] [FML/]: Bar Step: Loading Resources - FMLFileResourcePack:CT-GUI took 0.001s
+[00:08:59] [Client thread/DEBUG] [FML/]: Bar Step: Loading Resources - FMLFileResourcePack:MineTweaker 3 took 0.001s
+[00:08:59] [Client thread/DEBUG] [FML/]: Bar Step: Loading Resources - FMLFileResourcePack:Cyberware took 0.001s
+[00:08:59] [Client thread/DEBUG] [FML/]: Bar Step: Loading Resources - FMLFileResourcePack:Cyclic took 0.003s
+[00:08:59] [Client thread/DEBUG] [FML/]: Bar Step: Loading Resources - FMLFileResourcePack:Dark Utilities took 0.001s
+[00:08:59] [Client thread/DEBUG] [FML/]: Bar Step: Loading Resources - FMLFileResourcePack:EnderCore took 0.001s
+[00:08:59] [Client thread/DEBUG] [FML/]: Bar Step: Loading Resources - FMLFileResourcePack:Ender IO took 0.004s
+[00:08:59] [Client thread/DEBUG] [FML/]: Bar Step: Loading Resources - FMLFileResourcePack:Environmental Tech took 0.001s
+[00:08:59] [Client thread/DEBUG] [FML/]: Bar Step: Loading Resources - FMLFileResourcePack:Ex Compressum took 0.001s
+[00:08:59] [Client thread/DEBUG] [FML/]: Bar Step: Loading Resources - FMLFileResourcePack:Ex Nihilo Adscensio took 0.001s
+[00:08:59] [Client thread/DEBUG] [FML/]: Bar Step: Loading Resources - FMLFileResourcePack:ExtraUtils2 took 0.003s
+[00:08:59] [Client thread/DEBUG] [FML/]: Bar Step: Loading Resources - FMLFileResourcePack:Extreme Reactors took 0.002s
+[00:08:59] [Client thread/DEBUG] [FML/]: Bar Step: Loading Resources - FMLFileResourcePack:Fast Leaf Decay took 0.001s
+[00:08:59] [Client thread/DEBUG] [FML/]: Bar Step: Loading Resources - FMLFileResourcePack:Get Ya' Tanks Here took 0.000s
+[00:08:59] [Client thread/DEBUG] [FML/]: Bar Step: Loading Resources - FMLFileResourcePack:Hammer Core took 0.000s
+[00:08:59] [Client thread/DEBUG] [FML/]: Bar Step: Loading Resources - FMLFileResourcePack:iChunUtil took 0.000s
+[00:08:59] [Client thread/DEBUG] [FML/]: Bar Step: Loading Resources - FMLFileResourcePack:IndustrialCraft 2 took 0.004s
+[00:08:59] [Client thread/DEBUG] [FML/]: Bar Step: Loading Resources - FMLFileResourcePack:Inventory Tweaks took 0.001s
+[00:08:59] [Client thread/DEBUG] [FML/]: Bar Step: Loading Resources - FMLFileResourcePack:Iron Backpacks took 0.001s
+[00:08:59] [Client thread/DEBUG] [FML/]: Bar Step: Loading Resources - FMLFileResourcePack:Iron Chest took 0.000s
+[00:08:59] [Client thread/DEBUG] [FML/]: Bar Step: Loading Resources - FMLFileResourcePack:Just Enough Items took 0.001s
+[00:08:59] [Client thread/DEBUG] [FML/]: Bar Step: Loading Resources - FMLFileResourcePack:Mantle took 0.001s
+[00:08:59] [Client thread/DEBUG] [FML/]: Bar Step: Loading Resources - FMLFileResourcePack:MCMultiPart took 0.000s
+[00:08:59] [Client thread/DEBUG] [FML/]: Bar Step: Loading Resources - FMLFileResourcePack:MobDismemberment took 0.000s
+[00:08:59] [Client thread/DEBUG] [FML/]: Bar Step: Loading Resources - FMLFileResourcePack:mob_grinding_utils took 0.001s
+[00:08:59] [Client thread/DEBUG] [FML/]: Bar Step: Loading Resources - FMLFileResourcePack:Mod Tweaker took 0.001s
+[00:08:59] [Client thread/DEBUG] [FML/]: Bar Step: Loading Resources - FMLFileResourcePack:Mouse Tweaks took 0.000s
+[00:08:59] [Client thread/DEBUG] [FML/]: Bar Step: Loading Resources - FMLFileResourcePack:MTLib took 0.000s
+[00:08:59] [Client thread/DEBUG] [FML/]: Bar Step: Loading Resources - FMLFileResourcePack:Open Modular Turrets took 0.001s
+[00:08:59] [Client thread/DEBUG] [FML/]: Bar Step: Loading Resources - FMLFileResourcePack:OreSpawn took 0.000s
+[00:08:59] [Client thread/DEBUG] [FML/]: Bar Step: Loading Resources - FMLFileResourcePack:Pam's HarvestCraft took 0.006s
+[00:08:59] [Client thread/DEBUG] [FML/]: Bar Step: Loading Resources - FMLFileResourcePack:Refined Storage took 0.002s
+[00:08:59] [Client thread/DEBUG] [FML/]: Bar Step: Loading Resources - FMLFileResourcePack:Reliquary took 0.001s
+[00:08:59] [Client thread/DEBUG] [FML/]: Bar Step: Loading Resources - FMLFileResourcePack:RFTools took 0.002s
+[00:08:59] [Client thread/DEBUG] [FML/]: Bar Step: Loading Resources - FMLFileResourcePack:RFTools Control took 0.001s
+[00:08:59] [Client thread/DEBUG] [FML/]: Bar Step: Loading Resources - FMLFileResourcePack:RFTools Dimensions took 0.001s
+[00:08:59] [Client thread/DEBUG] [FML/]: Bar Step: Loading Resources - FMLFileResourcePack:Roots took 0.002s
+[00:08:59] [Client thread/DEBUG] [FML/]: Bar Step: Loading Resources - FMLFileResourcePack:Simple Achievements took 0.000s
+[00:08:59] [Client thread/DEBUG] [FML/]: Bar Step: Loading Resources - FMLFileResourcePack:Solar Flux Reborn took 0.000s
+[00:08:59] [Client thread/DEBUG] [FML/]: Bar Step: Loading Resources - FMLFileResourcePack:The Spice of Life took 0.001s
+[00:08:59] [Client thread/DEBUG] [FML/]: Bar Step: Loading Resources - FMLFileResourcePack:Tinkers' Construct took 0.004s
+[00:08:59] [Client thread/DEBUG] [FML/]: Bar Step: Loading Resources - FMLFileResourcePack:The One Probe took 0.000s
+[00:08:59] [Client thread/DEBUG] [FML/]: Bar Step: Loading Resources - FMLFileResourcePack:Tomb Many Graves took 0.000s
+[00:08:59] [Client thread/DEBUG] [FML/]: Bar Step: Loading Resources - FMLFileResourcePack:Tough As Nails took 0.001s
+[00:08:59] [Client thread/DEBUG] [FML/]: Bar Step: Loading Resources - FMLFileResourcePack:Valkyrie Lib took 0.000s
+[00:08:59] [Client thread/DEBUG] [FML/]: Bar Step: Loading Resources - FMLFileResourcePack:WIRED: More Augs took 0.000s
+[00:08:59] [Client thread/DEBUG] [FML/]: Bar Step: Loading Resources - FMLFileResourcePack:Zero CORE took 0.001s
+[00:08:59] [Client thread/DEBUG] [FML/]: Bar Step: Loading Resources - FMLFileResourcePack:Zombie Awareness took 0.001s
+[00:08:59] [Client thread/DEBUG] [FML/]: Bar Finished: Reloading - LanguageManager took 0.053s
+[00:08:59] [Client thread/DEBUG] [FML/]: Bar Step: Loading Resources - Reloading listeners took 0.054s
+[00:08:59] [Client thread/DEBUG] [FML/]: Bar Finished: Loading Resources took 0.122s
+[00:08:59] [Client thread/DEBUG] [Forge Mod Loader/]: Mod Forge Mod Loader is missing a pack.mcmeta file, substituting a dummy one
+[00:08:59] [Client thread/DEBUG] [Minecraft Forge/]: Mod Minecraft Forge is missing a pack.mcmeta file, substituting a dummy one
+[00:08:59] [Client thread/DEBUG] [Actually Additions/]: Mod Actually Additions is missing a pack.mcmeta file, substituting a dummy one
+[00:08:59] [Client thread/DEBUG] [AppleCore/]: Mod AppleCore is missing a pack.mcmeta file, substituting a dummy one
+[00:08:59] [Client thread/DEBUG] [BiomeTweaker/]: Mod BiomeTweaker is missing a pack.mcmeta file, substituting a dummy one
+[00:08:59] [Client thread/DEBUG] [Cooking for Blockheads/]: Mod Cooking for Blockheads is missing a pack.mcmeta file, substituting a dummy one
+[00:08:59] [Client thread/DEBUG] [Crafting Tweaks/]: Mod Crafting Tweaks is missing a pack.mcmeta file, substituting a dummy one
+[00:08:59] [Client thread/DEBUG] [CT-GUI/]: Mod CT-GUI is missing a pack.mcmeta file, substituting a dummy one
+[00:08:59] [Client thread/DEBUG] [MineTweaker 3/]: Mod MineTweaker 3 is missing a pack.mcmeta file, substituting a dummy one
+[00:08:59] [Client thread/DEBUG] [Cyberware/]: Mod Cyberware is missing a pack.mcmeta file, substituting a dummy one
+[00:08:59] [Client thread/DEBUG] [Cyclic/]: Mod Cyclic is missing a pack.mcmeta file, substituting a dummy one
+[00:08:59] [Client thread/DEBUG] [Environmental Tech/]: Mod Environmental Tech is missing a pack.mcmeta file, substituting a dummy one
+[00:08:59] [Client thread/DEBUG] [Ex Compressum/]: Mod Ex Compressum is missing a pack.mcmeta file, substituting a dummy one
+[00:08:59] [Client thread/DEBUG] [Ex Nihilo Adscensio/]: Mod Ex Nihilo Adscensio is missing a pack.mcmeta file, substituting a dummy one
+[00:08:59] [Client thread/DEBUG] [ExtraUtils2/]: Mod ExtraUtils2 is missing a pack.mcmeta file, substituting a dummy one
+[00:08:59] [Client thread/DEBUG] [Extreme Reactors/]: Mod Extreme Reactors is missing a pack.mcmeta file, substituting a dummy one
+[00:08:59] [Client thread/DEBUG] [Fast Leaf Decay/]: Mod Fast Leaf Decay is missing a pack.mcmeta file, substituting a dummy one
+[00:08:59] [Client thread/DEBUG] [Get Ya' Tanks Here/]: Mod Get Ya' Tanks Here is missing a pack.mcmeta file, substituting a dummy one
+[00:08:59] [Client thread/DEBUG] [Hammer Core/]: Mod Hammer Core is missing a pack.mcmeta file, substituting a dummy one
+[00:08:59] [Client thread/DEBUG] [Iron Backpacks/]: Mod Iron Backpacks is missing a pack.mcmeta file, substituting a dummy one
+[00:08:59] [Client thread/DEBUG] [Iron Chest/]: Mod Iron Chest is missing a pack.mcmeta file, substituting a dummy one
+[00:08:59] [Client thread/DEBUG] [Just Enough Items/]: Mod Just Enough Items is missing a pack.mcmeta file, substituting a dummy one
+[00:08:59] [Client thread/DEBUG] [Mantle/]: Mod Mantle is missing a pack.mcmeta file, substituting a dummy one
+[00:08:59] [Client thread/DEBUG] [MCMultiPart/]: Mod MCMultiPart is missing a pack.mcmeta file, substituting a dummy one
+[00:08:59] [Client thread/DEBUG] [mob_grinding_utils/]: Mod mob_grinding_utils is missing a pack.mcmeta file, substituting a dummy one
+[00:08:59] [Client thread/DEBUG] [Mod Tweaker/]: Mod Mod Tweaker is missing a pack.mcmeta file, substituting a dummy one
+[00:08:59] [Client thread/DEBUG] [Mouse Tweaks/]: Mod Mouse Tweaks is missing a pack.mcmeta file, substituting a dummy one
+[00:08:59] [Client thread/DEBUG] [MTLib/]: Mod MTLib is missing a pack.mcmeta file, substituting a dummy one
+[00:08:59] [Client thread/DEBUG] [Open Modular Turrets/]: Mod Open Modular Turrets is missing a pack.mcmeta file, substituting a dummy one
+[00:08:59] [Client thread/DEBUG] [Pam's HarvestCraft/]: Mod Pam's HarvestCraft is missing a pack.mcmeta file, substituting a dummy one
+[00:08:59] [Client thread/DEBUG] [Refined Storage/]: Mod Refined Storage is missing a pack.mcmeta file, substituting a dummy one
+[00:08:59] [Client thread/DEBUG] [Reliquary/]: Mod Reliquary is missing a pack.mcmeta file, substituting a dummy one
+[00:08:59] [Client thread/DEBUG] [Roots/]: Mod Roots is missing a pack.mcmeta file, substituting a dummy one
+[00:08:59] [Client thread/DEBUG] [Simple Achievements/]: Mod Simple Achievements is missing a pack.mcmeta file, substituting a dummy one
+[00:08:59] [Client thread/DEBUG] [Solar Flux Reborn/]: Mod Solar Flux Reborn is missing a pack.mcmeta file, substituting a dummy one
+[00:08:59] [Client thread/DEBUG] [The Spice of Life/]: Mod The Spice of Life is missing a pack.mcmeta file, substituting a dummy one
+[00:08:59] [Client thread/DEBUG] [Tomb Many Graves/]: Mod Tomb Many Graves is missing a pack.mcmeta file, substituting a dummy one
+[00:08:59] [Client thread/DEBUG] [Valkyrie Lib/]: Mod Valkyrie Lib is missing a pack.mcmeta file, substituting a dummy one
+[00:08:59] [Client thread/DEBUG] [WIRED: More Augs/]: Mod WIRED: More Augs is missing a pack.mcmeta file, substituting a dummy one
+[00:08:59] [Client thread/DEBUG] [Zero CORE/]: Mod Zero CORE is missing a pack.mcmeta file, substituting a dummy one
+[00:08:59] [Client thread/DEBUG] [Zombie Awareness/]: Mod Zombie Awareness is missing a pack.mcmeta file, substituting a dummy one
+[00:08:59] [Client thread/WARN] [FML/]: There were errors previously. Not beginning mod initialization phase
+[00:08:59] [Client thread/DEBUG] [FML/]: Bar Finished: Loading Resource - TextureManager took 0.000s
+[00:09:10] [Client thread/DEBUG] [FML/]: Bar Finished: Loading Resource - SoundHandler took 10.748s
+[00:09:10] [Client thread/DEBUG] [FML/]: Bar Finished: Loading Resource - FontRenderer took 0.004s
+[00:09:10] [Client thread/DEBUG] [FML/]: Bar Finished: Loading Resource - FontRenderer took 0.003s
+[00:09:10] [Client thread/DEBUG] [FML/]: Bar Finished: Loading Resource - GrassColorReloadListener took 0.006s
+[00:09:10] [Client thread/DEBUG] [FML/]: Bar Finished: Loading Resource - FoliageColorReloadListener took 0.007s
+[00:09:10] [Client thread/DEBUG] [FML/]: Bar Step: Rendering Setup - GL Setup took 0.001s
+[00:09:10] [Client thread/DEBUG] [FML/]: Bar Step: Rendering Setup - Loading Texture Map took 0.006s
+[00:09:10] [Client thread/DEBUG] [FML/]: Bar Finished: Loading Resource - B3DLoader took 0.000s
+[00:09:10] [Client thread/DEBUG] [FML/]: Bar Finished: Loading Resource - OBJLoader took 0.000s
+[00:09:10] [Client thread/DEBUG] [FML/]: Bar Finished: Loading Resource - ModelFluid$FluidLoader took 0.000s
+[00:09:10] [Client thread/DEBUG] [FML/]: Bar Finished: Loading Resource - ItemLayerModel$Loader took 0.000s
+[00:09:10] [Client thread/DEBUG] [FML/]: Bar Finished: Loading Resource - MultiLayerModel$Loader took 0.000s
+[00:09:10] [Client thread/DEBUG] [FML/]: Bar Finished: Loading Resource - ModelDynBucket$LoaderDynBucket took 0.000s
+[00:09:11] [Client thread/DEBUG] [FML/]: Bar Finished: ModelLoader: blocks took 1.121s
+[00:09:11] [Client thread/DEBUG] [FML/]: Bar Finished: ModelLoader: items took 0.217s
+[00:09:11] [Client thread/INFO] [FML/]: Max texture size: 16384
+[00:09:11] [Client thread/DEBUG] [FML/]: Bar Finished: Texture stitching - missingno took 0.001s
+[00:09:11] [Client thread/DEBUG] [FML/]: Bar Finished: Texture creation took 0.002s
+[00:09:11] [Client thread/DEBUG] [FML/]: Bar Finished: Texture mipmap and upload - missingno took 0.000s
+[00:09:12] [Client thread/DEBUG] [FML/]: Bar Finished: ModelLoader: baking took 0.620s
+[00:09:12] [Client thread/DEBUG] [FML/]: Bar Finished: Loading Resource - ModelManager took 2.128s
+[00:09:12] [Client thread/DEBUG] [FML/]: Bar Step: Rendering Setup - Loading Model Manager took 2.221s
+[00:09:12] [Client thread/INFO] [EnderCore/]: Transforming Class [net.minecraft.client.renderer.RenderItem], Method [func_180453_a]
+[00:09:12] [Client thread/INFO] [EnderCore/]: Transforming net.minecraft.client.renderer.RenderItem Finished.
+[00:09:12] [Client thread/DEBUG] [FML/]: Bar Finished: Loading Resource - RenderItem took 0.003s
+[00:09:12] [Client thread/DEBUG] [FML/]: Bar Step: Rendering Setup - Loading Item Renderer took 0.205s
+[00:09:12] [Client thread/ERROR] [ToughAsNails Transformer/]: Unexpected hash 457a6a5d0a578b9ea1eae693e3508d62 detected for class EntityRenderer. Crashes or bugs may occur!
+[00:09:12] [Client thread/DEBUG] [FML/]: Bar Finished: Loading Resource - EntityRenderer took 0.000s
+[00:09:12] [Client thread/DEBUG] [FML/]: Bar Finished: Loading Resource - BlockRendererDispatcher took 0.000s
+[00:09:12] [Client thread/DEBUG] [FML/]: Bar Finished: Loading Resource - RenderGlobal took 0.000s
+[00:09:12] [Client thread/DEBUG] [FML/]: Bar Step: Rendering Setup - Loading Entity Renderer took 0.164s
+[00:09:12] [Client thread/DEBUG] [FML/]: Bar Finished: Rendering Setup took 2.597s
