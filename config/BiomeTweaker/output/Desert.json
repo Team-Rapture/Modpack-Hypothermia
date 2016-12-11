@@ -5,16 +5,16 @@
   "Class": "net.minecraft.world.biome.BiomeDesert",
   "Root Height": 0.125,
   "Height Variation": 0.05,
-  "Top Block": "minecraft:sand",
-  "Filler Block": "minecraft:sand",
+  "Top Block": "minecraft:snow",
+  "Filler Block": "minecraft:snow",
   "Grass Color": "Not set. Check in-game.",
   "Foliage Color": "Not set. Check in-game.",
   "Water Color": "16777215",
-  "Temperature": 2.0,
+  "Temperature": 0.0,
   "Humidity": 0.0,
   "Water Tint": 16777215,
-  "Enable Rain": false,
-  "Enable Snow": false,
+  "Enable Rain": true,
+  "Enable Snow": true,
   "Dictionary Types": [
     "HOT",
     "DRY",
@@ -27,6 +27,18 @@
       "Weight": 4,
       "Min Group Count": 2,
       "Max Group Count": 3
+    },
+    {
+      "Entity Class": "net.minecraft.entity.monster.EntityPolarBear",
+      "Weight": 1,
+      "Min Group Count": 1,
+      "Max Group Count": 2
+    },
+    {
+      "Entity Class": "net.minecraft.entity.monster.EntitySnowman",
+      "Weight": 3,
+      "Min Group Count": 1,
+      "Max Group Count": 4
     }
   ],
   "Spawnable Monsters": [
@@ -73,6 +85,12 @@
       "Max Group Count": 1
     },
     {
+      "Entity Class": "toughasnails.entities.EntityFreeze",
+      "Weight": 3,
+      "Min Group Count": 1,
+      "Max Group Count": 3
+    },
+    {
       "Entity Class": "net.minecraft.entity.monster.EntityMagmaCube",
       "Weight": 3,
       "Min Group Count": 1,
@@ -102,5 +120,5 @@
     }
   ],
   "Spawn Biome": false,
-  "Tweaked": false
+  "Tweaked": true
 }

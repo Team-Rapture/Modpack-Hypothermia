@@ -4,9 +4,9 @@
   "Name": "Ice Mountains",
   "Class": "net.minecraft.world.biome.BiomeSnow",
   "Root Height": 0.45,
-  "Height Variation": 0.3,
-  "Top Block": "minecraft:grass",
-  "Filler Block": "minecraft:dirt",
+  "Height Variation": 0.05,
+  "Top Block": "minecraft:snow",
+  "Filler Block": "minecraft:snow",
   "Grass Color": "Not set. Check in-game.",
   "Foliage Color": "Not set. Check in-game.",
   "Water Color": "16777215",
@@ -27,6 +27,12 @@
       "Weight": 10,
       "Min Group Count": 2,
       "Max Group Count": 3
+    },
+    {
+      "Entity Class": "net.minecraft.entity.monster.EntityPolarBear",
+      "Weight": 1,
+      "Min Group Count": 1,
+      "Max Group Count": 2
     },
     {
       "Entity Class": "net.minecraft.entity.monster.EntityPolarBear",
@@ -114,5 +120,5 @@
     }
   ],
   "Spawn Biome": false,
-  "Tweaked": false
+  "Tweaked": true
 }

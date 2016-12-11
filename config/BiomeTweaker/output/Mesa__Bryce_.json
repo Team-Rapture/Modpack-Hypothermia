@@ -4,25 +4,38 @@
   "Name": "Mesa (Bryce)",
   "Class": "net.minecraft.world.biome.BiomeMesa",
   "Root Height": 0.1,
-  "Height Variation": 0.2,
-  "Top Block": "minecraft:sand",
-  "Filler Block": "minecraft:stained_hardened_clay",
+  "Height Variation": 0.05,
+  "Top Block": "minecraft:snow",
+  "Filler Block": "minecraft:snow",
   "Grass Color": "Not set. Check in-game.",
   "Foliage Color": "Not set. Check in-game.",
   "Water Color": "16777215",
-  "Temperature": 2.0,
+  "Temperature": 0.0,
   "Humidity": 0.0,
   "Water Tint": 16777215,
-  "Enable Rain": false,
-  "Enable Snow": false,
+  "Enable Rain": true,
+  "Enable Snow": true,
   "Dictionary Types": [
-    "HOT",
+    "COLD",
     "DRY",
-    "SAVANNA",
-    "PLAINS"
+    "PLAINS",
+    "SNOWY"
   ],
   "BiomeManager Entries": {},
-  "Spawnable Creatures": [],
+  "Spawnable Creatures": [
+    {
+      "Entity Class": "net.minecraft.entity.monster.EntityPolarBear",
+      "Weight": 1,
+      "Min Group Count": 1,
+      "Max Group Count": 2
+    },
+    {
+      "Entity Class": "net.minecraft.entity.monster.EntitySnowman",
+      "Weight": 3,
+      "Min Group Count": 1,
+      "Max Group Count": 4
+    }
+  ],
   "Spawnable Monsters": [
     {
       "Entity Class": "net.minecraft.entity.monster.EntitySpider",
@@ -67,6 +80,12 @@
       "Max Group Count": 1
     },
     {
+      "Entity Class": "toughasnails.entities.EntityFreeze",
+      "Weight": 3,
+      "Min Group Count": 1,
+      "Max Group Count": 3
+    },
+    {
       "Entity Class": "flaxbeard.cyberware.common.entity.EntityCyberZombie",
       "Weight": 15,
       "Min Group Count": 1,
@@ -90,5 +109,5 @@
     }
   ],
   "Spawn Biome": false,
-  "Tweaked": false
+  "Tweaked": true
 }

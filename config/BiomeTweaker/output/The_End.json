@@ -4,34 +4,53 @@
   "Name": "The End",
   "Class": "net.minecraft.world.biome.BiomeEnd",
   "Root Height": 0.1,
-  "Height Variation": 0.2,
-  "Top Block": "minecraft:dirt",
-  "Filler Block": "minecraft:dirt",
+  "Height Variation": 0.05,
+  "Top Block": "minecraft:snow",
+  "Filler Block": "minecraft:snow",
   "Grass Color": "Not set. Check in-game.",
   "Foliage Color": "Not set. Check in-game.",
   "Water Color": "16777215",
-  "Temperature": 0.5,
+  "Temperature": 0.0,
   "Humidity": 0.5,
   "Water Tint": 16777215,
-  "Enable Rain": false,
-  "Enable Snow": false,
+  "Enable Rain": true,
+  "Enable Snow": true,
   "Dictionary Types": [
     "COLD",
     "DRY",
     "END"
   ],
   "BiomeManager Entries": {},
-  "Spawnable Creatures": [],
+  "Spawnable Creatures": [
+    {
+      "Entity Class": "net.minecraft.entity.monster.EntityPolarBear",
+      "Weight": 1,
+      "Min Group Count": 1,
+      "Max Group Count": 2
+    },
+    {
+      "Entity Class": "net.minecraft.entity.monster.EntitySnowman",
+      "Weight": 3,
+      "Min Group Count": 1,
+      "Max Group Count": 4
+    }
+  ],
   "Spawnable Monsters": [
     {
       "Entity Class": "net.minecraft.entity.monster.EntityEnderman",
       "Weight": 10,
       "Min Group Count": 4,
       "Max Group Count": 4
+    },
+    {
+      "Entity Class": "toughasnails.entities.EntityFreeze",
+      "Weight": 3,
+      "Min Group Count": 1,
+      "Max Group Count": 3
     }
   ],
   "Spawnable Water Creatures": [],
   "Spawnable Cave Creatures": [],
   "Spawn Biome": false,
-  "Tweaked": false
+  "Tweaked": true
 }

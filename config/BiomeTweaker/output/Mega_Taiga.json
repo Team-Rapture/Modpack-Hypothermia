@@ -4,17 +4,17 @@
   "Name": "Mega Taiga",
   "Class": "net.minecraft.world.biome.BiomeTaiga",
   "Root Height": 0.2,
-  "Height Variation": 0.2,
-  "Top Block": "minecraft:grass",
-  "Filler Block": "minecraft:dirt",
+  "Height Variation": 0.05,
+  "Top Block": "minecraft:snow",
+  "Filler Block": "minecraft:snow",
   "Grass Color": "Not set. Check in-game.",
   "Foliage Color": "Not set. Check in-game.",
   "Water Color": "16777215",
-  "Temperature": 0.3,
+  "Temperature": 0.0,
   "Humidity": 0.8,
   "Water Tint": 16777215,
   "Enable Rain": true,
-  "Enable Snow": false,
+  "Enable Snow": true,
   "Dictionary Types": [
     "COLD",
     "CONIFEROUS",
@@ -57,6 +57,18 @@
       "Weight": 4,
       "Min Group Count": 2,
       "Max Group Count": 3
+    },
+    {
+      "Entity Class": "net.minecraft.entity.monster.EntityPolarBear",
+      "Weight": 1,
+      "Min Group Count": 1,
+      "Max Group Count": 2
+    },
+    {
+      "Entity Class": "net.minecraft.entity.monster.EntitySnowman",
+      "Weight": 3,
+      "Min Group Count": 1,
+      "Max Group Count": 4
     }
   ],
   "Spawnable Monsters": [
@@ -103,6 +115,12 @@
       "Max Group Count": 1
     },
     {
+      "Entity Class": "toughasnails.entities.EntityFreeze",
+      "Weight": 3,
+      "Min Group Count": 1,
+      "Max Group Count": 3
+    },
+    {
       "Entity Class": "flaxbeard.cyberware.common.entity.EntityCyberZombie",
       "Weight": 15,
       "Min Group Count": 1,
@@ -126,5 +144,5 @@
     }
   ],
   "Spawn Biome": false,
-  "Tweaked": false
+  "Tweaked": true
 }

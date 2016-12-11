@@ -4,21 +4,23 @@
   "Name": "Swampland M",
   "Class": "net.minecraft.world.biome.BiomeSwamp",
   "Root Height": -0.1,
-  "Height Variation": 0.3,
-  "Top Block": "minecraft:grass",
-  "Filler Block": "minecraft:dirt",
+  "Height Variation": 0.05,
+  "Top Block": "minecraft:snow",
+  "Filler Block": "minecraft:snow",
   "Grass Color": "Not set. Check in-game.",
   "Foliage Color": "Not set. Check in-game.",
   "Water Color": "14745518",
-  "Temperature": 0.8,
+  "Temperature": 0.0,
   "Humidity": 0.9,
   "Water Tint": 14745518,
   "Enable Rain": true,
-  "Enable Snow": false,
+  "Enable Snow": true,
   "Dictionary Types": [
+    "COLD",
     "SPARSE",
     "WET",
-    "SWAMP"
+    "SWAMP",
+    "SNOWY"
   ],
   "BiomeManager Entries": {},
   "Spawnable Creatures": [
@@ -44,6 +46,18 @@
       "Entity Class": "net.minecraft.entity.passive.EntityCow",
       "Weight": 8,
       "Min Group Count": 4,
+      "Max Group Count": 4
+    },
+    {
+      "Entity Class": "net.minecraft.entity.monster.EntityPolarBear",
+      "Weight": 1,
+      "Min Group Count": 1,
+      "Max Group Count": 2
+    },
+    {
+      "Entity Class": "net.minecraft.entity.monster.EntitySnowman",
+      "Weight": 3,
+      "Min Group Count": 1,
       "Max Group Count": 4
     }
   ],
@@ -97,6 +111,12 @@
       "Max Group Count": 1
     },
     {
+      "Entity Class": "toughasnails.entities.EntityFreeze",
+      "Weight": 3,
+      "Min Group Count": 1,
+      "Max Group Count": 3
+    },
+    {
       "Entity Class": "flaxbeard.cyberware.common.entity.EntityCyberZombie",
       "Weight": 15,
       "Min Group Count": 1,
@@ -120,5 +140,5 @@
     }
   ],
   "Spawn Biome": false,
-  "Tweaked": false
+  "Tweaked": true
 }
