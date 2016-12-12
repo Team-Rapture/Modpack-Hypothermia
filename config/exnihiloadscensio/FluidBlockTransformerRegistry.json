@@ -32,6 +32,17 @@
       "meta": 0
     }
    
-}
+},
+{
+    "fluidName": "witchwater",
+    "input": {
+      "name": "minecraft:dirt",
+      "meta": 1
+    },
+    "output": {
+      "name": "minecraft:dirt",
+      "meta": 2
+    }
+  }
   
 ]
