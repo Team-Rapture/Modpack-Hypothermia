@@ -10165,6 +10165,19 @@
       "meta": 0
     }
   },
+  "botania:manaCookie:0": {
+    "value": 0.0,
+    "color": {
+      "r": 0.49803922,
+      "g": 0.24705882,
+      "b": 0.05882353,
+      "a": 1.0
+    },
+    "compostBlock": {
+      "name": "minecraft:dirt",
+      "meta": 0
+    }
+  },
   "harvestcraft:mincepieItem:0": {
     "value": 0.3,
     "color": {
