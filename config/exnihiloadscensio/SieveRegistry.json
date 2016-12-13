@@ -128,30 +128,7 @@
       "chance": 0.1,
       "meshLevel": 4
     },
-    {
-      "drop": {
-        "name": "exnihiloadscensio:itemOreCobalt",
-        "meta": 0
-      },
-      "chance": 0.2,
-      "meshLevel": 2
-    },
-    {
-      "drop": {
-        "name": "exnihiloadscensio:itemOreCobalt",
-        "meta": 0
-      },
-      "chance": 0.2,
-      "meshLevel": 3
-    },
-    {
-      "drop": {
-        "name": "exnihiloadscensio:itemOreCobalt",
-        "meta": 0
-      },
-      "chance": 0.1,
-      "meshLevel": 4
-    },
+   
     {
       "drop": {
         "name": "exnihiloadscensio:itemOreCopper",
@@ -176,30 +153,7 @@
       "chance": 0.1,
       "meshLevel": 4
     },
-    {
-      "drop": {
-        "name": "exnihiloadscensio:itemOreArdite",
-        "meta": 0
-      },
-      "chance": 0.2,
-      "meshLevel": 2
-    },
-    {
-      "drop": {
-        "name": "exnihiloadscensio:itemOreArdite",
-        "meta": 0
-      },
-      "chance": 0.2,
-      "meshLevel": 3
-    },
-    {
-      "drop": {
-        "name": "exnihiloadscensio:itemOreArdite",
-        "meta": 0
-      },
-      "chance": 0.1,
-      "meshLevel": 4
-    },
+    
     {
       "drop": {
         "name": "exnihiloadscensio:itemOreTin",
@@ -505,7 +459,7 @@
         "name": "exnihiloadscensio:itemMaterial",
         "meta": 4
       },
-      "chance": 0.05,
+      "chance": 0.15,
       "meshLevel": 1
     },
     {
@@ -531,6 +485,22 @@
       },
       "chance": 0.35,
       "meshLevel": 2
+    },
+     {
+      "drop": {
+        "name": "botania:grassSeeds",
+        "meta": 0
+      },
+      "chance": 0.01,
+      "meshLevel": 1
+    },
+     {
+      "drop": {
+        "name": "roots:oldRoot",
+        "meta": 0
+      },
+      "chance": 0.05,
+      "meshLevel": 1
     }
   ],
   "minecraft:sand:0": [
@@ -606,6 +576,22 @@
         "meta": 0
       },
       "chance": 0.05,
+      "meshLevel": 4
+    },
+    {
+      "drop": {
+        "name": "extrautils2:Ingredients",
+        "meta": 0
+      },
+      "chance": 0.15,
+      "meshLevel": 3
+    },
+    {
+      "drop": {
+        "name": "extrautils2:Ingredients",
+        "meta": 0
+      },
+      "chance": 0.3,
       "meshLevel": 4
     }
   ],
@@ -810,6 +796,72 @@
       },
       "chance": 0.5,
       "meshLevel": 2
+    }
+  ],
+      "exnihiloadscensio:blockNetherrackCrushed": [
+    {
+      "drop": {
+        "name": "exnihiloadscensio:itemOreArdite",
+        "meta": 0
+      },
+      "chance": 0.1,
+      "meshLevel": 3
+    },
+    {
+      "drop": {
+        "name": "exnihiloadscensio:itemOreArdite",
+        "meta": 0
+      },
+      "chance": 0.05,
+      "meshLevel": 3
+    },
+    {
+      "drop": {
+        "name": "exnihiloadscensio:itemOreArdite",
+        "meta": 0
+      },
+      "chance": 0.2,
+      "meshLevel": 4
+    },
+     {
+      "drop": {
+        "name": "exnihiloadscensio:itemOreCobalt",
+        "meta": 0
+      },
+      "chance": 0.1,
+      "meshLevel": 3
+    },
+    {
+      "drop": {
+        "name": "exnihiloadscensio:itemOreCobalt",
+        "meta": 0
+      },
+      "chance": 0.05,
+      "meshLevel": 3
+    },
+    {
+      "drop": {
+        "name": "exnihiloadscensio:itemOreCobalt",
+        "meta": 0
+      },
+      "chance": 0.2,
+      "meshLevel": 4
+    },
+    {
+      "drop": {
+        "name": "minecraft:glowstone_dust",
+        "meta": 0
+      },
+      "chance": 0.1,
+      "meshLevel": 3
+    },
+     {
+      "drop": {
+        "name": "minecraft:gold_nugget",
+        "meta": 0
+      },
+      "chance": 0.05,
+      "meshLevel": 3
     }
   ]
 
