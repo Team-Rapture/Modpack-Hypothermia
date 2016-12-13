@@ -454,6 +454,14 @@
     },
     {
       "drop": {
+        "name": "ic2:sapling",
+        "meta": 0
+      },
+      "chance": 0.05,
+      "meshLevel": 1
+    },
+    {
+      "drop": {
         "name": "exnihiloadscensio:itemSeedCactus",
         "meta": 0
       },
@@ -590,6 +598,14 @@
         "meta": 0
       },
       "chance": 0.2,
+      "meshLevel": 4
+    },
+    {
+      "drop": {
+        "name": "bigreactors:dustMetals",
+        "meta": 0
+      },
+      "chance": 0.05,
       "meshLevel": 4
     }
   ],
