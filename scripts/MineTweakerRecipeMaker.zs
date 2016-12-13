@@ -52,7 +52,6 @@ recipes.addShapeless(<extrautils2:Ingredients:11>, [<ore:netherStar>, <ore:dropo
 
 // ================================================================================
 //#MARKER ADD SHAPED
-recipes.addShaped(<minecraft:bucket>, [[<ore:ingotBrick>, null, <ore:ingotBrick>], [null, <ore:ingotBrick>, null]]);
 recipes.addShaped(<minecraft:paper>, [[<ore:dustWood>, <ore:dustWood>, <ore:dustWood>], [<ore:dustWood>, <ore:dustWood>, <ore:dustWood>], [<ore:dustWood>, <ore:dustWood>, <excompressum:wood_chippings>]]);
 recipes.addShaped(<extrautils2:Teleporter:1>, [[<ore:compressed6xCobblestone>, <ore:ingotDemonic>, <ore:compressed6xCobblestone>], [<ore:ingotDemonic>, <ore:compressed5xCobblestone>, <ore:ingotDemonic>], [<ore:compressed6xCobblestone>, <ore:ingotDemonic>, <extrautils2:CompressedCobblestone:5>]]);
 recipes.addShaped(<minecraft:ender_pearl>, [[<extrautils2:EnderShard>, <extrautils2:EnderShard>, <extrautils2:EnderShard>], [<extrautils2:EnderShard>, <extrautils2:EnderShard>, <extrautils2:EnderShard>], [<extrautils2:EnderShard>, <extrautils2:EnderShard>, <extrautils2:EnderShard>]]);
