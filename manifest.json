@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "Hypothermia",
-  "version": "2.0",
+  "version": "alpha-2.5",
   "author": "EmoKiba",
   "files": [
     {
@@ -345,11 +345,6 @@
       "required": true
     },
     {
-      "projectID": 242568,
-      "fileID": 2324010,
-      "required": true
-    },
-    {
       "projectID": 230497,
       "fileID": 2354330,
       "required": true
@@ -382,6 +377,36 @@
     {
       "projectID": 238403,
       "fileID": 2347554,
+      "required": true
+    },
+    {
+      "projectID": 238123,
+      "fileID": 2337494,
+      "required": true
+    },
+    {
+      "projectID": 69118,
+      "fileID": 2346198,
+      "required": true
+    },
+    {
+      "projectID": 245288,
+      "fileID": 2329028,
+      "required": true
+    },
+    {
+      "projectID": 254508,
+      "fileID": 2352203,
+      "required": true
+    },
+    {
+      "projectID": 245287,
+      "fileID": 2334148,
+      "required": true
+    },
+    {
+      "projectID": 250577,
+      "fileID": 2345167,
       "required": true
     }
   ],

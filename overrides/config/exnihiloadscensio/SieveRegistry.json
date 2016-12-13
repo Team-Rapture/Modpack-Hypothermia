@@ -753,6 +753,48 @@
       "meshLevel": 4
     }
 
-]
+],
+      "minecraft:wool": [
+    {
+      "drop": {
+        "name": "minecraft:string",
+        "meta": 0
+      },
+      "chance": 1.0,
+      "meshLevel": 2
+    },
+     {
+      "drop": {
+        "name": "minecraft:string",
+        "meta": 0
+      },
+      "chance": 1.0,
+      "meshLevel": 2
+    },
+     {
+      "drop": {
+        "name": "minecraft:string",
+        "meta": 0
+      },
+      "chance": 1.0,
+      "meshLevel": 2
+    },
+     {
+      "drop": {
+        "name": "minecraft:dye",
+        "meta": 15
+      },
+      "chance": 0.5,
+      "meshLevel": 2
+    },
+    {
+      "drop": {
+        "name": "minecraft:dye",
+        "meta": 15
+      },
+      "chance": 0.5,
+      "meshLevel": 2
+    }
+  ]
 
 }
