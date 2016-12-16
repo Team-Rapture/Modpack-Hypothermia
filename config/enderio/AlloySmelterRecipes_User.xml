@@ -27,5 +27,88 @@
 -->
 
 <AlloySmelterRecipes>
+<recipeGroup name="EnderIO" > <!-- Required for EnderIO to function correctly. -->
+    <recipe name="Iron Ore" energyCost="10000" >
+      <input>
+        <itemStack modID="minecraft" itemName="iron_block" />
+        <itemStack modID="minecraft" itemName="stone"/>
+      </input>
+      <output>
+        <itemStack modID="minecraft" itemName="iron_ore" itemMeta="0" exp="0.5" />
+      </output>
+    </recipe>
+	<recipe name="Gold Ore" energyCost="10000" >
+      <input>
+        <itemStack modID="minecraft" itemName="gold_block" />
+        <itemStack modID="minecraft" itemName="stone"/>
+      </input>
+      <output>
+        <itemStack modID="minecraft" itemName="gold_ore" itemMeta="0" exp="0.5" />
+      </output>
+    </recipe>
+	<recipe name="Coal Ore" energyCost="10000" >
+      <input>
+        <itemStack modID="minecraft" itemName="coal_block" />
+        <itemStack modID="minecraft" itemName="stone"/>
+      </input>
+      <output>
+        <itemStack modID="minecraft" itemName="coal_ore" itemMeta="0" exp="0.5" />
+      </output>
+    </recipe>
+	<recipe name="Lapis Lazuli Ore" energyCost="10000" >
+      <input>
+        <itemStack modID="minecraft" itemName="lapis_block" />
+        <itemStack modID="minecraft" itemName="stone"/>
+      </input>
+      <output>
+        <itemStack modID="minecraft" itemName="lapis_ore" itemMeta="0" exp="0.5" />
+      </output>
+    </recipe>
+	<recipe name="Diamond Ore" energyCost="10000" >
+      <input>
+        <itemStack modID="minecraft" itemName="diamond_block" />
+        <itemStack modID="minecraft" itemName="stone"/>
+      </input>
+      <output>
+        <itemStack modID="minecraft" itemName="diamond_ore" itemMeta="0" exp="0.5" />
+      </output>
+    </recipe>
+	<recipe name="Redstone Ore" energyCost="10000" >
+      <input>
+        <itemStack modID="minecraft" itemName="redstone_block" />
+        <itemStack modID="minecraft" itemName="stone"/>
+      </input>
+      <output>
+        <itemStack modID="minecraft" itemName="redstone_ore" itemMeta="0" exp="0.5" />
+      </output>
+    </recipe>
+	<recipe name="Emerald Ore" energyCost="10000" >
+      <input>
+        <itemStack modID="minecraft" itemName="emerald_block" />
+        <itemStack modID="minecraft" itemName="stone"/>
+      </input>
+      <output>
+        <itemStack modID="minecraft" itemName="emerald_ore" itemMeta="0" exp="0.5" />
+      </output>
+    </recipe>
+	<recipe name="Copper Ore" energyCost="10000" >
+      <input>
+        <itemStack modID="ic2" itemName="resource" itemMeta="6" />
+        <itemStack modID="minecraft" itemName="stone"/>
+      </input>
+      <output>
+        <itemStack modID="ic2" itemName="resource" itemMeta="1" exp="0.5" />
+      </output>
+    </recipe>
+	<recipe name="Yellorite Ore" energyCost="10000" >
+      <input>
+        <itemStack modID="bigreactors" itemName="blocksMetals" itemMeta="0"  />
+        <itemStack modID="minecraft" itemName="stone"/>
+      </input>
+      <output>
+        <itemStack modID="bigreactors" itemName="brOre" itemMeta="0" exp="0.5" />
+      </output>
+    </recipe>
+	</recipeGroup>
 
 </AlloySmelterRecipes>
