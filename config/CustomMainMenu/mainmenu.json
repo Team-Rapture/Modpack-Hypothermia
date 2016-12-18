@@ -1,0 +1,200 @@
+{
+    "images":
+    {
+        "title":
+        {
+            "image" : "modpack:textures/Hypothermia.png",
+            "posX" :-100,
+            "posY" : 20,
+            "width" : 212,
+            "height" : 50,
+            "alignment" : "top_center"
+        }
+    },
+    
+     "buttons":
+    {
+      "singleplayer":
+        {
+            "text" : "Solo Freez",
+             "normalTextColor" :6081343 ,
+            "hoverTextColor" :60777215,	
+            "texture" : "modpack:textures/btn.png",
+            "posX" : -80,
+            "posY" : -40,
+            "width" : 156,
+            "height" : 20,
+            imageWidth : 25,
+            imageHeight : 50,
+            "alignment" : "center",
+            "action" :
+            {
+                "type" : "openGui",
+                "gui" : "singleplayer"
+            }
+        },
+        
+        "multiplayer":
+        {
+            "text" : "multi Freez",
+             "normalTextColor" :6081343 ,
+            "hoverTextColor" :60777215,	
+            "texture" : "modpack:textures/btn.png",
+            "posX" : -100,
+            "posY" :-20,
+            "width" : 200,
+            "height" : 20,
+            imageWidth : 25,
+            imageHeight : 50,
+            "alignment" : "center",
+            "action" :
+            {
+                "type" : "openGui",
+                "gui" : "multiplayer"
+            }
+        },
+		  "mods":
+        {
+            "text" : "mods",
+             "normalTextColor" :6081343 ,
+            "hoverTextColor" :60777215,	
+            "texture" : "modpack:textures/btn.png",
+            "posX" : -100,
+            "posY" : 0,
+            "width" : 200,
+            "height" : 20,
+            imageWidth : 25,
+            imageHeight : 50,
+            "alignment" : "center",
+            "action" :
+            {
+                "type" : "openGui",
+                "gui" : "mods"
+            }
+        },
+            
+        "options":
+        {
+            "text" : " options",
+	        "normalTextColor" :6081343 ,
+            "hoverTextColor" :60777215,	
+         "texture" : "modpack:textures/btn.png",
+            "posX" : -100,
+            "posY" :20,
+            "width" : 200,
+            "height" : 20,
+            imageWidth : 25,
+            imageHeight : 50,
+            "alignment" : "center",
+            "action" :
+            {
+                "type" : "openGui",
+                "gui" : "options"
+            }
+        },
+        
+        "quit":
+        {
+            "text" : "menu.quit",
+           "normalTextColor" :6081343 ,
+            "hoverTextColor" :60777215,	
+         "texture" : "modpack:textures/btn.png",
+            "posX" : -100,
+            "posY" :80,
+            "width" : 200,
+            "height" : 20,
+            imageWidth : 25,
+            imageHeight : 50,
+            "alignment" : "center",
+            "action" :
+            {
+                "type" : "quit"
+            }
+        },
+        
+               "discord":
+        {
+            "text" : " Discord!",
+            "normalTextColor" :6081343 ,
+            "hoverTextColor" :60777215,
+            "texture" : "modpack:textures/btn.png",
+            "posX" : -100,
+            "posY" : 40,
+            "width" : 200,
+            "height" : 20,
+            imageWidth : 25,
+            imageHeight : 50,
+            "alignment" : "center",
+            "action" :
+            {
+                "type" : "openLink",
+                "link" : "https://discord.gg/dX75G3B"
+            }
+			},
+        "language":
+        {           
+     		"text" : "language",
+            "normalTextColor" :6081343 ,
+            "hoverTextColor" :60777215,
+		    "texture" : "modpack:textures/btn.png",
+            "posX" : -20,
+            "posY" : 60,
+            "width" : 50,
+            "height" : 20,
+			 imageWidth : 25,
+            imageHeight : 50,
+		   "alignment" : "center",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "languages"
+            }
+        },       
+	   "refresh":
+        {
+            "text" : "",
+            "posX" : -154,
+            "posY" : 132,
+            "width" : 20,
+            "height" : 20,
+            "texture" : "custommainmenu:textures/gui/buttons.png",
+            "action" : 
+            {
+                "type" : "refresh"
+            }
+        }
+    },
+  
+    
+    "other":
+    {
+        "splash-text":
+        {
+            "posX" : 90,
+            "posY" : 70,
+            "color" : -256,
+            "alignment" : "top_center",
+            "texts" : "Jury WAS here 
+#Team Rapture
+Kiba is Scrub
+Cooler than Spock!
+12345 is a bad password!
+§kFUNKY LOL
+Now Java 9001!
+Now contains 32 random daily cats!
+The creeper is a spy!
+/give @a hugs 64
+Any computer is a laptop if you're brave enough!
+THE MINNESOTA MODPACK"
+	   },
+        
+        "panorama":
+        {
+            "images" : "modpack:textures/HDv2.png",
+            "animate" : true,
+            "animationSpeed" : 2,
+            "blur" : false,
+            "gradient" : false
+        }
+    }
+}
