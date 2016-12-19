@@ -4588,6 +4588,19 @@
       "meta": 0
     }
   },
+  "arsmagica2:mana_cake:0": {
+    "value": 0.075,
+    "color": {
+      "r": 0.49803922,
+      "g": 0.24705882,
+      "b": 0.05882353,
+      "a": 1.0
+    },
+    "compostBlock": {
+      "name": "minecraft:dirt",
+      "meta": 0
+    }
+  },
   "harvestcraft:caramelicecreamItem:0": {
     "value": 0.22500001,
     "color": {
@@ -7619,6 +7632,19 @@
   },
   "harvestcraft:pearjellyItem:0": {
     "value": 0.125,
+    "color": {
+      "r": 0.49803922,
+      "g": 0.24705882,
+      "b": 0.05882353,
+      "a": 1.0
+    },
+    "compostBlock": {
+      "name": "minecraft:dirt",
+      "meta": 0
+    }
+  },
+  "arsmagica2:mana_martini:0": {
+    "value": 0.0,
     "color": {
       "r": 0.49803922,
       "g": 0.24705882,
