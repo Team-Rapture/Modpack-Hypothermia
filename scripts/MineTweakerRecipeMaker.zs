@@ -31,7 +31,7 @@ oreCobalt.add(<exnihiloadscensio:itemOreCobalt:1>);
 
 // ================================================================================
 //#MARKER REMOVE
-
+recipes.remove(<ic2:resource:10>);
 // ================================================================================
 //#MARKER REMOVE SHAPELESS
 
@@ -52,6 +52,14 @@ recipes.addShapeless(<extrautils2:Ingredients:11>, [<ore:netherStar>, <ore:dropo
 
 // ================================================================================
 //#MARKER ADD SHAPED
+recipes.addShaped(<tconstruct:edible:2> * 4, [[<ore:slimeball>, <ore:slimeball>, <ore:slimball>], [<ore:slimeball>, <minecraft:dye:5>, <ore:slimeball>], [<ore:slimeball>, <ore:slimeball>, <ore:slimeball>]]);
+recipes.addShaped(<tconstruct:edible:1> * 4, [[<ore:slimeball>, <ore:slimeball>, <ore:slimeball>], [<ore:slimeball>, <ore:dyeLightBlue>, <ore:slimeball>], [<ore:slimeball>, <ore:slimeball>, <ore:slimeball>]]);
+recipes.addShaped(<tconstruct:slime_sapling:1>, [[null, <ore:slimeballPurple>, null], [<tconstruct:edible:2>, <ore:treeSapling>, <ore:slimeballPurple>], [null, <ore:slimeballPurple>, null]]);
+recipes.addShaped(<tconstruct:slime_sapling>, [[null, <ore:slimeball>, null], [<ore:slimeball>, <ore:treeSapling>, <ore:slimeball>], [null, <ore:slimeball>, null]]);
+recipes.addShaped(<ic2:resource:10>, [[<ic2:nuclear>, <ic2:nuclear>, <ic2:nuclear>], [<ic2:nuclear>, <ic2:nuclear>, <ic2:nuclear>], [<ic2:nuclear>, <ic2:nuclear>, <ic2:nuclear>]]);
+recipes.addShaped(<chisel:limestoneextra:7> * 8, [[<ore:stone>, <ore:stone>, <ore:stone>], [<minecraft:stone>, <ore:dyeLime>, <ore:stone>], [<ore:stone>, <ore:stone>, <minecraft:stone>]]);
+recipes.addShaped(<chisel:marbleextra:7> * 8, [[<ore:stone>, <minecraft:stone>, <minecraft:stone>], [<ore:stone>, <ore:dyeWhite>, <ore:stone>], [<ore:stone>, <minecraft:stone>, <minecraft:stone>]]);
+recipes.addShaped(<cyberware:surgery>, [[<minecraft:iron_ingot>, <minecraft:iron_sword>, <ore:ingotIron>], [<minecraft:shears>, <minecraft:redstone_block>, <minecraft:iron_axe>], [<minecraft:redstone>, <ore:blockMetal>, <ore:dustRedstone>]]);
 recipes.addShaped(<minecraft:paper>, [[<ore:dustWood>, <ore:dustWood>, <ore:dustWood>], [<ore:dustWood>, <ore:dustWood>, <ore:dustWood>], [<ore:dustWood>, <ore:dustWood>, <excompressum:wood_chippings>]]);
 recipes.addShaped(<extrautils2:Teleporter:1>, [[<ore:compressed6xCobblestone>, <ore:ingotDemonic>, <ore:compressed6xCobblestone>], [<ore:ingotDemonic>, <ore:compressed5xCobblestone>, <ore:ingotDemonic>], [<ore:compressed6xCobblestone>, <ore:ingotDemonic>, <extrautils2:CompressedCobblestone:5>]]);
 recipes.addShaped(<minecraft:ender_pearl>, [[<extrautils2:EnderShard>, <extrautils2:EnderShard>, <extrautils2:EnderShard>], [<extrautils2:EnderShard>, <extrautils2:EnderShard>, <extrautils2:EnderShard>], [<extrautils2:EnderShard>, <extrautils2:EnderShard>, <extrautils2:EnderShard>]]);
