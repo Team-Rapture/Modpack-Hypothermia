@@ -1,6 +1,12 @@
 #Hypothermia Custom Tweaks
 #Varaibles
+//{EntityTag:{id:"arsmagica2.WaterGuardian"}}
 val log = <ore:logWood>;
+val spawnEgg = <minecraft:spawn_egg>;
+val spawnWaterGuardian = spawnEgg.withTag({EntityTag:{id:"arsmagica2.WaterGuardian"}});
+val spawnEarthGuardian = spawnEgg.withTag({EntityTag:{id:"arsmagica2.EarthGuardian"}});
+val spawnDryad = spawnEgg.withTag({EntityTag:{id:"arsmagica2.Dryad"}});
+val spawnWinterGuardian = spawnEgg.withTag({EntityTag:{id:"arsmagica2.WinterGuardian"}});
 
 //Ars Magica Additons
 mods.tconstruct.Smeltery.addMelting(<liquid:liquid_essence> * 1000, <arsmagica2:block>, 1000, <tconstruct:slime:2>);
@@ -13,3 +19,11 @@ mods.tconstruct.Casting.addTableRecipe(<arsmagica2:cerublossom> , <liquid:liquid
 mods.tconstruct.Casting.addTableRecipe(<arsmagica2:wakebloom> , <liquid:liquid_essence> * 144, <minecraft:waterlily>, <minecraft:waterlily>);
 mods.tconstruct.Casting.addTableRecipe(<arsmagica2:aum> , <liquid:liquid_essence> * 144, <botania:specialFlower>, <botania:specialFlower>);
 mods.tconstruct.Casting.addTableRecipe(<arsmagica2:tarma_root> , <liquid:liquid_essence> * 144, <roots:oldRoot>, <roots:oldRoot>);
+
+//Ars Magica Summoning Boss
+mods.botania.Apothecary.addRecipe(spawnWaterGuardian, [<arsmagica2:redstone_inlay> * 8 , <minecraft:boat>, <ore:listAllwater>]);
+mods.botania.Apothecary.addRecipe(spawnEarthGuardian, [<minecraft:obsidian> * 8, <minecraft:stonebrick:3>, <arsmagica2:vinteum_torch>* 4, <arsmagica2:iron_inlay> * 8 , 
+ <arsmagica2:item_ore:2>, <minecraft:emerald> , <arsmagica2:item_ore:5>]); 
+
+ mods.botania.Apothecary.addRecipe(spawnDryad, [<arsmagica2:infinity_orb> , <arsmagica2:infinity_orb:1> , <minecraft:sapling> * 4, <minecraft:egg>]);
+  mods.botania.Apothecary.addRecipe(spawnWinterGuardian, [<arsmagica2:infinity_orb:2> , <arsmagica2:block:2> * 2, <minecraft:pumpkin>*2 , <minecraft:snow> * 4, <minecraft:ice>, <arsmagica2:gold_inlay> * 8]);
