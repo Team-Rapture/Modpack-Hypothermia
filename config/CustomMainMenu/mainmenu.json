@@ -19,7 +19,7 @@
 
     "buttons": {
         "singleplayer": {
-            "text": "Solo Freez",
+            "text": "Solo-Freez",
             "normalTextColor": 6081343,
             "hoverTextColor": 60777215,
             "texture": "modpack:Buttons/Long_Button.png",
@@ -37,7 +37,7 @@
         },
 
         "multiplayer": {
-            "text": "multi Freez",
+            "text": "Multi-Freez",
             "normalTextColor": 6081343,
             "hoverTextColor": 60777215,
             "texture": "modpack:Buttons/Long_Button.png",
@@ -55,7 +55,7 @@
         },
 
         "mods": {
-            "text": "mods",
+            "text": "Mods",
             "normalTextColor": 6081343,
             "hoverTextColor": 60777215,
             "texture": "modpack:Buttons/Long_Button.png",
@@ -73,7 +73,7 @@
         },
 
         "options": {
-            "text": " options",
+            "text": " Options",
             "normalTextColor": 6081343,
             "hoverTextColor": 60777215,
             "texture": "modpack:Buttons/Long_Button.png",
