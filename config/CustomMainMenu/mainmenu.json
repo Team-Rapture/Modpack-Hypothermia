@@ -8,10 +8,10 @@
         "title": {
             "image": "modpack:textures/Hypothermia.png",
             "posX": -100,
-            "posY": 20,
-            "width": 212,
-            "height": 50,
-            "alignment": "top_center"
+            "posY": -135,
+            "width": 200,
+            "height": 93,
+            "alignment": "center"
         }
     },
 
@@ -19,7 +19,7 @@
 
     "buttons": {
         "singleplayer": {
-            "text": "Solo-Freez",
+            "text": "Solo-Freeze",
             "normalTextColor": 6081343,
             "hoverTextColor": 60777215,
             "texture": "modpack:Buttons/Long_Button.png",
@@ -37,7 +37,7 @@
         },
 
         "multiplayer": {
-            "text": "Multi-Freez",
+            "text": "Multi-Freeze",
             "normalTextColor": 6081343,
             "hoverTextColor": 60777215,
             "texture": "modpack:Buttons/Long_Button.png",
@@ -164,7 +164,7 @@
             "alignment": "center",
             "action": {
                 "type": "openLink",
-                "link": "https://github.com/Team-Rapture/Modpack-Hypothermia"
+                "link": "https://github.com/Team-Rapture/Modpack-Hypothermia/issues"
             }
         },
 
@@ -214,7 +214,7 @@
             "alignment": "bottom_left"
         },
         "modpack": {
-            "text": "Hypothermia Alpha",
+            "text": "file:modpack:textures/version.txt",
             "posX": 3,
             "posY": -25,
             "fontSize": .6,
@@ -226,10 +226,10 @@
 
     "other": {
         "splash-text": {
-            "posX": 90,
-            "posY": 70,
+            "posX": 110,
+            "posY": -60,
             "color": -256,
-            "alignment": "top_center",
+            "alignment": "center",
             "texts": "file:modpack:textures/splash.txt"
         },
 
