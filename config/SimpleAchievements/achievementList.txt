@@ -1,3 +1,8 @@
+Welcome To Hypothermia!|A Modpack By Team Rapture|=======================::1
+Before you get started please read the following::1
+Temperature is a Thing you must watch, All that lies ahead is snow and maybe if you look hard enough the occasional moutain but its mostly snow so, Stay Warm, Stay Hydrated and Survive the Night Holds Horrors of Many Kinds --Hint(JEI is your bestfriend also some of the Ars Magica Bosses cant be summoned so look for the Summon Egg Recipe in JEI)...Lastly Don't Freeze >8) ::1
+SNOW ERA::1
+This is the part where you freeze and build shelter and freeze and make a farm and freeze (evil laugh)::1
 === The Snow Day ===::1
 Grow Your First Tree::0
 Craft A Crook::0
@@ -7,7 +12,7 @@ Sieve Snow::0
 Make a CampFire and Light it with Sticks::0
 Build a Home/Igloo::0
 === The Stone Age? ===::1
-Use Stones to make Cobble:0
+Use Stones to make Cobble::0
 Build a  Furnace::0
 Craft a Bottle and Purify it to make Clay::0
 Craft a Clay Bucket::0
@@ -15,4 +20,92 @@ Sieve Wool and Collect Bonemeal::0
 Craft an unFired Crucible and Fire it in the Furnace::0
 Create Lava in the Crucible::0
 Use the Lava and Make a Cobble Gen::0
-Automate the Cobble Gen/Craft a Cobble Generator:0
+Automate the Cobble Gen/Craft a Cobble Generator::0
+=== Farmer's Tan ===::1
+Use Wooden Barrels to Make Dirt::0
+Sift Dirt and Collect Seeds::0
+Make a 9x9 Farm::0
+Make a Watering Can::0
+Grow a 9x9 Patch of Grass::0
+Get Some Worms (x4)::0
+=== Ore to the Core ==::1
+Craft a Hammer::0
+Hammer some Gravel (x64)::0
+Craft a Compressed Hammer::0
+Automate the Hammering of Gravel , Sand , and Dust::0
+Craft some Form of Crusher (Ore Doubling Mechanic)::0
+Setup Auto-Ore Processing (Doubler and Smelter)::0
+=== Smelter Skelter===::1
+Build the Tinker's Setup (Stencil ,Part Builder,Tool Station)::0
+Create Some Grout(X128)::0
+Build a Smeltery::0
+Create a Tool Forge::0
+Make an Advanced Tool::0
+Create an Advanced Weapon::0
+Create an Advanced Ranged Weapon::0
+::1
+::1
+TECH ERA::1
+Welcome to the Tech Era, where you will craft the machines and eventually Become a Machine Yourself (Cyborg Anyone?)::1
+=== Tech Breakthrough ===::1
+Choose a Tech Tree to Start with! (i.e. IC2, AA , Enderio)::0
+Setup all the Early Tier Machines::0
+Craft Corresponding Wrench::0
+Build Tech Armor T1 (i.e. Nano, Dark Iron Armor, Dimantine Armor)::0
+Build Final Tier Armor::0
+=== Solar Discoveries ===::1
+Create a T1 Solar Panel::0
+Create a T2 Solar Panel::0
+Create a T3 Solar Panel::0
+Create a T4 Solar Panel::0
+Create a Low Voltage Solar Array::0
+Create a Medium Voltage Solar Array::0
+Create a High Voltage Solar Array::0
+Create Solar Panel I-VI::0
+Create Solar Helmet (Low - High)::0
+=== Generator Complex ===::1
+Create a Survivalist Gen::0
+Create a Furnace Gen::0
+Create a Magmatic Gen::0
+Create a Frosty Gen::0
+Create a Explosive Gen::0
+Create a Culinary Gen::0
+Create an Ender Gen::0
+Get a Working Rainbow Gen::0
+Craft a Resonator::0
+Get a Solar Panel for Grid Power::0
+Get a Water Mill for Grid Power::0
+Get a Fire Mill for Grid Power::0
+Get a Wind Mill for Grid Power::0
+Generate over 1000 Grid Power::0
+=== Super Android 13 ===::1
+Start Collecting Cyber Componets::0
+Setup a Reseach Scanner (Cyberware Scanner)::0
+Start Creating BluePrints::0
+Remove your Eyes::0
+Remove Your Leg and Arm::0
+Replace Your Body with Cybernetic Parts::0
+Fix Unwanted Issues (Hunger and Thirst and Temperature)::0
+::1
+=== UnFinished Business ===::1
+Go to the Nether::0
+Kill the Wither::0
+Fight the Guardian::0
+Find the End Portal::0
+Kill the Ender Dragon::0
+::1
+MAGICAL ERA::1
+Welcome to the Magical Era, where you will Become a Wizard Harry!::1
+=== Botanic Abomination ===::1
+Collect some Floral Fertilizer (x64)::0
+Make a Petal Apothecary::0
+Create a Pure Daisy::0
+Create Mana Generating Flowers::0
+Fill a Whole Mana Pool::0
+Create a Spark::0
+Automate Mana Production::0
+Create A Piece of Terrasteel::0
+Open the Portal to Alfheim::0
+Craft the Tera Blade::0
+Destroy the Gaia::0
+Fly with the Flugel Tiara::0
