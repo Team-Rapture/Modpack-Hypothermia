@@ -18,8 +18,8 @@
     /* Buttons used to get around the menus*/
 
     "buttons": {
-        "singleplayer": {
-            "text": "Solo-Freeze",
+        "mainmenu": {
+            "text": "Main Menu",
             "normalTextColor": 6081343,
             "hoverTextColor": 41704,
             "texture": "modpack:Buttons/Long_Button.png",
@@ -32,12 +32,12 @@
             "alignment": "center",
             "action": {
                 "type": "openGui",
-                "gui": "singleplayer"
+                "gui": "custom.mainmenu"
             }
         },
 
-        "multiplayer": {
-            "text": "Multi-Freeze",
+        "EmoKiba": {
+            "text": "EmoKiba",
             "normalTextColor": 6081343,
             "hoverTextColor": 41704,
             "texture": "modpack:Buttons/Long_Button.png",
@@ -49,13 +49,13 @@
             imageHeight: 40,
             "alignment": "center",
             "action": {
-                "type": "openGui",
-                "gui": "multiplayer"
+                "type": "openLink",
+                "link": "https://www.twitch.tv/EmoKiba"
             }
         },
 
-        "mods": {
-            "text": "Mods",
+        "Battery3996": {
+            "text": "Battery3996",
             "normalTextColor": 6081343,
             "hoverTextColor": 41704,
             "texture": "modpack:Buttons/Long_Button.png",
@@ -67,13 +67,13 @@
             imageHeight: 40,
             "alignment": "center",
             "action": {
-                "type": "openGui",
-                "gui": "mods"
+                "type": "openLink",
+                "link": "https://www.twitch.tv/battery3996"
             }
         },
 
-        "options": {
-            "text": " Options",
+        "Sinfuldeity": {
+            "text": "Sinfuldeity",
             "normalTextColor": 6081343,
             "hoverTextColor": 41704,
             "texture": "modpack:Buttons/Long_Button.png",
@@ -85,13 +85,31 @@
             imageHeight: 40,
             "alignment": "center",
             "action": {
-                "type": "openGui",
-                "gui": "options"
+                "type": "openLink",
+                "link": "https://www.twitch.tv/sinfuldeity"
             }
         },
 
-        "quit": {
-            "text": "menu.quit",
+        "p455w0rd": {
+            "text": "Therealp455w0rd",
+            "normalTextColor": 6081343,
+            "hoverTextColor": 41704,
+            "texture": "modpack:Buttons/Long_Button.png",
+            "posX": -80,
+            "posY": 42,
+            "width": 156,
+            "height": 20,
+            imageWidth: 312,
+            imageHeight: 40,
+            "alignment": "center",
+            "action": {
+                "type": "openLink",
+                "link": "https://mods.curse.com/members/TheRealp455w0rd/projects"
+            }
+        },
+
+        "Lothrazor": {
+            "text": "Lothrazor",
             "normalTextColor": 6081343,
             "hoverTextColor": 41704,
             "texture": "modpack:Buttons/Long_Button.png",
@@ -103,87 +121,26 @@
             imageHeight: 40,
             "alignment": "center",
             "action": {
-                "type": "quit"
+                "type": "openLink",
+                "link": "https://mods.curse.com/members/Lothrazar/projects"
             }
         },
 
-        "Team Rapture": {
-            "text": "Team Rapture",
+        "Growlith1223": {
+            "text": "Growlith1223",
             "normalTextColor": 6081343,
             "hoverTextColor": 41704,
             "texture": "modpack:Buttons/Long_Button.png",
             "posX": -80,
-            "posY": 42,
+            "posY": 84,
             "width": 156,
             "height": 20,
             imageWidth: 312,
             imageHeight: 40,
             "alignment": "center",
             "action": {
-                "type": "openGui",
-                "gui": "custom.teamrapture"
-            }
-
-        },
-
-        "language": {
-            "text": "",
-            "normalTextColor": 6081343,
-            "hoverTextColor": 41704,
-            "tooltip": "Language",
-            "texture": "modpack:Buttons/lang.png",
-            "posX": 78,
-            "posY": 42,
-            "width": 20,
-            "height": 20,
-            imageWidth: 20,
-            imageHeight: 20,
-            "alignment": "center",
-            "action": {
-                "type": "openGui",
-                "gui": "languages"
-            }
-        },
-
-        /* Discord button that links to the community Discord server*/
-
-        "discord": {
-            "text": "",
-            "normalTextColor": 6081343,
-            "hoverTextColor": 41704,
-            "tooltip": "click to join our Discord",
-            "texture": "modpack:Buttons/discord.png",
-            "posX": 78,
-            "posY": 0,
-            "width": 20,
-            "height": 20,
-            imageWidth: 300,
-            imageHeight: 300,
-            "alignment": "center",
-            "action": {
                 "type": "openLink",
-                "link": "https://discord.gg/dX75G3B"
-            }
-        },
-
-        /* Github area for Issues/bug reports that might be in the pack*/
-
-        "Github": {
-            "text": "",
-            "normalTextColor": 6081343,
-            "hoverTextColor": 41704,
-            "tooltip": "report any bugs here",
-            "texture": "modpack:Buttons/git.png",
-            "posX": 78,
-            "posY": 21,
-            "width": 20,
-            "height": 20,
-            imageWidth: 300,
-            imageHeight: 300,
-            "alignment": "center",
-            "action": {
-                "type": "openLink",
-                "link": "https://github.com/Team-Rapture/Modpack-Hypothermia/issues"
+                "link": "https://mods.curse.com/members/Growlith1223/projects"
             }
         },
 
