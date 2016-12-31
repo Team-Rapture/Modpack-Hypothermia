@@ -22,8 +22,8 @@ mods.tconstruct.Casting.addTableRecipe(<arsmagica2:tarma_root> , <liquid:liquid_
 
 //Ars Magica Summoning Boss
 mods.botania.Apothecary.addRecipe(spawnWaterGuardian, [<arsmagica2:redstone_inlay> * 8 , <minecraft:boat>, <ore:listAllwater>]);
-mods.botania.Apothecary.addRecipe(spawnEarthGuardian, [<minecraft:obsidian> * 8, <minecraft:stonebrick:3>, <arsmagica2:vinteum_torch>* 4, <arsmagica2:iron_inlay> * 8 , 
- <arsmagica2:item_ore:2>, <minecraft:emerald> , <arsmagica2:item_ore:5>]); 
+//mods.botania.Apothecary.addRecipe(spawnEarthGuardian, [<minecraft:obsidian> * 8, <minecraft:stonebrick:3>, <arsmagica2:vinteum_torch>* 4, <arsmagica2:iron_inlay> * 8 , 
+// <arsmagica2:item_ore:2>, <minecraft:emerald> , <arsmagica2:item_ore:5>]); 
 
  mods.botania.Apothecary.addRecipe(spawnDryad, [<arsmagica2:infinity_orb> , <arsmagica2:infinity_orb:1> , <minecraft:sapling> * 4, <minecraft:egg>]);
   mods.botania.Apothecary.addRecipe(spawnWinterGuardian, [<arsmagica2:infinity_orb:2> , <arsmagica2:block:2> * 2, <minecraft:pumpkin>*2 , <minecraft:snow> * 4, <minecraft:ice>, <arsmagica2:gold_inlay> * 8]);

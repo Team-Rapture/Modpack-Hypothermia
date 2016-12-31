@@ -87,6 +87,19 @@ Remove Your Leg and Arm::0
 Replace Your Body with Cybernetic Parts::0
 Fix Unwanted Issues (Hunger and Thirst and Temperature)::0
 ::1
+=== Units For Sale ===::1
+Create your first Iron Chest::0
+Make a Storage Crate::0
+Create a Storage Drawer::0
+Get a Diamond/Crystal Chest::0
+Craft a RS Controller::0
+Get a Solderer::0
+Setup an RS System::0
+Upgrade your Grid into a Crafting Grid::0
+Fill a Disk Drive with 64K Storage Disk::0
+::1
+::1
+::1
 === UnFinished Business ===::1
 Go to the Nether::0
 Kill the Wither::0
@@ -97,6 +110,7 @@ Kill the Ender Dragon::0
 MAGICAL ERA::1
 Welcome to the Magical Era, where you will Become a Wizard Harry!::1
 === Botanic Abomination ===::1
+Make a Lexica Botania::0
 Collect some Floral Fertilizer (x64)::0
 Make a Petal Apothecary::0
 Create a Pure Daisy::0
@@ -109,3 +123,84 @@ Open the Portal to Alfheim::0
 Craft the Tera Blade::0
 Destroy the Gaia::0
 Fly with the Flugel Tiara::0
+=== Ars Magicuur ===::1
+Collect Vinteum Dust (x64)::0
+Create Liquid Essence::0
+Craft an Arcane Compendium (via Smelter or Ritual)::0
+Create an Occulus::0
+Create Your First Spell::0
+Destroy the Water Guardian (spawner egg)::0
+Craft your Battle Mage Armor Set::0
+Destroy the Earth Guardian::0
+Eat a Mana Cake::0
+Kill all the Bosses in Ars Magica (Winter Guardian has spawner egg)::0
+Collect all the Ars Magica Boss Drops::0
+=== 10th Grade Math ===::1
+Craft a CAD Assembler::0
+Create your First CAD::0
+Create a Spell Programmer::0
+Create your First Spell::0
+Finish the Psi Tutorial::0
+Create an Ebony/Ivory CAD::0
+Create an Exosuit::0
+Play Lightning God (Strike Lightning Down 20 Times)::0
+=== Do it for the Vine ===::1
+Obtain an Old Root::0
+Craft the Runic Tablet::0
+Make a Woof Knife(Bark Knife)::0
+Create a Pestle and Mortar::0
+Make a Petal Dust and Imbue it to a Stick::0
+Create a your First Spell::0
+Create a Living Tool::0
+Use a Ritual::0
+Create a Growth Standing Stone::0
+Create Sylvan/Defender Armor Set::0
+Make a Connection with the Otherworld::0
+Summon and Destroy the Sprite Guaridan::0
+::1
+=== Prime Reliquary ===::1
+Make an Apothecary Cauldron::0
+Create an Auto Mob Farm to Collect Reliquary Drops::0
+Create Custom Potions in the Apothecary Cauldron::0
+Eat Some Glowing Bread (x64)::0
+Create the Deadly Hunter's Handgun::0
+Lock and Load on Mobs (x20)::0
+Make Some Mob Charm (i.e. Skeleton, Zombie)::0
+Make a Magicbane Capable of Dealing 15DMG::0
+::1
+::1
+::1
+SHOWOFF ERA::1
+Welcome to the Showoff Era, Where you already got enough stuff but lets overkill it am I right!?::1
+=== Over Reacting ===::1
+Create an Extreme Reactor::0
+Create an IC2 Reactor::0
+Create a Turbine Reactor::0
+Make a Max Size Active Reactor::0
+Fill it with Diamond Blocks::0
+Fill a Max Size Vibrant Capacitor::0
+Fill an MFSU::0
+=== Void Quarry & Glory ===::1
+Create a Tier 4 Void Ore Miner::0
+Create a Tier 4 Void Resource Miner::0
+Create a Quantum Quarry::0
+Create and Automate the Orechid::0
+=== Dimensional Shift ===::1
+Create an RF Dimension::0
+Visit the Moo Moo Dimension::0
+Visit the Deep Dark::0
+Create a set of Dimensional Transceivers::0
+Setup an Interdimensional RS System::0
+=== The Misc Stuff ===::0
+Create every Dish in Pams(hint: market)::0
+Collect Every Single Relic Drop from the Gaia 2.0::0
+Craft the Ultimate Ring::0
+Unlock Every Spell in Ars Magica::0
+Completely Fill your Baubles Slots::0
+Max Out Your Health Completely with Heart Canisters::0
+Create an Use all of the Psionic Items and Armors::0
+Create 4 Forms of Flight::0
+Fill a Chisel Bit Bag Full::0 
+Build a Fortress Equipt with Shield Doors Final Tier Turrents and Elevators::0
+Follow and Thank all the People listed on the Team Rapture Part of the Title Screen::0
+Thanks For Playing Guys I hope you Enjoyed the Pack our Team on Team Rapture worked very hard to make this a fun and memorable experience thanks so very much for the support::1
