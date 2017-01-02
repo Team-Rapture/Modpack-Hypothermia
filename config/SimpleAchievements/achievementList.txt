@@ -7,6 +7,7 @@ This is the part where you freeze and build shelter and freeze and make a farm a
 Grow Your First Tree::0
 Craft A Crook::0
 Obtain A Silk Worm::0
+Infest a Tree with Silk Worms(Use one on the leaves)::0
 Make A Barrel and Sieve with String Mesh::0
 Sieve Snow::0
 Make a CampFire and Light it with Sticks::0
@@ -43,7 +44,6 @@ Create a Tool Forge::0
 Make an Advanced Tool::0
 Create an Advanced Weapon::0
 Create an Advanced Ranged Weapon::0
-::1
 ::1
 TECH ERA::1
 Welcome to the Tech Era, where you will craft the machines and eventually Become a Machine Yourself (Cyborg Anyone?)::1
@@ -150,7 +150,7 @@ Craft the Runic Tablet::0
 Make a Woof Knife(Bark Knife)::0
 Create a Pestle and Mortar::0
 Make a Petal Dust and Imbue it to a Stick::0
-Create a your First Spell::0
+Create your First Spell Staff::0
 Create a Living Tool::0
 Use a Ritual::0
 Create a Growth Standing Stone::0
@@ -191,6 +191,20 @@ Visit the Moo Moo Dimension::0
 Visit the Deep Dark::0
 Create a set of Dimensional Transceivers::0
 Setup an Interdimensional RS System::0
+=== Motor Cyclist ===::1
+Setup an Automatic Fisher::0
+Make throwable Water::0
+Throw Torches onto the Wall::0
+Mount and Ride a Horse/Donkey with Stirrups::0
+Throw Lightning Like Zeus (Ender Lightning)::0
+Put out a Fire with a water Extinguisher::0
+Walk 200 Blocks on Water using Water Walking Potions::0
+Ride a Boat at Mach Speed (using the Sailor Charm)::0
+Max Increase Your Inventory::0
+Make your dream Horse/Donkey/Mule (using Special Carrots)::0
+Leap into the Void in the End and Survive (Void Charm)::0
+Drop an EnderBomb VI onto the End::0
+Grab all the Goodies using Magic Beans::0
 === The Misc Stuff ===::0
 Create every Dish in Pams(hint: market)::0
 Collect Every Single Relic Drop from the Gaia 2.0::0
