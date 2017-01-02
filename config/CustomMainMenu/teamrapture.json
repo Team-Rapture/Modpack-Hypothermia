@@ -1,5 +1,5 @@
 /*Please note styling like this is only for leaving notes and making things easier to find.
-        sincerely Battery3996
+        sincerely demongirl143
         `editing done in Visual Studio Code`*/
 {
     /* Main image of the pack*/
@@ -54,8 +54,8 @@
             }
         },
 
-        "Battery3996": {
-            "text": "Battery3996",
+        "demongirl143": {
+            "text": "Demongirl143",
             "normalTextColor": 6081343,
             "hoverTextColor": 41704,
             "texture": "modpack:Buttons/Long_Button.png",
@@ -68,7 +68,25 @@
             "alignment": "center",
             "action": {
                 "type": "openLink",
-                "link": "https://www.twitch.tv/battery3996"
+                "link": "https://www.twitch.tv/demongirl143"
+            }
+        },
+
+        "Battery3996": {
+            "text": "Battery3996",
+            "normalTextColor": 6081343,
+            "hoverTextColor": 41704,
+            "texture": "modpack:Buttons/Long_Button.png",
+            "posX": -80,
+            "posY": 21,
+            "width": 156,
+            "height": 20,
+            imageWidth: 312,
+            imageHeight: 40,
+            "alignment": "center",
+            "action": {
+                "type": "openLink",
+                "link": "https://www.twitch.tv/Battery3996"
             }
         },
 
@@ -78,7 +96,7 @@
             "hoverTextColor": 41704,
             "texture": "modpack:Buttons/Long_Button.png",
             "posX": -80,
-            "posY": 21,
+            "posY": 42,
             "width": 156,
             "height": 20,
             imageWidth: 312,
@@ -96,7 +114,7 @@
             "hoverTextColor": 41704,
             "texture": "modpack:Buttons/Long_Button.png",
             "posX": -80,
-            "posY": 42,
+            "posY": 63,
             "width": 156,
             "height": 20,
             imageWidth: 312,
@@ -114,7 +132,7 @@
             "hoverTextColor": 41704,
             "texture": "modpack:Buttons/Long_Button.png",
             "posX": -80,
-            "posY": 63,
+            "posY": 84,
             "width": 156,
             "height": 20,
             imageWidth: 312,
@@ -126,13 +144,31 @@
             }
         },
 
+        "EPIIC_THUNDERCAT": {
+            "text": "EPIIC_THUNDERCAT",
+            "normalTextColor": 6081343,
+            "hoverTextColor": 41704,
+            "texture": "modpack:Buttons/Long_Button.png",
+            "posX": -80,
+            "posY": 105,
+            "width": 156,
+            "height": 20,
+            imageWidth: 312,
+            imageHeight: 40,
+            "alignment": "center",
+            "action": {
+                "type": "openLink",
+                "link": "https://mods.curse.com/members/EPIIC_THUNDERCAT/projects"
+            }
+        },
+
         "Growlith1223": {
             "text": "Growlith1223",
             "normalTextColor": 6081343,
             "hoverTextColor": 41704,
             "texture": "modpack:Buttons/Long_Button.png",
             "posX": -80,
-            "posY": 84,
+            "posY": 126,
             "width": 156,
             "height": 20,
             imageWidth: 312,

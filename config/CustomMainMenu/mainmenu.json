@@ -54,13 +54,31 @@
             }
         },
 
+        "Team Rapture": {
+            "text": "Team Rapture",
+            "normalTextColor": 6081343,
+            "hoverTextColor": 41704,
+            "texture": "modpack:Buttons/Long_Button.png",
+            "posX": -80,
+            "posY": 0,
+            "width": 156,
+            "height": 20,
+            imageWidth: 312,
+            imageHeight: 40,
+            "alignment": "center",
+            "action": {
+                "type": "openGui",
+                "gui": "custom.teamrapture"
+            }
+        },
+
         "mods": {
             "text": "Mods",
             "normalTextColor": 6081343,
             "hoverTextColor": 41704,
             "texture": "modpack:Buttons/Long_Button.png",
             "posX": -80,
-            "posY": 0,
+            "posY": 21,
             "width": 156,
             "height": 20,
             imageWidth: 312,
@@ -78,7 +96,7 @@
             "hoverTextColor": 41704,
             "texture": "modpack:Buttons/Long_Button.png",
             "posX": -80,
-            "posY": 21,
+            "posY": 42,
             "width": 156,
             "height": 20,
             imageWidth: 312,
@@ -105,25 +123,6 @@
             "action": {
                 "type": "quit"
             }
-        },
-
-        "Team Rapture": {
-            "text": "Team Rapture",
-            "normalTextColor": 6081343,
-            "hoverTextColor": 41704,
-            "texture": "modpack:Buttons/Long_Button.png",
-            "posX": -80,
-            "posY": 42,
-            "width": 156,
-            "height": 20,
-            imageWidth: 312,
-            imageHeight: 40,
-            "alignment": "center",
-            "action": {
-                "type": "openGui",
-                "gui": "custom.teamrapture"
-            }
-
         },
 
         "language": {
