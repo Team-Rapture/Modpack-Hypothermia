@@ -186,6 +186,27 @@
             }
         },
 
+        //MMD button
+
+        "mmd": {
+            "text": "",
+            "normalTextColor": 6081343,
+            "hoverTextColor": 41704,
+            "tooltip": "Minecraft Mod Development",
+            "texture": "modpack:Buttons/mmd.png",
+            "posX": -60,
+            "posY": -23,
+            "width": 57,
+            "height": 20,
+            imageWidth: 858,
+            imageHeight: 300,
+            "alignment": "bottom_right",
+            "action": {
+                "type": "openLink",
+                "link": "http://mcmoddev.com/"
+            }
+        },
+
         /* refresh Not really need but wont work unless its there. Image is a 1x1 pixel image. If you need to refresh the mainmenu do ` ctrl+r `*/
 
         "refresh": {
@@ -206,8 +227,8 @@
     "texts": {
         "Author": {
             "text": "Modpack by: Team Rapture",
-            "posX": -90,
-            "posY": -13,
+            "posX": -140,
+            "posY": -10,
             "fontSize": .6,
             "color": -1,
             "hoverColor": -1,
