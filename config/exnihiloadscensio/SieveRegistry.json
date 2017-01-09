@@ -486,6 +486,14 @@
       "chance": 0.35,
       "meshLevel": 2
     },
+	{
+      "drop": {
+        "name": "actuallyadditions:itemFlaxSeed",
+        "meta": 0
+      },
+      "chance": 0.35,
+      "meshLevel": 2
+    },
      {
       "drop": {
         "name": "botania:grassSeeds",

@@ -16,7 +16,11 @@ val oreTin = <ore:oreTin>;
 val oreLead = <ore:oreLead>;
 val oreArdite = <ore:oreArdite>;
 val oreCobalt = <ore:oreCobalt>;
-
+val oreWater = <ore:listAllwater>;
+val Lava = <ore:listAllLava>;
+val ceramicBucket = <ceramics:clay_bucket>;
+val lavaCbucket = ceramicBucket.withTag({fluids:{FluidName:"lava",Amount:1000}});
+val waterCbucket = ceramicBucket.withTag({fluids:{FluidName:"water",Amount:1000}});
 
 // ================================================================================
 //#OREDCIT CREATION
@@ -27,14 +31,20 @@ oreTin.add(<exnihiloadscensio:itemOreTin:1>);
 oreLead.add(<exnihiloadscensio:itemOreLead:1>);
 oreArdite.add(<exnihiloadscensio:itemOreArdite:1>);
 oreCobalt.add(<exnihiloadscensio:itemOreCobalt:1>);
+oreWater.add(waterCbucket);
+Lava.add(<minecraft:lava_bucket>);
+Lava.add(lavaCbucket);
+
+
 
 
 // ================================================================================
 //#MARKER REMOVE
-
+recipes.remove(<tp:cobblegen_block>);
+recipes.remove(<harvestcraft:freshwaterItem>);
+recipes.remove(<arsmagica2:mana_martini>);
 // ================================================================================
 //#MARKER REMOVE SHAPELESS
-
 // ================================================================================
 //#MARKER REMOVE SHAPED
 recipes.removeShaped(<extrautils2:Teleporter:1>, [[<ore:compressed1xCobblestone>, <ore:compressed1xCobblestone>, <ore:compressed1xCobblestone>], [<ore:compressed1xCobblestone>, null, <ore:compressed1xCobblestone>], [<ore:compressed1xCobblestone>, <ore:compressed1xCobblestone>, <ore:compressed1xCobblestone>]]);
@@ -49,6 +59,7 @@ recipes.removeShaped(<environmentaltech:hardened_stone>, [[<minecraft:stone>, <o
 recipes.addShapeless(<minecraft:clay_ball>, [<exnihiloadscensio:itemPebble>, <minecraft:potion>, <ore:dustWood>]);
 recipes.addShapeless(<minecraft:clay_ball>, [<exnihiloadscensio:itemPebble>, <minecraft:potion>, <ore:dustWood>]);
 recipes.addShapeless(<extrautils2:Ingredients:11>, [<ore:netherStar>, <ore:dropofevil>, <ore:compressed5xCobblestone>]);
+recipes.addShapeless(<harvestcraft:freshwaterItem> , [oreWater]);
 
 // ================================================================================
 //#MARKER ADD SHAPED
@@ -58,4 +69,10 @@ recipes.addShaped(<minecraft:ender_pearl>, [[<extrautils2:EnderShard>, <extrauti
 recipes.addShaped(<environmentaltech:hardened_stone> * 8, [[<minecraft:stone:5>, <minecraft:stone:5>, <minecraft:stone:5>], [<minecraft:stone:5>, <ore:listAllwater>, <minecraft:stone:5>], [<minecraft:stone:5>, <minecraft:stone:5>, <minecraft:stone:5>]]);
 recipes.addShaped(<environmentaltech:basalt> * 8, [[<ore:blockCoal>, <ore:blockCoal>, <minecraft:coal_block>], [<ore:blockCoal>, <minecraft:lava_bucket>, <ore:blockCoal>], [<ore:blockCoal>, <ore:blockCoal>, <ore:blockCoal>]]);
 recipes.addShaped(<environmentaltech:alabaster> * 8, [[<minecraft:stone:3>, <minecraft:stone:3>, <minecraft:stone:3>], [<minecraft:stone:3>, <ore:listAllwater>, <minecraft:stone:3>], [<minecraft:stone:3>, <minecraft:stone:3>, <minecraft:stone:3>]]);
+recipes.addShaped(<tp:cobblegen_block> , [[<minecraft:cobblestone> ,<minecraft:cobblestone>, <minecraft:cobblestone>],
+[<ore:listAllwater> , <minecraft:glass>, Lava],
+[<minecraft:cobblestone> , <minecraft:cobblestone> , <minecraft:cobblestone>]]);
+
+
+
 
