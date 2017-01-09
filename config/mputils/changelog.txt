@@ -1,0 +1,27 @@
+§5==================================================================
+                                  §b1.3 Changelog (Alpha Test)
+§eUpdated Fixes:§r
+§2+ Updated Cobble Gen Recipe (make it Ore Dict with all Lava and Water)
+§2+ Added Flax Seed to Drops
+§4- Removed Mana Martini
+§2+ Tweaked Config 
+§2+ Fixed Ars Magica HUD BUG
+§2+ Version Control (1.3)
+§2+ Added Soul Sand Transfom Recipe
+§2+ Added MMD Logo (link to MMD)
+
+§eAdded Mods:§r
+§2+ LLOverlay
+§2+ Reborn Storage
+§2+ NEI
+§2+ Chance Cubes
+ 
+
+§eUpdated Mods:§r
+§2• Refined Storage
+§2• TMG
+§2• Cyclic
+§2• Ex Compressum
+§5==================================================================
+
+
