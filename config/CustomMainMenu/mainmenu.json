@@ -91,7 +91,7 @@
         },
 
         "options": {
-            "text": " Options",
+            "text": "Options",
             "normalTextColor": 6081343,
             "hoverTextColor": 41704,
             "texture": "modpack:Buttons/Long_Button.png",

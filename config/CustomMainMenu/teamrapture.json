@@ -126,8 +126,8 @@
             }
         },
 
-        "Lothrazor": {
-            "text": "Lothrazor",
+        "Lothrazar": {
+            "text": "Lothrazar",
             "normalTextColor": 6081343,
             "hoverTextColor": 41704,
             "texture": "modpack:Buttons/Long_Button.png",
