@@ -26,6 +26,6 @@ mods.tconstruct.Casting.addTableRecipe(<arsmagica2:tarma_root> , <liquid:liquid_
 recipes.addShapeless(spawnWaterGuardian , [<arsmagica2:redstone_inlay> , <minecraft:boat> , <ore:listAllwater>]);
 
  
- recipes.addShapeless(spawnDryad , [<arsmagica2:infinity_orb , <minecraft:sapling> , <minecraft:egg>]);
- recipes.addShapeless(spawnWinterGuardian , [<arsmagica2:infinity_orb:2> , arsmagica2:block:2, <minecraft:pumpkin> , <arsmagica2:gold_inlay>]);
+ recipes.addShapeless(spawnDryad , [<arsmagica2:infinity_orb> , <minecraft:sapling> , <minecraft:egg>]);
+ recipes.addShapeless(spawnWinterGuardian , [<arsmagica2:infinity_orb:2> , <arsmagica2:block:2>, <minecraft:pumpkin> , <arsmagica2:gold_inlay>]);
  
