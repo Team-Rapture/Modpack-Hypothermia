@@ -7,6 +7,8 @@ val spawnWaterGuardian = spawnEgg.withTag({EntityTag:{id:"arsmagica2.WaterGuardi
 val spawnEarthGuardian = spawnEgg.withTag({EntityTag:{id:"arsmagica2.EarthGuardian"}});
 val spawnDryad = spawnEgg.withTag({EntityTag:{id:"arsmagica2.Dryad"}});
 val spawnWinterGuardian = spawnEgg.withTag({EntityTag:{id:"arsmagica2.WinterGuardian"}});
+val specialFlower = <botania:specialFlower>;
+val pureDaisy = specialFlower.withTag({type:"puredaisy"});
 
 //Ars Magica Additons
 mods.tconstruct.Smeltery.addMelting(<liquid:liquid_essence> * 1000, <arsmagica2:block>, 1000, <tconstruct:slime:2>);
@@ -17,7 +19,7 @@ mods.tconstruct.Casting.addTableRecipe(<arsmagica2:witchwood_sapling> , <liquid:
 mods.tconstruct.Casting.addTableRecipe(<arsmagica2:desert_nova> , <liquid:liquid_essence> * 144, <minecraft:cactus>, <minecraft:cactus>);
 mods.tconstruct.Casting.addTableRecipe(<arsmagica2:cerublossom> , <liquid:liquid_essence> * 144, <minecraft:red_flower:1>, <minecraft:red_flower:1>);
 mods.tconstruct.Casting.addTableRecipe(<arsmagica2:wakebloom> , <liquid:liquid_essence> * 144, <minecraft:waterlily>, <minecraft:waterlily>);
-mods.tconstruct.Casting.addTableRecipe(<arsmagica2:aum> , <liquid:liquid_essence> * 144, <botania:specialFlower>, <botania:specialFlower>);
+mods.tconstruct.Casting.addTableRecipe(<arsmagica2:aum> , <liquid:liquid_essence> * 144, pureDaisy , pureDaisy);
 mods.tconstruct.Casting.addTableRecipe(<arsmagica2:tarma_root> , <liquid:liquid_essence> * 144, <roots:oldRoot>, <roots:oldRoot>);
 
 //Ars Magica Summoning Boss
