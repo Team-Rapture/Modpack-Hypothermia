@@ -97,8 +97,20 @@ Get a Solderer::0
 Setup an RS System::0
 Upgrade your Grid into a Crafting Grid::0
 Fill a Disk Drive with 64K Storage Disk::0
+=== Secret Code?! ===::1
+Make your First Raw Carbon::0
+Create A Dank Null::0
+Create a Set of Carbon Armor::0
+Upgrade the Armor to your Hearts Desire::0
+Make an OP Crossbow::0
+Make a Carbon Shield::0
+Befriend an Enderman by Using a Frienderpearl::0
 ::1
-::1
+=== Get a TAN Expansion ===::1
+Install Heating Unit::0
+Make a Temperature Regulator::0
+Create and Equipt a Personal Temperature Regulator::0
+Kick Thirst and Get Yourself a Thirst Quencher::0
 ::1
 === UnFinished Business ===::1
 Go to the Nether::0
