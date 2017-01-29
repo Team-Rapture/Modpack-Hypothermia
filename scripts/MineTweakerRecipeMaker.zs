@@ -47,7 +47,7 @@ recipes.remove(<arsmagica2:mana_martini>);
 //#MARKER REMOVE SHAPELESS
 // ================================================================================
 //#MARKER REMOVE SHAPED
-recipes.removeShaped(<extrautils2:Teleporter:1>, [[<ore:compressed1xCobblestone>, <ore:compressed1xCobblestone>, <ore:compressed1xCobblestone>], [<ore:compressed1xCobblestone>, null, <ore:compressed1xCobblestone>], [<ore:compressed1xCobblestone>, <ore:compressed1xCobblestone>, <ore:compressed1xCobblestone>]]);
+recipes.removeShaped(<extrautils2:teleporter:1>, [[<ore:compressed1xCobblestone>, <ore:compressed1xCobblestone>, <ore:compressed1xCobblestone>], [<ore:compressed1xCobblestone>, null, <ore:compressed1xCobblestone>], [<ore:compressed1xCobblestone>, <ore:compressed1xCobblestone>, <ore:compressed1xCobblestone>]]);
 recipes.removeShaped(<environmentaltech:hardened_stone>, [[<minecraft:stone>, <ore:cobblestone>, <ore:stone>], [<minecraft:cobblestone>, <ore:stone>, <ore:cobblestone>], [<ore:stone>, <ore:cobblestone>, <ore:stone>]]);
 
 // ================================================================================
@@ -58,15 +58,15 @@ recipes.removeShaped(<environmentaltech:hardened_stone>, [[<minecraft:stone>, <o
 //#MARKER ADD SHAPELESS
 recipes.addShapeless(<minecraft:clay_ball>, [<exnihiloadscensio:itemPebble>, <minecraft:potion>, <ore:dustWood>]);
 recipes.addShapeless(<minecraft:clay_ball>, [<exnihiloadscensio:itemPebble>, <minecraft:potion>, <ore:dustWood>]);
-recipes.addShapeless(<extrautils2:Ingredients:11>, [<ore:netherStar>, <ore:dropofevil>, <ore:compressed5xCobblestone>]);
+recipes.addShapeless(<extrautils2:ingredients:11>, [<ore:netherStar>, <ore:dropofevil>, <ore:compressed5xCobblestone>]);
 recipes.addShapeless(<harvestcraft:freshwaterItem> , [oreWater]);
 recipes.addShapeless(<minecraft:dragon_breath>,[<botania:manaResource:15>,<minecraft:ender_eye>]);
 
 // ================================================================================
 //#MARKER ADD SHAPED
 recipes.addShaped(<minecraft:paper>, [[<ore:dustWood>, <ore:dustWood>, <ore:dustWood>], [<ore:dustWood>, <ore:dustWood>, <ore:dustWood>], [<ore:dustWood>, <ore:dustWood>, <excompressum:wood_chippings>]]);
-recipes.addShaped(<extrautils2:Teleporter:1>, [[<ore:compressed6xCobblestone>, <ore:ingotDemonic>, <ore:compressed6xCobblestone>], [<ore:ingotDemonic>, <ore:compressed5xCobblestone>, <ore:ingotDemonic>], [<ore:compressed6xCobblestone>, <ore:ingotDemonic>, <extrautils2:CompressedCobblestone:5>]]);
-recipes.addShaped(<minecraft:ender_pearl>, [[<extrautils2:EnderShard>, <extrautils2:EnderShard>, <extrautils2:EnderShard>], [<extrautils2:EnderShard>, <extrautils2:EnderShard>, <extrautils2:EnderShard>], [<extrautils2:EnderShard>, <extrautils2:EnderShard>, <extrautils2:EnderShard>]]);
+recipes.addShaped(<extrautils2:teleporter:1>, [[<extrautils2:compressedcobblestone:5>, <ore:ingotDemonicMetal>, <extrautils2:compressedcobblestone:5>], [<ore:ingotDemonicMetal>, <extrautils2:compressedcobblestone:4>, <ore:ingotDemonicMetal>], [<extrautils2:compressedcobblestone:5>, <ore:ingotDemonicMetal>, <extrautils2:compressedcobblestone:5>]]);
+recipes.addShaped(<minecraft:ender_pearl>, [[<extrautils2:endershard>, <extrautils2:endershard>, <extrautils2:endershard>], [<extrautils2:endershard>, <extrautils2:endershard>, <extrautils2:endershard>], [<extrautils2:endershard>, <extrautils2:endershard>, <extrautils2:endershard>]]);
 recipes.addShaped(<environmentaltech:hardened_stone> * 8, [[<minecraft:stone:5>, <minecraft:stone:5>, <minecraft:stone:5>], [<minecraft:stone:5>, <ore:listAllwater>, <minecraft:stone:5>], [<minecraft:stone:5>, <minecraft:stone:5>, <minecraft:stone:5>]]);
 recipes.addShaped(<environmentaltech:basalt> * 8, [[<ore:blockCoal>, <ore:blockCoal>, <minecraft:coal_block>], [<ore:blockCoal>, <minecraft:lava_bucket>, <ore:blockCoal>], [<ore:blockCoal>, <ore:blockCoal>, <ore:blockCoal>]]);
 recipes.addShaped(<environmentaltech:alabaster> * 8, [[<minecraft:stone:3>, <minecraft:stone:3>, <minecraft:stone:3>], [<minecraft:stone:3>, <ore:listAllwater>, <minecraft:stone:3>], [<minecraft:stone:3>, <minecraft:stone:3>, <minecraft:stone:3>]]);

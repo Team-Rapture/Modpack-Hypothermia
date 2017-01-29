@@ -1,75 +1,159 @@
 {
-  "discord": {
-    "token": "MjU3MzYwOTAxNDMzMzI3NjE2.Cy5liQ.KcZJBQtr-VyfNdatew4T3uEH5LU",
-    "channel": "200152645636325377", 
-    "ignoreBots": false,
-    "commands": {
-      "prefix": "!",
-      "online": {
-        "enabled": true,
-        "roles": [],
-        "aliases": []
-      },
-      "tps": {
-        "enabled": true,
-        "roles": [],
-        "aliases": [],
-        "colored": false
-      },
-      "unstuck": {
-        "enabled": false,
-        "roles": [
-          "AdminRoleHere"
+  "discord":{
+    "token":"MjcxMzE0MTkwNDg3MTI2MDE2.C2Eoig.bS8QpztUwD2cvxteKzSi04okQD4",
+    "channel":"208710234175307786",
+    "ignoreBots":false,
+    "commands":{
+      "prefix":"!",
+      "online":{
+        "enabled":true,
+        "roles":[
+
         ],
-        "aliases": []
+        "aliases":[
+
+        ]
       },
-      "custom": []
+      "tps":{
+        "enabled":true,
+        "roles":[
+
+        ],
+        "aliases":[
+
+        ],
+        "colored":false
+      },
+      "unstuck":{
+        "enabled":true,
+        "roles":[
+          "MMD Admins",
+          "MMD Dev Server Admins"
+          "Hypothermia Server Admin"
+        ],
+        "aliases":[
+
+        ]
+      },
+      "custom":[
+        {
+          "name":"kick",
+          "cmd":"/kick %args%",
+          "roles":[
+            "MMDAdmins",
+            "MMD Dev Server Admins"
+            "Hypothermia Server Admin"
+          ]
+        },
+        {
+          "name":"whitelist",
+          "cmd":"/whitelist %args%",
+          "roles":[
+            "MMD Admins",
+            "MMD Dev Server Admins"
+            "Hypothermia Server Admin"
+          ]
+        },
+        {
+          "name":"w",
+          "cmd":"/whitelist %args%",
+          "roles":[
+            "MMD Admins",
+            "MMD Dev Server Admins"
+            "Hypothermia Server Admin"
+          ]
+        },
+        {
+          "name":"unban",
+          "cmd":"/pardon %args%",
+          "roles":[
+            "MMD Admins",
+            "MMD Dev Server Admins"
+            "Hypothermia Server Admin"
+          ]
+        },
+        {
+          "name":"runcmd",
+          "cmd":"/%args%",
+          "roles":[
+            "MMD Admins",
+            "MMD Dev Server Admins"
+            "Hypothermia Server Admin"
+          ]
+        },
+        {
+          "name":"cmd",
+          "cmd":"/%args%",
+          "roles":[
+            "MMD Admins",
+            "MMD Dev Server Admins"
+            "Hypothermia Server Admin"
+          ]
+        },
+        {
+          "name":"pardon",
+          "cmd":"/pardon %args%",
+          "roles":[
+            "MMD Admins",
+            "MMD Dev Server Admins"
+            "Hypothermia Server Admin"
+          ]
+        },
+        {
+          "name":"ban",
+          "cmd":"/ban %args%",
+          "roles":[
+            "MMD Admins",
+            "MMD Dev Server Admins"
+            "Hypothermia Server Admin"
+          ]
+        }
+      ]
     }
   },
-  "messages": {
-    "discord": {
-      "chat": {
-        "enabled": true,
-        "message": "<__%USER%__> %MESSAGE%",
-        "relaySayCommand": true,
-        "useEmotes": true
+  "messages":{
+    "discord":{
+      "chat":{
+        "enabled":true,
+        "message":"<__%USER%__> %MESSAGE%",
+        "relaySayCommand":true,
+        "useEmotes":true
       },
-      "death": {
-        "enabled": true,
-        "message": "__%USER%__ %MESSAGE%"
+      "death":{
+        "enabled":true,
+        "message":"__%USER%__ %MESSAGE%"
       },
-      "achievement": {
-        "enabled": true,
-        "message": "Congrats to __%USER%__ for earning the achievement **%ACHIEVEMENT%** (%DESCRIPTION%)"
+      "achievement":{
+        "enabled":true,
+        "message":"Congrats to __%USER%__ for earning the achievement **%ACHIEVEMENT%** (%DESCRIPTION%)"
       },
-      "join": {
-        "enabled": true,
-        "message": "__%USER%__ has joined the server!"
+      "join":{
+        "enabled":true,
+        "message":"__%USER%__ has joined the server!"
       },
-      "leave": {
-        "enabled": true,
-        "message": "__%USER%__ logged off the server!"
+      "leave":{
+        "enabled":true,
+        "message":"__%USER%__ left the server!"
       },
-      "startup": {
-        "enabled": false,
-        "message": "**Server started**"
+      "startup":{
+        "enabled":true,
+        "message":"**Server started**"
       },
-      "shutdown": {
-        "enabled": false,
-        "message": "**Server shutdown**"
+      "shutdown":{
+        "enabled":true,
+        "message":"**Server shutdown**"
       }
     },
-    "minecraft": {
-      "chat": {
-        "enabled": true,
-        "message": "<__%USER%__> %MESSAGE%",
-        "maxLength": -1,
-        "usernameColor": "red",
-        "customFormatting": false
+    "minecraft":{
+      "chat":{
+        "enabled":true,
+        "message":"[MMD] <%USER%> %MESSAGE%",
+        "maxLength":-1,
+        "usernameColor":"red"
       }
     }
   },
-  "experimental": {
-    "fakePlayers": false
+  "experimental":{
+    "fakePlayers":false
   }
 }
