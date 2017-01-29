@@ -7,7 +7,7 @@
 §2• Chance Cubes 2.3.4.166 > 2.3.4.171
 §2• Chisel and Bits 12.10 > 12.11
 §2• CraftTweaker 3.0.17 > 3.0.20
-§2• Cyclic 1.9.14 > 1.10.0
+§2• Cyclic 1.9.14 > 1.10.1
 §2• Ender Core 0.4.1.64 > 0.4.1.65
 §2• Environmental Tech 0.10.5h > 0.10.5i
 §2• Ex Nihlo Adscensio 0.1.11 > 0.1.12
@@ -30,9 +30,16 @@
 §2• Valkyrie Lib 0.10.5e > 0.10.5f
 §2• Wired 1.5.0 > 1.6.0
 §2• Zero Core 0.0.8.2 > 0.1.0.1
+§2• Better Builders Wands 0.10.2.209 > 0.11.0.215
+§2• Ender IO 3.1.156 > 3.1.161
+§2• JEI 3.14.2.401 > 3.14.3.403
+§2• Tinkers Construct 2.6.1 > 2.6.2
 
 §eAdded Mods:§r
 §2+ Re-Auth 3.4.1
+§2+ Open Computers 1.6.1.6
+§2+ Ender Storage 2.2.0.96
+
 
 §eRemoved Mods:§r
 §4- IC2
