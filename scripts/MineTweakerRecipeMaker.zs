@@ -60,6 +60,7 @@ recipes.addShapeless(<minecraft:clay_ball>, [<exnihiloadscensio:itemPebble>, <mi
 recipes.addShapeless(<minecraft:clay_ball>, [<exnihiloadscensio:itemPebble>, <minecraft:potion>, <ore:dustWood>]);
 recipes.addShapeless(<extrautils2:Ingredients:11>, [<ore:netherStar>, <ore:dropofevil>, <ore:compressed5xCobblestone>]);
 recipes.addShapeless(<harvestcraft:freshwaterItem> , [oreWater]);
+recipes.addShapeless(<minecraft:dragon_breath>,[<botania:manaResource:15>,<minecraft:ender_eye>]);
 
 // ================================================================================
 //#MARKER ADD SHAPED
