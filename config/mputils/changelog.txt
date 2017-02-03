@@ -1,58 +1,24 @@
 §5==================================================================
- 						 §b1.4b Changelog (Alpha Test)
-§eUpdated Mods:§r
-§2• Ars Magica 2 1.5.0-15 > 1.5.0-16
-§2• Actually Additions r97 > r98
-§2• Botania 339 > 340
-§2• Chance Cubes 2.3.4.166 > 2.3.4.171
-§2• Chisel and Bits 12.10 > 12.11
-§2• CraftTweaker 3.0.17 > 3.0.20
-§2• Cyclic 1.9.14 > 1.10.1
-§2• Ender Core 0.4.1.64 > 0.4.1.65
-§2• Environmental Tech 0.10.5h > 0.10.5i
-§2• Ex Nihlo Adscensio 0.1.11 > 0.1.12
-§2• Extra Utils 2 1.1.3d > 1.2.0
-§2• Extreme Reactors 0.4.5.23 > 0.4.5.24
-§2• Ichun Util 6.1.0 > 6.1.1
-§2• Journey Map 5.4.3 > 5.4.4
-§2• MCJty Lib 2.3.2 > 2.3.4
-§2• MobGrindingUtils 0.1.8.12 > 0.1.8.14
-§2• OMLib 3.0.0-37 > 3.0.0-45
-§2• Open Modular Turrets 3.0.0-42 > 3.0.0.56
-§2• Ore Excavation 1.2.78> 1.2.84
-§2• P455w0rd Lib 1.0.5 > 1.0.11
-§2• Reborn Core 2.13.0.102 > 2.13.0.114
-§2• Reborn Storage 1.0.0.20 > 1.0.1.27
-§2• Refined Storage 1.2.17 > 1.2.18
-§2• Rf Tools 5.81 > 5.82
-§2• The One Probe 1.3.3 > 1.4.0
-§2• Tomb Many Graves 2.1.15 > 2.1.16
-§2• Valkyrie Lib 0.10.5e > 0.10.5f
-§2• Wired 1.5.0 > 1.6.0
-§2• Zero Core 0.0.8.2 > 0.1.0.1
-§2• Better Builders Wands 0.10.2.209 > 0.11.0.215
-§2• Ender IO 3.1.156 > 3.1.161
-§2• JEI 3.14.2.401 > 3.14.3.403
-§2• Tinkers Construct 2.6.1 > 2.6.2
-
-§eAdded Mods:§r
-§2+ Re-Auth 3.4.1
-§2+ Open Computers 1.6.1.6
-§2+ Ender Storage 2.2.0.96
-
-
-§eRemoved Mods:§r
-§4- IC2
-§4- Compact Solars
-
-
-§eUpdated Configs:§r
-§4- Removed IC2 Achievements
-§4- Updated JEI - NEI Integration
-§4- Removed Unused Configs
+                                  §b1.4c Changelog (Alpha Test)
+§eUpdated Fixes:§r
+§2+ Added Custom Scripts to fix WoodDust and Compressed Materials
 
 §eRecipe Fixes:§r
-§2+ Added recipe for Dragon Breath because of dirty water bug
+§2+ Added all the ExCompressum Blocks under OreDictionary
+
+
+ 
+
+§eUpdated Mods:§r
+§2• Baubles 1.3.8 > 1.3.9
+§2• ExCompressum 2.0.68 > 2.0.77
+§2• McJtyLib 2.3.4 > 2.3.5
+§2• omlib 3.0.0-45 > 3.0.0-49
+§2• openmodularturrents 3.0.0-56 > 3.0.0-64
+§2• refinedstorage 1.2.18 > 1.2.20
+§2• Reliquary 1.3.3.620 > 1.3.3.639
+§2• theoneprobe 1.4.0 > 1.4.1
+
 §5==================================================================
                                   §b1.4 Changelog (Alpha Test)
 §eUpdated Fixes:§r
