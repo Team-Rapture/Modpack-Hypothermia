@@ -45,6 +45,17 @@
     }
   },
   {
+    "fluidName": "witchwater",
+    "input": {
+      "name": "minecraft:sand",
+      "meta": 0
+    },
+    "output": {
+      "name": "minecraft:soul_sand",
+      "meta": 0
+    }
+  },
+  {
     "fluidName": "liquid_essence",
     "input": {
       "name": "extrautils2:CompressedGravel",

@@ -816,6 +816,19 @@
     "compostBlock": {
       "name": "minecraft:dirt",
       "meta": 0
+    },
+    "excompressum:wood_chippings:0": {
+    "value": 0.125,
+    "color": {
+      "r": 0.78039217,
+      "g": 0.47058824,
+      "b": 0.14901961,
+      "a": 1.0
+    },
+    "compostBlock": {
+      "name": "minecraft:dirt",
+      "meta": 0
     }
+  }
   }
 }
