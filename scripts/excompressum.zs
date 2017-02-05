@@ -4,7 +4,7 @@
 val compCobble = <excompressum:compressed_block:1>;
 val compGravel = <excompressum:compressed_block:2>;
 val compSand = <excompressum:compressed_block:3>;
-val  compDirt = <excompressum:compressed_block:4>;
+val compDirt = <excompressum:compressed_block:4>;
 val compNetherrack = <excompressum:compressed_block:6>;
 
 #Simple ExU2 Variables
@@ -40,5 +40,19 @@ recipes.addShapeless(eu2Gravel, [compGravel, compGravel, compGravel, compGravel,
 recipes.addShapeless(eu2Netherrack, [compNetherrack, compNetherrack, compNetherrack, compNetherrack, compNetherrack, compNetherrack, compNetherrack, compNetherrack, compNetherrack]);
 
 recipes.addShapeless(eu2Sand, [compSand, compSand, compSand, compSand, compSand, compSand, compSand, compSand, compSand]);
+
+recipes.addShapeless(<exnihiloadscensio:blockDust> * 9, [<excompressum:compressed_block>]);
+
+recipes.addShaped(<excompressum:auto_hammer>, [[<ore:ingotIron>, <minecraft:heavy_weighted_pressure_plate>, <ore:ingotIron>], [<ore:ingotIron>, <exnihiloadscensio:hammerDiamond>, <ore:ingotIron>], [<ore:ingotIron>, <minecraft:heavy_weighted_pressure_plate>, <ore:ingotIron>]]);
+
+recipes.addShaped(<excompressum:auto_sieve>, [[<ore:blockIron>, <ore:paneGlass>,<ore:blockIron>],
+[<ore:paneGlass>, <exnihiloadscensio:blockSieve>, <ore:paneGlass>],
+[<ore:ingotIron>, <ore:paneGlass>, <ore:ingotIron>]]);
+
+
+recipes.addShaped(<excompressum:compressed_crook>, [[<exnihiloadscensio:crookWood>, <exnihiloadscensio:crookWood>, null],
+[null, <exnihiloadscensio:crookWood>, null],
+[null, <exnihiloadscensio:crookWood>, null]]);
+
 
 

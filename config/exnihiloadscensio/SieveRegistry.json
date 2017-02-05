@@ -504,7 +504,7 @@
     },
     {
       "drop": {
-        "name": "extrautils2:RedOrchid",
+        "name": "extrautils2:redorchid",
         "meta": 0
       },
       "chance": 0.01,
@@ -588,7 +588,7 @@
     },
     {
       "drop": {
-        "name": "extrautils2:Ingredients",
+        "name": "extrautils2:ingredients",
         "meta": 0
       },
       "chance": 0.05,
@@ -596,7 +596,7 @@
     },
     {
       "drop": {
-        "name": "extrautils2:Ingredients",
+        "name": "extrautils2:ingredients",
         "meta": 0
       },
       "chance": 0.08,
@@ -731,7 +731,7 @@
     },
     {
       "drop": {
-        "name": "extrautils2:EnderShard",
+        "name": "extrautils2:endershard",
         "meta": 0
       },
       "chance": 0.2,
@@ -756,7 +756,7 @@
     },
         {
       "drop": {
-        "name": "extrautils2:EnderLilly",
+        "name": "extrautils2:enderlilly",
         "meta": 0
       },
       "chance": 0.01,
