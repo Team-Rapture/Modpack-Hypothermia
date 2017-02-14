@@ -56,8 +56,8 @@ recipes.removeShaped(<environmentaltech:hardened_stone>, [[<minecraft:stone>, <o
 
 // ================================================================================
 //#MARKER ADD SHAPELESS
-recipes.addShapeless(<minecraft:clay_ball>, [<exnihiloadscensio:itemPebble>, <minecraft:potion>, <ore:dustWood>]);
-recipes.addShapeless(<minecraft:clay_ball>, [<exnihiloadscensio:itemPebble>, <minecraft:potion>, <ore:dustWood>]);
+//recipes.addShapeless(<minecraft:clay_ball>, [<exnihiloadscensio:itemPebble>, <minecraft:potion>, <ore:dustWood>]);
+//recipes.addShapeless(<minecraft:clay_ball>, [<exnihiloadscensio:itemPebble>, <minecraft:potion>, <ore:dustWood>]);
 recipes.addShapeless(<extrautils2:ingredients:11>, [<ore:netherStar>, <ore:dropofevil>, <ore:compressed5xCobblestone>]);
 recipes.addShapeless(<harvestcraft:freshwaterItem> , [oreWater]);
 recipes.addShapeless(<minecraft:dragon_breath>,[<botania:manaResource:15>,<minecraft:ender_eye>]);
